@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_onebuttonprompt_flux"
+description = "ComfyUI_OneButtonPrompt_Flux is a Flux prompt generation node. The subject can be "human," "other" or a combination of both. For human, pose settings can be enabled. Additionally, various styles can be applied. Finally, combine it with "Prompt Enhancement" to seamlessly automate image generation, eliminating the hassle of designing prompts."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "mw"
+DisplayName = "ComfyUI_OneButtonPrompt_Flux"
+Icon = "https://github.com/billwuhao/aiart.website/blob/master/hb.png"
