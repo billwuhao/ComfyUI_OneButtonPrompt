@@ -1,4 +1,4 @@
-![One Button Prompt for Flux in ComfyUI](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/example.png)
+![One Button Prompt for Flux in ComfyUI](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/example.png)
 
 ---
 
@@ -19,7 +19,7 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 - If you have modified the custom file during the generation images, please enable **refresh** to update it, without having to restart the software
 - **If the seed is fixed**, it will generate the same fixed prompt.
 
-![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/image-1.png)
+![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image-1.png)
 
 **Example Prompt**:  
 
@@ -35,7 +35,7 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 
 1. Create four files under the folder `ComfyUI\custom_nodes\ComfyUI_OneButtonPrompt_Flux\txtfiles`.
 
-   ![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/image.png)
+   ![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image.png)
 
 2. Input the corresponding content into each file to generate your custom subject, pose, and style.
 
@@ -47,7 +47,7 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 
 If you want to automatically generate images while your computer is running, select `Queue (On Change)` and click Start. Workflow in `workflow_example`.
 
-![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/image-2.png)
+![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image-2.png)
 
 ## Using with Prompt Enhancer
 
@@ -70,7 +70,7 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 - 如果你在运行过程中修改了自定义文件, 请开启 refresh 刷新一下, 而不用重启软件.
 - 如果固定种子，将只生成一次固定的提示
 
-![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/image-1.png)
+![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image-1.png)
 
 (MW:1.2), a beautiful girl, fall asleep, A beautiful lovely alpaca, naive art
 
@@ -84,7 +84,7 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 
 1. 在文件夹 `ComfyUI\custom_nodes\ComfyUI_OneButtonPrompt_Flux\txtfiles` 下面新建 4 个文件
 
-   ![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/image.png)
+   ![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image.png)
 
 2. 分别输入相应的内容, 即可生成自定义的主体, 姿态, 风格
 
@@ -96,7 +96,7 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 
 如果你想挂着电脑自动生图, 选择 `Queue (On Change)` 点击开始即可. 工作流在 `workflow_example` 里.
 
-![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/main/images/image-2.png)
+![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image-2.png)
 
 ## 结合 Prompt Enhancer 一起使用
 
