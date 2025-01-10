@@ -14,7 +14,7 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 
 - human_pose → pose: Any subject can set pose. Please promptly change the file name `human_pose` to `pose`.
 
-- Add 4 `add_` files to record the good prompt words I have found. You can also share your prompt words and submit an RP.
+- Add 4 `add_` files to record the good prompt words I have found. You can also share your prompt words and submit an PR.
 
 - Add `None` to `subject` to make it optional, so that custom subject can be fixed in `lora_trigger_or_prefix` to generate images under the same subject and win prizes.
 
@@ -81,7 +81,7 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 
 - `human_pose` → `pose`：任何主体都可以设置姿势。请立即将文件名 `human_pose` 更改为 `pose`.
 
-- 新增 4 个 `add_` 文件, 用来记录我发现的好的提示词, 你也可以将你的提示词分享, 并提交 RP.
+- 新增 4 个 `add_` 文件, 用来记录我发现的好的提示词, 你也可以将你的提示词分享, 并提交 PR.
 
 - `subject` 新增 `None`, 将 `subject` 变成可选的, 以便在 `lora_trigger_or_prefix` 固定自定义主体, 来生成同一主体下的图片, 以抽大奖.
 
