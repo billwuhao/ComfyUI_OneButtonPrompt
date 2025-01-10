@@ -1,7 +1,8 @@
 txtfiles/humans.txt
 txtfiles/others.txt
-txtfiles/human_poses.txt
+txtfiles/poses.txt
 txtfiles/styles.txt
+txtfiles/test.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

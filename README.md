@@ -8,14 +8,28 @@
 
 This is a node for generating Flux prompts with one click in ComfyUI.
 
+## 📣 Updates
+
+[2025-01-10]⚒️: 
+
+- human_pose → pose: Any subject can set pose. Please promptly change the file name `human_pose` to `pose`.
+
+- Add 4 `add_` files to record the good prompt words I have found. You can also share your prompt words and submit an RP.
+
+- Add `None` to `subject` to make it optional, so that custom subject can be fixed in `lora_trigger_or_prefix` to generate images under the same subject and win prizes.
+
+- To add a testing mode, please put the prompts you need to test into the file `test.txt`(The first time you need to create a new one), and then turn on the testing mode to test each prompt in sequence. **Note**: During testing mode, all options except for the custom `lora_trigger_or_prefix` are invalid. f you are running the test automatically, after all prompts are completed, switch to a random generated image.
+
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-10_12-07-54.png)
+
 ## Usage
 
 - **If "human" is selected**, it will generate only the human-related prompt.
 - **If "other" is selected**, it will generate only the other-related prompt.
 - **If "dual_subject" is selected**, it will include both of the above.
-- **If "human_pose" is enabled**, it will generate a human pose prompt.
+- **If "pose" is enabled**, it will generate a subject pose prompt.
 - **If "style" is enabled**, it will generate a style prompt.
-- **Lora trigger words/prefixes** are optional and can be customized.
+- **lora_trigger_or_prefix** are optional and can be customized.
 - If you have modified the custom file during the generation images, please enable **refresh** to update it, without having to restart the software
 - **If the seed is fixed**, it will generate the same fixed prompt.
 
@@ -27,7 +41,7 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 
 - `(MW:1.2)` is the **Lora trigger word**.
 - `a beautiful girl` is the **human**.
-- `fall asleep` is the **human_pose**.
+- `fall asleep` is the **pose**.
 - `A beautiful lovely alpaca` is the **other**.
 - `naive art` is the **style**.
 
@@ -51,6 +65,8 @@ If you want to automatically generate images while your computer is running, sel
 
 ## Using with Prompt Enhancer
 
+The enhancer of prompt has a poor effect in some cases, completely destroying the style and artistic conception of the prompt. It is recommended to enable it during the lottery
+
 ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhancer
 
 ---
@@ -59,12 +75,26 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 
 这是一个在 comfyui 中一键生成 flux 提示的节点.
 
+## 📣 更新
+
+[2025-01-10]⚒️: 
+
+- `human_pose` → `pose`：任何主体都可以设置姿势。请立即将文件名 `human_pose` 更改为 `pose`.
+
+- 新增 4 个 `add_` 文件, 用来记录我发现的好的提示词, 你也可以将你的提示词分享, 并提交 RP.
+
+- `subject` 新增 `None`, 将 `subject` 变成可选的, 以便在 `lora_trigger_or_prefix` 固定自定义主体, 来生成同一主体下的图片, 以抽大奖.
+
+- 增加测试模式, 请将你需要测试的提示词, 放入文件 `test.txt`(第一次需要新建一个), 然后开启测试模式, 依次进行每条提示词的测试. **注意**: 测试模式时, 除了自定义的 `lora_trigger_or_prefix` 其他所有选项都无效. 如果你是挂机测试, 所有提示测试完后, 转随机生图.
+
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-10_12-07-54.png)
+
 ## 用法
 
 - 主体选择 human，则只生成 human 提示
 - 选择 other，则只生成 other 提示
 - 选择 dual_subject，则包含上述两者
-- 如果开启 human_pose，将生成人物姿态提示
+- 如果开启 pose，将生成主体的姿态提示
 - 如果开启 style，将生成 style 提示
 - lora 触发词/前缀 是可选的，可自定义输入
 - 如果你在运行过程中修改了自定义文件, 请开启 refresh 刷新一下, 而不用重启软件.
@@ -76,7 +106,7 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 
 - `(MW:1.2)`, 是 lora 触发词
 - `a beautiful girl`, 是 human
-- `fall asleep`, 是 human_pose
+- `fall asleep`, 是 pose
 - `A beautiful lovely alpaca`, 是 other
 - `naive art`, 是 style
 
@@ -99,6 +129,8 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 ![alt text](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/image-2.png)
 
 ## 结合 Prompt Enhancer 一起使用
+
+提示词增强在某些情况下效果很差, 完全将提示词的风格, 要表达的意境破坏了, 建议在抽奖时开启.
 
 ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhancer
 

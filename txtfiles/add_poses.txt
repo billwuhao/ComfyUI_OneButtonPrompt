@@ -1,3 +1,5 @@
+----------------------------------initial, Contributed by MW: 最初的, MW 贡献
+
 on horseback
 read a book
 fall asleep
@@ -61,3 +63,5 @@ Leaning forward
 Hugging someone
 Lying on lap (lap pillow position)
 Standing with relaxed posture
+
+------------------------------------------------

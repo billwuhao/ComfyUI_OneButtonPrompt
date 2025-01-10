@@ -5,29 +5,37 @@ def process_txt_file(txtfile: str):
     script_dir = os.path.dirname(os.path.abspath(__file__))  # Script directory
     file_path = os.path.join(script_dir, "./txtfiles/", txtfile)
 
-    if not os.path.exists(file_path):
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+            processed_lines = [line.strip() for line in lines if line.strip()]
+            if processed_lines:
+                return processed_lines
+            else:
+                file_path = os.path.join(script_dir, "./txtfiles/", "example_" + txtfile)
+    else:
         file_path = os.path.join(script_dir, "./txtfiles/", "example_" + txtfile)
 
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-
-    processed_lines = [line.strip() for line in lines if line.strip()]
-    return processed_lines
+        processed_lines = [line.strip() for line in lines if line.strip()]
+        return processed_lines
 
 humans = process_txt_file("humans.txt")
 others = process_txt_file("others.txt")
-human_poses = process_txt_file("human_poses.txt")
+poses = process_txt_file("poses.txt")
 styles = process_txt_file("styles.txt")
-subject = ["human", "other", "dual_subject"]
+test_prompts = process_txt_file("test.txt")
+subject = ["human", "other", "dual_subject", "None"]
 
-def generate_prompt(subject: str, human_pose: bool, style: bool, lora_trigger_or_prefix: str, refresh: bool, seed: int):
+def generate_prompt(subject: str, pose: bool, style: bool, lora_trigger_or_prefix: str, refresh: bool, test: bool, seed: int):
 
     if refresh:
-        global humans, others, human_poses, styles
+        global humans, others, poses, styles
         
         humans = process_txt_file("humans.txt")
         others = process_txt_file("others.txt")
-        human_poses = process_txt_file("human_poses.txt")
+        poses = process_txt_file("poses.txt")
         styles = process_txt_file("styles.txt")
 
     if seed > 0:
@@ -35,22 +43,26 @@ def generate_prompt(subject: str, human_pose: bool, style: bool, lora_trigger_or
 
     prompt_human = random.choice(humans)
     prompt_other = random.choice(others)
-    prompt_human_pose = random.choice(human_poses)
+    prompt_pose = random.choice(poses)
     prompt_style = random.choice(styles)
 
     if subject == "human":
-        prompt_subject = random.choice(humans)
-        if human_pose == True:
-            prompt_subject = prompt_subject + ", " + prompt_human_pose
+        prompt_subject = prompt_human
 
     if subject == "other":
         prompt_subject = prompt_other
 
     if subject == "dual_subject":
-        if human_pose == True:
-            prompt_subject = prompt_human + ", " + prompt_human_pose + ", " + prompt_other
+        prompt_subject = prompt_human + ", " + prompt_other
+
+    if subject == "None":
+        prompt_subject = ""
+
+    if pose == True:
+        if prompt_subject:
+            prompt_subject = prompt_subject + ", " + prompt_pose
         else:
-            prompt_subject = prompt_human + ", " + prompt_other
+            prompt_subject = prompt_pose
 
     if lora_trigger_or_prefix:
         if lora_trigger_or_prefix.strip():
@@ -60,6 +72,12 @@ def generate_prompt(subject: str, human_pose: bool, style: bool, lora_trigger_or
         prompt = lora_trigger_or_prefix + prompt_subject + ", " + prompt_style
     else:
         prompt = lora_trigger_or_prefix + prompt_subject
+    
+    if test:
+        if not test_prompts:
+            prompt = prompt
+        else:
+            prompt = lora_trigger_or_prefix + test_prompts.pop(0)
 
     return prompt
 
@@ -75,18 +93,19 @@ class OneButtonPromptFlux:
                
         return {
             "required": {
-                "subject": (subject, {
-                    "default": "human", "tooltip": "'dual_subject' including both"
-                }),
+                "refresh": ("BOOLEAN", {"default": False}),
                 },
             "optional": {
-                "human_pose": ("BOOLEAN", {"default": False, "tooltip": "Effective when selecting 'human'"}),
-                "style": ("BOOLEAN", {"default": True}),
+                "subject": (subject, {
+                    "default": "human", "tooltip": "'dual_subject' including both. 'None' will be no subject."
+                }),
+                "pose": ("BOOLEAN", {"default": False, "tooltip": "The pose of any subject."}),
+                "style": ("BOOLEAN", {"default": False}),
                 "lora_trigger_or_prefix": ("STRING", {
                     "multiline": False, 
                     "default": "", "tooltip": "Lora trigger words or custom prefix."
                 }),
-                "refresh": ("BOOLEAN", {"default": False}),
+                "test": ("BOOLEAN", {"default": False}),
                 "seed": ("INT", {"default": 0, "min": 0, "max": 0xFFFFFFFFFFFFFFFF}),
             },
         }
@@ -94,13 +113,14 @@ class OneButtonPromptFlux:
     def fluxprompt(
             self, 
             subject: str = "human", 
-            human_pose: bool = False, 
-            style: bool = True,
+            pose: bool = False, 
+            style: bool = False,
             lora_trigger_or_prefix: str = "",
             refresh: bool = False,
+            test: bool = False,
             seed: int = 0):
 
-        return (generate_prompt(subject, human_pose, style, lora_trigger_or_prefix, refresh, seed),)
+        return (generate_prompt(subject, pose, style, lora_trigger_or_prefix, refresh, test, seed),)
 
 
 NODE_CLASS_MAPPINGS = {

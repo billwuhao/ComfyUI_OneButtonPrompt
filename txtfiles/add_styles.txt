@@ -1,0 +1,246 @@
+--------------------------------------------------------initial, Contributed by MW: 最初的, MW 贡献
+
+style of Chinese ink painting
+style of Digital 3D Sculpting
+style of Diorama
+style of Mythpunk
+style of Kinetic Art
+style of Junk Art
+style of 3D Game Shader
+style of 3D Ambient Occlusion
+style of 3D Pre-rendered Graphics
+style of Voxel Art
+style of Arte Povera
+style of Carved Lacquer Art
+style of Wood Intarsia Art
+style of Steel Engraving
+style of Wood Engraving
+style of Carving Art
+style of Relief Art
+style of Digital Art
+style of Vector Art
+style of Acrylic Painting
+style of Charcoal Drawing
+style of Colored Pencil Drawing
+style of Encaustic Painting
+style of Fresco Painting
+style of Gouache
+style of Ink Wash Painting
+style of Matte Painting
+style of Oil Painting
+style of Pastel Drawing
+style of Pencil Drawing
+style of Silverpoint Drawing
+style of Tempera Painting
+style of Velvet Painting
+style of Watercolor Painting
+style of Marouflage Painting
+style of Mural Art
+style of Stippling
+style of Hudson River School Painting
+style of Naturalism Painting
+style of Allegorical
+style of Romanticism
+style of Ashcan School
+style of Barbizon School Painting
+style of Chalk Drawing
+style of Chinese Painting
+style of Crayon Drawing
+style of Dutch Golden Age
+style of French Renaissance
+style of German Renaissance
+style of High Renaissance
+style of Impressionism
+style of Ink Drawing
+style of Mannerism
+style of Neo-Impressionism
+style of Orientalism
+style of Panel Painting
+style of Pointillism
+style of Post-Impressionism
+style of Pre-Raphaelites
+style of Realism Painting
+style of Social Realism Painting
+style of Still Life
+style of Synthetism
+style of Tonalism
+style of Mixed Media Painting
+style of Amsterdam Impressionism
+style of Landscape Painting
+style of Fantastic Realism
+style of Magic Realism
+style of Flemish Baroque
+style of Rococo
+style of Figurative Art
+style of Neoclassicism Art
+style of Nihonga Painting
+style of Fantasy Art
+style of Adventure Pulp Poster
+style of Flat Color Picture
+style of Graphic Novel
+style of Propaganda Poster
+style of Storybook Illustration
+style of Comic Strip
+style of Caravaggisti
+style of Edo Period Painting
+style of Hyperrealism Art
+style of Photorealism
+style of Anime
+style of Manga
+style of Infrared Art
+style of Mexican Muralism
+style of HD Photo
+style of National Geographic Photo
+style of Stage Photo
+style of Film Still
+style of Autochrome
+style of French New Wave
+style of Redscale
+style of Pixel Art
+style of Needlepoint Art
+style of Mosaic Art
+style of Stained Glass Art
+style of Cross-Stitch Art
+style of Embroidery Art
+style of Intarsia Art
+style of Fiber Art
+style of Indienne Textile Art
+style of Tapestry Art
+style of Chinoiserie Art
+style of Naive Art
+style of X-ray Photography
+style of Line Art
+style of Isometric Art
+style of Low Poly
+style of Art Brut
+style of Chillwave Art
+style of Graffiti Art
+style of Maximalism
+style of Phantasm Art
+style of Illusionism Art
+style of Aestheticism Art
+style of Avant-Garde Art
+style of Fractalism
+style of LSD Art
+style of Psychedelic Punk
+style of Chinese Paper Cutting
+style of Kirie Paper Art
+style of Massurrealism
+style of Surrealism
+style of Botanical Illustration
+style of Marine Art
+style of Spray Paint Art
+style of Primitivism Painting
+style of Icon Religious Painting
+style of Master Print Art
+style of Flower Bouquet Art
+style of Sōsaku-Hanga
+style of Clockpunk
+style of Dieselpunk
+style of Mechanical Punk
+style of Steampunk
+style of Steelpunk
+style of Baroque
+style of Brutalism Art
+style of Modernism Art
+style of Romanesque
+style of Trompe-l'œil Painting
+style of Afrofuturism
+style of Cyberpunk
+style of Futuresynth Art
+style of Post-Cyberpunk
+style of Sci-Fi
+style of Solarpunk
+style of Tech Noir
+style of Synthwave Art
+style of Cartoon
+style of Chibi
+style of Children’s Illustration
+style of Lowbrow Art
+style of Fractal Manifold
+style of Solarised Art
+style of Spatialism Art
+style of Vaporwave
+style of Computer-Generated Hologram
+style of Caricature
+style of Character Design
+style of Peking Opera Art
+style of Pin-Up
+style of Pop Art
+style of Thangka Art
+style of Fauvism
+style of Gothic
+style of Collage
+style of Silhouette
+style of Geometric Art
+style of Illuminated Manuscript
+style of Indian Ink Painting
+style of Minimalism
+style of Op Art
+style of Screenprint Art
+style of Anaglyph Effect Art
+style of Japonisme Art
+style of Arabesque Patterns Art
+style of Acidwave Art
+style of Cyberart
+style of Optical Illusion Art
+style of Y2K Aesthetic Art
+style of Manichaean Art
+style of Shin-Hanga Painting
+style of Ukiyo-e Painting
+style of 2D Game
+style of Retrowave Art
+style of Aquatint Art
+style of Etching Art
+style of Linocut Art
+style of Woodblock
+style of Popular Print Art
+style of Lithography Painting
+style of Engraving
+style of Concept Art
+style of Dark Academia Art
+style of Fashion Art
+style of Feminist Art
+style of Melanin Art
+style of Movie Poster
+style of Nirvana Art
+style of Street Art
+style of Thunderpunk
+style of Kawaii
+style of Pop Surrealism
+style of Cybernetic Art
+style of Daydream Punk Art
+style of Acidpunk Art
+style of Aetherpunk Art
+style of Funk Art
+style of Decopunk Art
+style of Kitsch
+style of Art Nouveau
+style of Art Deco
+style of Arts and Crafts Movement
+style of Eastern Art
+style of Electronic Art
+style of Modern Anime Still
+style of DMT Art
+style of Line-Drawing
+style of Ambient Occlusion Art
+style of Cel Shading Art
+style of Double Exposure
+style of Intricate Pattern Details Art
+style of Leave Negative Space
+style of 3D Printed Art
+style of Sculpture Art
+style of Statue Art
+style of By Famous Artists
+style of Expressionism
+style of Figurativism
+style of German Expressionism
+style of Glitch Art
+style of Cyanotype
+style of Futurism
+style of Abstract
+style of Cubism
+style of De Stijl
+
+---------------------------------------------------------
+
