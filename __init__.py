@@ -8,7 +8,7 @@ def process_txt_file(txtfile: str):
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
-            processed_lines = [line.strip() for line in lines if line.strip()]
+            processed_lines = [line.strip() for line in lines if line.strip() and not line.lstrip().startswith("//")]
             if processed_lines:
                 return processed_lines
             else:
@@ -18,7 +18,7 @@ def process_txt_file(txtfile: str):
 
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-        processed_lines = [line.strip() for line in lines if line.strip()]
+        processed_lines = [line.strip() for line in lines if line.strip() and not line.lstrip().startswith("//")]
         return processed_lines
 
 humans = process_txt_file("humans.txt")
