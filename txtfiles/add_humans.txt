@@ -1,111 +1,409 @@
---------------------------------------------------man, Contributed by MW: 男人提示词, MW 贡献
+// male, 男性
 
-A handsome soldier in uniform
-A stern policeman on duty
+A handsome soldier
+a handsome soldier, standing at attention amidst the ranks of a disciplined legion, clad in polished armor and bearing a standard of valor, resolutely martial // 一位英俊的士兵，在纪律严明的军团队伍中，笔直地站立，身着锃亮的盔甲，擎着英勇的军旗，坚定而威武
+a handsome soldier, framed by the sun-drenched battlements and fluttering banners of a fortified citadel, radiating stoic duty and unwavering patriotism // 一位英俊的士兵，以阳光普照的城垛和飘扬的旗帜为框架，散发出坚忍的责任感和坚定的爱国主义
+
 A fatherly man with a gentle smile
+a fatherly man with a gentle smile, sitting comfortably by a crackling fireplace amidst cozy armchairs and warm lamplight, radiating paternal comfort // 一位慈父般的男人，带着温柔的微笑，舒适地坐在噼啪作响的壁炉旁，置身于舒适的扶手椅和温暖的灯光之中，散发出慈父般的舒适感
+a fatherly man with a gentle smile, framed by the laughter of children and the aroma of home-baked goods in a welcoming family kitchen, radiating nurturing warmth and heartfelt affection // 一位慈父般的男人，带着温柔的微笑，以孩子们的笑声和温馨家庭厨房自制烘焙食品的香气为框架，散发出滋养的温暖和真挚的爱意
+
 A strong masculine man
+a strong masculine man, standing powerfully amidst a rugged mountain landscape, with chiseled features and a weathered gaze towards the horizon, inherently virile // 一位强壮阳刚的男人，强有力地站立在崎岖的山 landscape 之中，五官轮廓分明，目光饱经风霜，注视着地平线，天生阳刚
+a strong masculine man, framed by the raw textures of granite cliffs and windswept pines of a wilderness domain, radiating primal strength and unyielding fortitude // 一位强壮阳刚的男人，以荒野领域花岗岩悬崖和饱经风霜的松树的原始纹理为框架，散发出原始的力量和坚韧不拔的毅力
+
 A chivalrous man
+a chivalrous man, kneeling gallantly before a damsel in distress amidst a rose garden and moonlit gazebo, clad in noble attire and extending a helping hand, courtly and honorable // 一位侠义的男人，在玫瑰园和月光下的凉亭中，勇敢地跪在一位身处困境的少女面前，身着高贵的服装，伸出援助之手，彬彬有礼，光明磊落
+a chivalrous man, framed by the elegant arches and blossoming vines of a romantic villa courtyard, radiating noble courtesy and gallant devotion // 一位侠义的男人，以浪漫别墅庭院优雅的拱门和盛开的藤蔓为框架，散发出高贵的礼貌和英勇的奉献精神
+
 A dapper well-dressed man
-A handsome man with a confident posture
+a dapper well-dressed man, standing confidently amidst the polished mahogany and leather armchairs of a gentleman's club, in a tailored suit and a silk tie, impeccably refined // 一位衣着考究、衣冠楚楚的男人，自信地站在绅士俱乐部的抛光红木和皮革扶手椅之间，身穿定制西装，系着丝绸领带，完美精致
+a dapper well-dressed man, framed by the art deco architecture and bustling city streets of a sophisticated metropolis, radiating urban elegance and sartorial flair // 一位衣着考究、衣冠楚楚的男人，以装饰艺术风格的建筑和繁华的都市街道为框架，散发出都市的优雅和着装的才华
+
 A muscular macho man
-A brave grenadier in military uniform
+a muscular macho man, flexing his biceps amidst a gritty urban gym, with sweat glistening and veins bulging, exuding raw physicality // 一位肌肉发达的男子汉，在简陋的都市健身房里，炫耀着他的二头肌，汗水闪闪发光，血管凸起，散发出原始的体魄
+a muscular macho man, framed by the heavy weights and iron chains of a hardcore training facility, radiating brute power and aggressive masculinity // 一位肌肉发达的男子汉，以硬核训练设施的重型器械和铁链为框架，散发出野蛮的力量和具有侵略性的男子气概
+
 A quintessential technocrat
-A short dwarfish warrior in armor
+a quintessential technocrat, standing amidst holographic displays and futuristic interfaces in a sleek command center, in a minimalist suit and data implants, technologically advanced // 一位典型的技术专家，站在光滑的指挥中心的全息显示屏和未来主义界面之间，身穿极简主义西装，植入数据芯片，技术先进
+a quintessential technocrat, framed by the neon glow and server racks of a cutting-edge technology hub, radiating intellectual dominance and digital prowess // 一位典型的技术专家，以尖端技术中心霓虹灯的光芒和服务器机架为框架，散发出智力上的优势和数字方面的实力
+
 A regal emperor in royal portrait style
-A regal emperor
-A skilled swordsman
-A fierce warrior ready for battle
-A wise white Gandalf-like wizard
+a regal emperor in royal portrait style, seated upon a velvet throne amidst a grand hall, depicted with rich detail and formal composition, classically majestic // 一位皇家肖像风格的威严皇帝，在宏伟的大厅中，端坐在天鹅绒宝座上，以丰富的细节和正式的构图描绘，古典而庄严
+a regal emperor in royal portrait style, framed by the ornate tapestries and gilded frames of a royal art gallery, radiating timeless authority and imperial grandeur // 一位皇家肖像风格的威严皇帝，以皇家美术馆华丽的挂毯和镀金画框为框架，散发出永恒的权威和帝国的宏伟
+
 A  handsome young man in a flowing Hanfu dress
-A man with bull horns exotic and mysterious
+a handsome young man in a flowing hanfu dress, standing gracefully amidst a misty bamboo forest, with silk sleeves flowing and a serene expression, ethereally elegant // 一位身着飘逸汉服的英俊年轻人，优雅地站立在雾气缭绕的竹林中，丝绸袖子飘逸，表情宁静，空灵而优雅
+a handsome young man in a flowing hanfu dress, framed by the delicate blossoms and tranquil streams of a classical chinese garden, radiating refined grace and timeless beauty // 一位身着飘逸汉服的英俊年轻人，以古典中国花园精致的花朵和宁静的溪流为框架，散发出优雅的精致和永恒的美丽
+
 A strong penetrating man with intense eyes
+a strong penetrating man with intense eyes, standing resolutely amidst a storm-swept coastline, with piercing gaze and wind-blown hair, powerfully commanding // 一位目光锐利、目光如炬的坚强男人，坚定地站立在暴风雨侵袭的海岸线上，目光锐利，头发被风吹散，气势磅礴
+a strong penetrating man with intense eyes, framed by the jagged cliffs and crashing waves of a tempestuous seascape, radiating unwavering determination and forceful presence // 一位目光锐利、目光如炬的坚强男人，以狂风暴雨海景锯齿状的悬崖和汹涌的波浪为框架，散发出坚定的决心和强大的气场
+
 A tough guy with a rugged look
+a tough guy with a rugged look, leaning against a brick wall in a dimly lit urban alleyway, with a leather jacket and a cynical smirk, streetwise and hardened // 一位外表粗犷的硬汉，倚靠在昏暗都市小巷的砖墙上，身穿皮夹克，脸上带着愤世嫉俗的冷笑，街头智慧，饱经世故
+a tough guy with a rugged look, framed by the graffiti art and gritty textures of a backstreet underworld, radiating hardened resilience and urban grit // 一位外表粗犷的硬汉，以黑社会后街的涂鸦艺术和粗犷的纹理为框架，散发出坚韧不拔的韧性和都市的坚韧
+
 A scruffy man with a disheveled appearance
+a scruffy man with a disheveled appearance, sitting wearily on a park bench amidst fallen leaves and autumn chill, with an unshaven face and a melancholic gaze, world-weary and forlorn // 一位邋遢的男人，外表凌乱，疲惫地坐在公园的长椅上，置身于落叶和秋天的寒意之中，脸上没有刮胡子，目光忧郁，饱经风霜，孤苦伶仃
+a scruffy man with a disheveled appearance, framed by the bare trees and overcast skies of a desolate autumn park, radiating weary vulnerability and melancholic isolation // 一位邋遢的男人，外表凌乱，以荒凉秋日公园光秃秃的树木和阴沉的天空为框架，散发出疲惫的脆弱和忧郁的孤立
+
 A teenage boy handsome and fresh-faced
+a teenage boy handsome and fresh-faced, standing playfully amidst a sunny beach and crashing waves, with a bright smile and youthful energy, radiantly youthful // 一位英俊、面容清秀的少年，在阳光明媚的海滩和汹涌的海浪中嬉戏，脸上带着灿烂的笑容，充满青春活力，光芒四射，青春洋溢
+a teenage boy handsome and fresh-faced, framed by the golden sands and azure waters of a tropical paradise, radiating youthful exuberance and carefree joy // 一位英俊、面容清秀的少年，以热带天堂金色沙滩和蔚蓝海水为框架，散发出年轻的活力和无忧无虑的快乐
+
 A muscular handsome man with defined features
+a muscular handsome man with defined features, standing confidently in a sunlit studio, with chiseled physique and a self-assured gaze, powerfully sculpted // 一位肌肉发达、五官轮廓分明的英俊男人，自信地站在阳光普照的工作室里，体格健美，目光自信，强壮而健美
+a muscular handsome man with defined features, framed by the soft light and minimalist backdrop of a professional photoshoot, radiating athletic prowess and sculpted masculinity // 一位肌肉发达、五官轮廓分明的英俊男人，以专业摄影棚的柔和光线和极简主义背景为框架，散发出运动能力和健美的男子气概
+
+a playful boy // 一个顽皮的男孩
+a playful boy, running joyfully through a flower-filled meadow amidst butterflies and buzzing bees, with bright eyes and infectious laughter, gleefully innocent // 一个顽皮的男孩，在鲜花盛开的草地上快乐地奔跑，置身于蝴蝶和嗡嗡作响的蜜蜂之中，眼睛明亮，笑声具有感染力，兴高采烈，天真烂漫
+a playful boy, framed by the vibrant colors and sweet scents of a summer garden, radiating youthful delight and carefree abandon // 一个顽皮的男孩，以夏日花园充满活力的色彩和甜美的香味为框架，散发出年轻的快乐和无忧无虑的放纵
+
+a wise elder // 一个智慧的长者
+a wise elder, sitting serenely beneath an ancient tree amidst rustling leaves and dappled sunlight, with a knowing smile and eyes reflecting years of experience, profoundly insightful // 一位智慧的长者，在古树下平静地坐着，置身于沙沙作响的树叶和斑驳的阳光之中，脸上带着会心的微笑，眼神反映着多年的经验，极其有洞察力
+a wise elder, framed by the weathered bark and deep roots of a venerable tree, radiating aged wisdom and seasoned perspective // 一位智慧的长者，以古老树木饱经风霜的树皮和深深扎根的树根为框架，散发出饱经风霜的智慧和成熟的视角
+
+a joyful kid // 一个快乐的小孩
+a joyful kid, laughing gleefully amidst colorful balloons and festive decorations at a lively carnival, with sparkling eyes and boundless enthusiasm, infectiously cheerful // 一个快乐的小孩，在热闹的狂欢节上，在色彩缤纷的气球和节日装饰品中高兴地大笑，眼睛闪闪发光，热情洋溢，极具感染力的快乐
+a joyful kid, framed by the bright lights and whirling rides of a bustling fairground, radiating youthful glee and uncontainable merriment // 一个快乐的小孩，以熙熙攘攘的游乐场明亮的灯光和旋转的游乐设施为框架，散发出年轻的欢乐和无法抑制的快乐
+
+a charming male // 一个迷人的男性
+a charming male, standing confidently in a sophisticated urban cafe, amidst soft jazz music and the aroma of coffee, with a disarming smile and effortless charisma, captivatingly suave // 一位迷人的男性，自信地站在精致的都市咖啡馆里，置身于柔和的爵士乐和咖啡的香气之中，脸上带着令人心动的微笑，魅力四射，极具魅力
+a charming male, framed by the chic decor and intimate ambiance of a trendy bistro, radiating effortless charm and alluring sophistication // 一位迷人的男性，以时尚小酒馆别致的装饰和亲密的氛围为框架，散发出毫不费力的魅力和诱人的成熟
+
+a daring youngster // 一个大胆的年轻人
+a daring youngster, climbing a rocky cliff face amidst crashing waves and sea spray, with determined grit and youthful recklessness, audaciously adventurous // 一位大胆的年轻人，在汹涌的海浪和海浪冲击下，攀登着岩石峭壁，意志坚定，年轻鲁莽，大胆冒险
+a daring youngster, framed by the jagged rocks and boundless ocean of a dramatic coastline, radiating youthful bravado and intrepid spirit // 一位大胆的年轻人，以戏剧性海岸线锯齿状的岩石和无垠的海洋为框架，散发出年轻的虚张声势和无畏的精神
+
+a nimble youth // 一个敏捷的青年
+a nimble youth, leaping gracefully across rooftops amidst a bustling cityscape, with fluid movements and acrobatic skill, athletically agile // 一位敏捷的青年，在熙熙攘攘的都市中，优雅地跳跃在屋顶之间，动作流畅，身手矫健，运动敏捷
+a nimble youth, framed by the urban sprawl and dynamic energy of a vibrant metropolis, radiating youthful dexterity and acrobatic grace // 一位敏捷的青年，以充满活力的都市都市扩张和动态能量为框架，散发出年轻的灵巧和杂技般的优雅
+
+a rugged chap // 一个粗犷的家伙
+a rugged chap, working tirelessly in a sun-drenched field amidst golden wheat and open skies, with calloused hands and honest sweat, genuinely hardworking // 一个粗犷的家伙，在阳光普照的田野中，不知疲倦地工作，置身于金色的麦田和开阔的天空之中，双手长满了老茧，汗水淋漓，真正勤劳
+a rugged chap, framed by the rustic textures and honest labor of a rural farm, radiating earthy strength and unpretentious sincerity // 一个粗犷的家伙，以乡村农场的朴实纹理和诚实的劳动为框架，散发出朴实的力量和不做作的真诚
+
+a fierce male // 一个凶猛的男性
+a fierce male, standing defiantly amidst a raging storm and crashing waves, with clenched fists and a primal roar, untamed and aggressive // 一位凶猛的男性，在狂风暴雨和汹涌的波浪中，挺身而出，紧握双拳，发出原始的怒吼，桀骜不驯，具有侵略性
+a fierce male, framed by the tempestuous skies and turbulent seas of a wrathful storm, radiating raw power and untamed fury // 一位凶猛的男性，以狂风暴雨天气狂暴的天空和汹涌的大海为框架，散发出原始的力量和桀骜不驯的愤怒
+
+a steadfast bloke // 一个坚定的家伙
+a steadfast bloke, standing resolutely amidst a raging fire and crumbling ruins, with unwavering gaze and determined stance, unyieldingly resolute // 一个坚定的家伙，坚定地站立在熊熊燃烧的大火和摇摇欲坠的废墟中，目光坚定，姿态坚定，毫不动摇
+a steadfast bloke, framed by the inferno's glow and the devastation of a ravaged landscape, radiating unbending resolve and unwavering loyalty // 一个坚定的家伙，以地狱之火的光芒和饱受蹂躏的 landscape 的破坏为框架，散发出坚韧不拔的决心和坚定的忠诚
+
+
+
+// Fantasy sci-fi male, 奇幻科幻男性
+
+A short dwarfish warrior in armor
+a short dwarfish warrior in armor, standing firm amidst the echoing halls of a mountain fortress, clad in runic steel and bearing a mighty axe, resolutely steadfast // 一位矮小的矮人战士，身披盔甲，坚定地站立在山间堡垒回响的大厅中，身着符文钢铁，手持巨斧，坚定不移
+a short dwarfish warrior in armor, framed by the fiery glow of a subterranean forge and the clang of hammers, amidst piles of worked metal and dwarven craftsmanship, industriously unyielding // 一位矮小的矮人战士，身披盔甲，以地下锻造厂炽热的光芒和锤子的 clangor 为框架，置身于成堆的加工金属和矮人工艺之中，勤劳而不屈不挠
+
+A regal emperor
+a regal emperor, enthroned upon a gilded dais amidst the grand halls of an imperial palace, adorned in opulent robes and a jeweled crown, majestically sovereign // 一位威严的皇帝，在帝国宫殿宏伟的大厅中，端坐在镀金的台子上，身着华丽的长袍，头戴珠宝王冠，威严地统治着
+a regal emperor, framed by the sweeping balconies and manicured gardens of a vast imperial estate, radiating absolute power and inviolable authority // 一位威严的皇帝，以广阔帝国庄园 sweeping 的阳台和修剪整齐的花园为框架，散发出绝对的力量和不可侵犯的权威
+
+A skilled swordsman
+a skilled swordsman, poised in a tranquil bamboo grove amidst dappled sunlight and rustling leaves, with a katana gleaming and focused intensity, lethally precise // 一位熟练的剑士，在宁静的竹林中保持姿势，置身于斑驳的阳光和沙沙作响的树叶之间，武士刀闪耀着光芒，全神贯注，杀伤力精确
+a skilled swordsman, framed by the worn wooden floors and practice targets of a secluded dojo, radiating honed skill and disciplined grace // 一位熟练的剑士，以僻静道场磨损的木地板和练习靶为框架，散发出磨练过的技能和有纪律的优雅
+
+A fierce male warrior ready for battle
+a fierce male warrior ready for battle, standing resolute amidst the war drums and tribal banners of a battlefield encampment, painted in war markings and wielding a brutal warhammer, savagely intimidating // 一位准备战斗的凶猛男战士，坚定地站立在战场营地的战鼓和部落旗帜之间，脸上涂着战争印记，挥舞着野蛮的战锤，野蛮地恐吓
+a fierce male warrior ready for battle, framed by the sharpened spears and sturdy shields of a battle-ready phalanx, radiating raw aggression and unwavering combat readiness // 一位准备战斗的凶猛男战士，以准备战斗的方阵锋利的长矛和坚固的盾牌为框架，散发出原始的侵略性和坚定的战斗准备
+
+A wise white Gandalf-like wizard
+a wise white gandalf-like wizard, leaning upon a gnarled staff amidst ancient ruins and whispering winds, with a flowing beard and eyes filled with ages of knowledge, profoundly sagacious // 一位睿智的白色甘道夫式巫师，倚靠着一根扭曲的法杖，置身于古老的废墟和低语的风中，长着飘逸的胡须，眼中充满了岁月的知识，极其睿智
+a wise white gandalf-like wizard, framed by the towering bookshelves and arcane artifacts of a secluded wizard's tower, radiating ancient wisdom and mystical insight // 一位睿智的白色甘道夫式巫师，以僻静巫师塔楼高耸的书架和神秘的工艺品为框架，散发出古老的智慧和神秘的洞察力
+
+A man with bull horns exotic and mysterious
+a man with bull horns exotic and mysterious, adorned in tribal jewelry amidst incense smoke and ancient idols in a hidden jungle temple, enigmatically primal // 一位长着牛角、充满异国情调和神秘感的男人，在隐藏的丛林神庙中，装饰着部落珠宝，置身于香烟和古代偶像之间，神秘而原始
+a man with bull horns exotic and mysterious, framed by the shadowy depths and vine-covered walls of a forgotten ziggurat, radiating bestial mystique and arcane power // 一位长着牛角、充满异国情调和神秘感的男人，以被遗忘的金字形神塔阴影笼罩的深处和藤蔓缠绕的墙壁为框架，散发出野兽般的神秘感和神秘的力量
+
+a strong lad // 一个强壮的少年
+a strong lad, standing tall amidst sunlit fields and golden wheat, with calloused hands and a determined gaze towards the horizon, youthfully robust // 一位强壮的少年，高高地站立在阳光普照的田野和金色的麦田之间，双手长满了老茧，目光坚定地注视着地平线，年轻而健壮
+a strong lad, framed by the sturdy timbers and hand-forged tools of a rustic workshop, radiating youthful vigor and burgeoning strength // 一位强壮的少年，以乡村作坊坚固的木材和手工锻造的工具为框架，散发出年轻的活力和蓬勃发展的力量
+
+a sly rogue // 一个狡猾的流氓
+a sly rogue, lurking in dimly lit taverns amidst shadows and whispers, with a hooded cloak and nimble fingers, deceptively cunning // 一个狡猾的流氓，潜伏在昏暗的酒馆中，置身于阴影和低语之中，身披带兜帽的斗篷，手指灵巧，具有欺骗性的狡猾
+a sly rogue, framed by the winding alleyways and hidden doorways of a shadowy city district, radiating furtive charm and opportunistic guile // 一个狡猾的流氓，以阴暗城市区域蜿蜒的小巷和隐藏的门口为框架，散发出偷偷摸摸的魅力和机会主义的狡猾
+
+a valiant male hero // 一个英勇的英雄
+a valiant male hero, standing defiant amidst a dragon's hoard and ancient ruins, clad in shining armor and wielding a legendary sword, bravely resolute // 一位英勇的男英雄，在巨龙宝藏和古老的废墟中，挺身而出，身着闪亮的盔甲，挥舞着传说中的宝剑，勇敢而坚定
+a valiant male hero, framed by the banners of victory and cheering crowds of a liberated kingdom, radiating unwavering courage and heroic valor // 一位英勇的男英雄，以胜利的旗帜和解放王国欢呼的人群为框架，散发出坚定的勇气和英雄的英勇
+
+a clever urchin // 一个聪明的顽童
+a clever urchin, darting through bustling marketplaces amidst crowded stalls and lively chaos, with nimble feet and a quick wit, resourcefully agile // 一个聪明的顽童，在熙熙攘攘的市场中穿梭，置身于拥挤的摊位和热闹的混乱之中，脚步轻快，机智过人，足智多谋
+a clever urchin, framed by the cobbled streets and hidden corners of a vibrant urban district, radiating streetwise intelligence and youthful ingenuity // 一个聪明的顽童，以充满活力的城市区域鹅卵石街道和隐藏的角落为框架，散发出街头智慧和年轻的聪明才智
+
+a mischievous imp // 一个淘气的男孩
+a mischievous imp, cavorting amidst moonlit gardens and whispering fountains, with a playful grin and a bag of pranks, impishly delightful // 一个淘气的男孩，在月光下的花园和低语的喷泉中嬉戏，脸上带着顽皮的笑容，手提一袋恶作剧，淘气而令人愉快
+a mischievous imp, framed by the hidden pathways and playful sprites of a feywild glade, radiating youthful exuberance and whimsical trickery // 一个淘气的男孩，以妖精荒野林间空地隐藏的通道和顽皮的小精灵为框架，散发出年轻的活力和异想天开的诡计
+
+a vibrant youngling // 一个充满活力的年轻人
+a vibrant youngling, dancing amidst sunlit meadows and blooming wildflowers, with boundless energy and a joyful spirit, radiantly youthful // 一个充满活力的年轻人，在阳光普照的草地和盛开的野花中跳舞，拥有无限的能量和快乐的精神，光芒四射，青春洋溢
+a vibrant youngling, framed by the lush greenery and flowing streams of a pristine wilderness, radiating youthful enthusiasm and natural vitality // 一个充满活力的年轻人，以原始荒野葱郁的绿色植物和潺潺的溪流为框架，散发出年轻的热情和自然的活力
+
+a bold gallant // 一个大胆的骑士
+a bold gallant, riding a warhorse amidst charging armies and clashing steel, clad in shining armor and wielding a lance with unwavering charge, fearlessly chivalrous // 一个大胆的骑士，骑着战马，在冲锋的军队和撞击的钢铁中穿梭，身着闪亮的盔甲，挥舞着长矛，毫不动摇地冲锋，无畏而侠义
+a bold gallant, framed by the heraldic banners and stone walls of a medieval castle courtyard, radiating courageous valor and knightly prowess // 一个大胆的骑士，以中世纪城堡庭院纹章旗帜和石墙为框架，散发出勇敢的勇气和骑士的实力
+
+a thoughtful scholar // 一个深思的学者
+a thoughtful scholar, poring over ancient tomes and dusty scrolls amidst candlelit studies and towering bookshelves, with a furrowed brow and contemplative gaze, intellectually profound // 一位深思的学者，在烛光摇曳的书房和高耸的书架之间，埋头研究古老的书卷和尘封的卷轴，眉头紧锁，目光沉思，在智力上非常深刻
+a thoughtful scholar, framed by the worn wooden desk and ink-stained fingers of a secluded library, radiating intellectual curiosity and scholarly dedication // 一位深思的学者，以僻静图书馆磨损的木制书桌和沾满墨水的手指为框架，散发出求知欲和学术上的奉献精神
+
+a cunning knave // 一个狡猾的小伙子
+a cunning knave, dealing cards amidst smoky backrooms and hushed whispers in a shadowy gambling den, with a sly grin and loaded dice, deceptively shrewd // 一个狡猾的小伙子，在阴暗的赌场中，发牌，置身于烟雾缭绕的密室和低低的耳语之中，脸上带着狡猾的笑容，掷着灌铅的骰子，具有欺骗性的精明
+a cunning knave, framed by the velvet drapes and hidden passages of a clandestine underworld establishment, radiating opportunistic cunning and deceptive charm // 一个狡猾的小伙子，以秘密地下机构天鹅绒帷幔和隐藏的通道为框架，散发出机会主义的狡猾和欺骗性的魅力
+
+a wise sage // 一个智慧的智者
+a wise sage, meditating amidst mountain peaks and swirling mists, with a serene countenance and eyes reflecting ancient knowledge, profoundly enlightened // 一位智慧的智者，在山峰之巅和旋转的薄雾中冥想，面容宁静，眼神反映着古老的知识，极其开悟
+a wise sage, framed by the tranquil gardens and serene temples of a secluded mountain retreat, radiating profound wisdom and spiritual serenity // 一位智慧的智者，以僻静山间静修处宁静的花园和宁静的寺庙为框架，散发出深刻的智慧和精神的宁静
+
+a daring adventurer // 一个大胆的冒险者
+a daring adventurer, traversing treacherous jungles and ancient ruins, with a weathered map and trusty compass, bravely intrepid // 一位大胆的冒险者，穿越险恶的丛林和古老的废墟，手持饱经风霜的地图和可靠的指南针，勇敢而无畏
+a daring adventurer, framed by the exotic flora and hidden treasures of a lost world, radiating adventurous spirit and courage // 一位大胆的冒险者，以失落世界奇异的植物群和隐藏的宝藏为框架，散发出冒险的精神和探险家的勇气
+
+a sturdy chap // 一个结实的家伙
+a sturdy chap, working diligently amidst sunlit fields and bountiful harvests, with strong arms and a hearty laugh, reliably robust // 一个结实的家伙，在阳光普照的田野和丰收的景象中勤奋地工作，手臂强壮，笑声爽朗，可靠而健壮
+a sturdy chap, framed by the rustic charm and honest labor of a rural farmstead, radiating dependable strength and earthy resilience // 一个结实的家伙，以乡村农舍朴实的魅力和诚实的劳动为框架，散发出可靠的力量和朴实的韧性
+
+a bold swain // 一个大胆的青年
+a bold swain, serenading beneath moonlit balconies and blooming vines, with a lute in hand and a passionate gaze, romantically ardent // 一个大胆的青年，在月光下的阳台和盛开的藤蔓下，用鲁特琴演奏小夜曲，手持鲁特琴，目光充满激情，浪漫而热情
+a bold swain, framed by the charming courtyards and flowering trellises of a quaint village, radiating youthful charm and amorous boldness // 一个大胆的青年，以古朴村庄迷人的庭院和开花的棚架为框架，散发出年轻的魅力和充满爱意的胆识
+
+A Monkey King Sun Wukong // 孙悟空
+a monkey king sun wukong, wreathed in golden light atop a cloud-piercing mountain peak, overlooking a celestial kingdom // 孙悟空，一位猴王，身披金色光芒，屹立于云雾缭绕的山巅之上，俯瞰着天上的王国
+a monkey king sun wukong, amidst a vibrant peach blossom orchard, with a mischievous glint in his eyes and his magical staff at the ready // 孙悟空，一位猴王，身处生机勃勃的桃花林中，眼中闪烁着狡黠的光芒，手持如意金箍棒，蓄势待发
+
+A trickster god Loki // 恶作剧之神，洛基
+a trickster god loki, cloaked in emerald green and shadow, amidst the ethereal glow of the aurora borealis in a frost-kissed realm // 洛基，一位恶作剧之神，身披翠绿与阴影，在冰霜亲吻过的国度中，置身于北极光的空灵光辉之中
+a trickster god loki, framed by the chaotic swirl of cosmic energies, with a sly smirk playing on his lips, in a realm of shifting illusions // 洛基，一位恶作剧之神，以宇宙能量的混沌漩涡为框架，嘴角挂着狡猾的微笑，身处变幻莫测的幻象之境
+
+A vampire with eternal life Dracula // 永生的吸血鬼，德古拉
+a vampire with eternal life dracula, draped in velvet darkness within the gothic arches of a mist-shrouded castle, under a blood-red moon // 德古拉，一位拥有永恒生命的吸血鬼，在血红色的月亮下，身披天鹅绒般的黑暗，置身于雾气笼罩的城堡哥特式拱门之中
+a vampire with eternal life dracula, framed by the opulent decay and cobwebbed grandeur of an ancient lineage estate, exuding an aura of aristocratic dread // 德古拉，一位拥有永恒生命的吸血鬼，以古老血统庄园奢华的颓废和布满蜘蛛网的宏伟为框架，散发出贵族般的恐惧气息
+
+A ghostly samurai Yurei // 幽灵武士，幽灵
+a ghostly samurai yurei, shimmering with spectral energy amidst a bamboo forest veiled in twilight mist, bearing a katana of ethereal steel // 幽灵武士幽灵，在暮色薄雾笼罩的竹林中，闪烁着幽灵般的能量，手持一把空灵钢铁的武士刀
+a ghostly samurai yurei, framed by the crumbling stone lanterns and moss-covered pathways of an abandoned temple garden, radiating an aura of silent sorrow // 幽灵武士幽灵，以废弃寺庙花园摇摇欲坠的石灯笼和布满苔藓的小径为框架，散发出一种沉默的悲伤气息
+
+A god of thunder Thor // 雷神，托尔
+a god of thunder thor, wielding mjolnir amidst a tempestuous storm of lightning and thunder, on the bifrost bridge to asgard // 雷神托尔，一位雷霆之神，挥舞着雷神之锤，置身于狂风暴雨的闪电雷鸣之中，立于通往阿斯加德的彩虹桥上
+a god of thunder thor, framed by the celestial grandeur and golden palaces of asgard, radiating raw power and unwavering resolve // 雷神托尔，一位雷霆之神，以阿斯加德天界的壮丽和金色宫殿为框架，散发出原始的力量和坚定的决心
+
+A multi-armed demon Asura // 多臂恶魔，阿修罗
+a multi-armed demon asura, surrounded by swirling flames and tormented souls within a volcanic abyss, embodying wrath and chaos // 阿修罗，一位多臂恶魔，在火山深渊中，被旋转的火焰和受折磨的灵魂环绕，体现着愤怒与混乱
+a multi-armed demon asura, framed by the shattered remnants of celestial battlefields, amidst cosmic debris and fallen stars, radiating destructive might // 阿修罗，一位多臂恶魔，以天界战场破碎的残骸为框架，身处宇宙碎片和陨落的星辰之中，散发出毁灭性的力量
+
+A haunting banshee // 一位神秘的女鬼
+a haunting banshee, drifting through the fog-laden moors, her mournful wail echoing across desolate landscapes, a harbinger of doom // 一位神秘的女鬼，在雾气弥漫的荒原上飘荡，她哀怨的哭号在荒凉的 landscape 上回荡，是厄运的先兆
+a haunting banshee, framed by the skeletal branches and chilling winds of a cursed forest, her spectral form shimmering in the pale moonlight // 一位神秘的女鬼，以被诅咒的森林骨骼般的树枝和凛冽的寒风为框架，她幽灵般的身影在苍白的月光下闪烁
+
+A shadow demon Noppera-bo // 无面鬼，无面坊
+a shadow demon noppera-bo, lurking in the dimly lit alleys of a bustling city, its featureless face a void of unsettling mystery // 无面鬼，一位阴影恶魔，潜伏在繁华都市昏暗的小巷中，它没有特征的面孔是一个令人不安的谜
+a shadow demon noppera-bo, framed by the flickering gaslights and looming shadows of a victorian cityscape, exuding an aura of nameless dread // 无面鬼，一位阴影恶魔，以维多利亚时代都市摇曳的煤气灯和逼近的阴影为框架，散发出一种无名的恐惧气息
+
+A storm god Susanoo // 风暴之神，须佐之男
+a storm god susanoo, wielding kusanagi amidst raging waves and crashing thunder, above a tumultuous sea // 须佐之男，一位风暴之神，在汹涌澎湃的大海上，挥舞着草薙剑，置身于狂怒的海浪和轰鸣的雷声之中
+a storm god susanoo, framed by the tempestuous skies and swirling maelstroms of a wrathful ocean, radiating untamed fury and elemental power // 须佐之男，一位风暴之神，以狂风暴雨的天空和愤怒海洋的漩涡为框架，散发出狂野的愤怒和元素的力量
+
+A mountain god Tengu // 山神，天狗
+a mountain god tengu, perched atop a snow-capped peak amidst swirling mists, overlooking a serene mountain range, with feathered wings unfurled // 天狗，一位山神，栖息在白雪皑皑的山峰之巅，置身于旋转的薄雾之中，俯瞰着宁静的山脉，展开羽翼
+a mountain god tengu, framed by the ancient pines and craggy cliffs of a secluded mountain sanctuary, radiating wisdom and watchful guardianship // 天狗，一位山神，以僻静山间圣地古老的松树和崎岖的悬崖为框架，散发出智慧和警惕的守护气息
+
+A skeletal horseman Dullahan // 骷髅骑士，杜拉汉
+a skeletal horseman dullahan, riding a phantom steed across a moonlit moor, headless and grim, carrying his own severed head aloft // 骷髅骑士杜拉汉，骑着幽灵般的骏马穿越月光下的荒原，没有头颅，神情 Grim, 高举着自己被砍下的头颅
+a skeletal horseman dullahan, framed by the gnarled trees and spectral fog of a haunted heath, heralding death and otherworldly terror // 骷髅骑士杜拉汉，以闹鬼荒原扭曲的树木和幽灵般的雾气为框架，预示着死亡和超凡脱俗的恐怖
+
+A river god Kappa // 河神，河童
+a river god kappa, emerging from a tranquil river amidst lily pads and reeds, with a mischievous grin and a water-filled dish atop his head // 河童，一位河神，从宁静的河流中浮现，置身于睡莲和芦苇之中，脸上带着顽皮的笑容，头顶上顶着一个装满水的盘子
+a river god kappa, framed by the lush greenery and serene flow of a hidden river sanctuary, radiating playful curiosity and aquatic mystery // 河童，一位河神，以隐藏河流圣地葱郁的绿色植物和宁静的流水为框架，散发出顽皮的好奇心和水生神秘感
+
+A death god Anubis // 死神，安努比斯
+a death god anubis, presiding over the scales of judgment in a vast hall of the underworld, with jackal head and solemn gaze // 安努比斯，一位死神，在冥界广阔的大厅中，主持着审判的天平，长着胡狼头，目光庄严
+a death god anubis, framed by the hieroglyphic walls and eternal darkness of an ancient egyptian tomb, radiating divine authority and funerary solemnity // 安努比斯，一位死神，以古埃及墓穴象形文字的墙壁和永恒的黑暗为框架，散发出神圣的权威和葬礼的庄严
+
+A sea god Poseidon // 海神，波塞冬
+a sea god poseidon, wielding his trident amidst towering waves and sea creatures, upon a coral throne in an underwater kingdom // 波塞冬，一位海神，在水下王国，挥舞着三叉戟，置身于滔天巨浪和海洋生物之中，端坐在珊瑚王座上
+a sea god poseidon, framed by the boundless ocean depths and shimmering sunlight filtering through the surface, radiating oceanic power and regal command // 波塞冬，一位海神，以浩瀚无垠的海洋深处和穿透海面的闪烁阳光为框架，散发出海洋的力量和帝王般的威严
+
+A storm giant Jotun // 风暴巨人，约顿
+a storm giant jotun, towering over snow-capped mountains amidst swirling blizzards, with ice-encrusted skin and a glacial gaze // 约顿，一位风暴巨人，在白雪皑皑的山脉之上，傲然屹立，置身于旋转的暴风雪之中，皮肤覆盖着冰霜，目光冰冷
+a storm giant jotun, framed by the frozen wastes and howling winds of a glacial wilderness, radiating raw strength and elemental fury // 约顿，一位风暴巨人，以冰川荒野冰冻的荒原和呼啸的狂风为框架，散发出原始的力量和元素般的愤怒
+
+A plague bringer Pestilence // 瘟疫使者，瘟疫
+a plague bringer pestilence, riding a skeletal steed through a ravaged city, leaving a trail of disease and decay in his wake, with a skull-like visage // 瘟疫，一位瘟疫使者，骑着骷髅般的骏马穿过饱受蹂躏的城市，身后留下一条疾病和腐朽的轨迹，面容如骷髅
+a plague bringer pestilence, framed by the crumbling buildings and deserted streets of a quarantined metropolis, radiating death and contagious despair // 瘟疫，一位瘟疫使者，以隔离都市摇摇欲坠的建筑和空无一人的街道为框架，散发出死亡和具有传染性的绝望
+
+A frost giant Ymir // 冰霜巨人，伊米尔
+a frost giant ymir, formed from primordial ice amidst a frozen wasteland, his colossal form stretching across a glacial landscape, ancient and vast // 伊米尔，一位冰霜巨人，由原始冰块形成，置身于冰冻的荒原之中，他巨大的身躯横跨冰川 landscape ，古老而浩瀚
+a frost giant ymir, framed by the jagged ice cliffs and howling blizzards of a primordial ice realm, radiating ancient power and glacial immensity // 伊米尔，一位冰霜巨人，以原始冰雪领域锯齿状的冰崖和呼啸的暴风雪为框架，散发出古老的力量和冰川般的浩瀚
+
+A guardian dragon Ryu // 守护龙，龙
+a guardian dragon ryu, coiled around a sacred mountain peak, scales shimmering like jade amidst the clouds, watching over a tranquil valley below // 龙，一位守护龙，盘绕在神圣的山峰之巅，鳞片在云雾中闪耀如玉，俯瞰着下方宁静的山谷
+a guardian dragon ryu, framed by the lush forests and cascading waterfalls of a secluded valley sanctuary, radiating benevolent protection and ancient wisdom // 龙，一位守护龙，以僻静山谷圣地葱郁的森林和层叠的瀑布为框架，散发出仁慈的保护和古老的智慧
+
+A trickster kitsune Tamamo-no-Mae // 诡计多端的狐狸，玉藻前
+a trickster kitsune tamamo-no-mae, veiled in illusions and foxfire amidst a moonlit forest glade, with nine tails swaying and a bewitching smile // 玉藻前，一位诡计多端的狐狸，在月光下的森林空地中，笼罩在幻象和狐火之中，九条尾巴摇曳，带着迷人的微笑
+a trickster kitsune tamamo-no-mae, framed by the ancient torii gates and whispering cherry blossoms of a hidden shrine, radiating cunning charm and shapeshifting mystique // 玉藻前，一位诡计多端的狐狸，以隐藏神社古老的鸟居和低语的樱花为框架，散发出狡猾的魅力和变幻莫测的神秘感
+
+A night hag Nightmare // 夜魔，梦魇
+a night hag nightmare, perched upon a sleeper's chest in the oppressive darkness of a bedroom, feeding on fear and weaving terrifying visions // 梦魇，一位夜魔，栖息在卧室压抑的黑暗中，沉睡者的胸膛上，以恐惧为食，编织着可怕的景象
+a night hag nightmare, framed by the distorted shadows and suffocating atmosphere of a haunted dreamscape, radiating paralyzing terror and nocturnal dread // 梦魇，一位夜魔，以闹鬼梦境扭曲的阴影和令人窒息的氛围为框架，散发出令人麻痹的恐惧和夜间恐惧
+
+A two-faced god Janus // 双面神，雅努斯
+a two-faced god janus, standing at a temporal gateway, one face gazing to the past, the other to the future, amidst shifting sands of time // 雅努斯，一位双面神，站在时间之门，一张脸凝视过去，另一张脸凝视未来，置身于时间流逝的沙粒之中
+a two-faced god janus, framed by the converging paths and infinite possibilities of a cosmic crossroads, radiating temporal wisdom and transitional authority // 雅努斯，一位双面神，以宇宙十字路口汇聚的道路和无限的可能性为框架，散发出时间上的智慧和过渡的权威
+
+A sky god Zeus // 天空神，宙斯
+a sky god zeus, enthroned upon mount olympus amidst swirling clouds and lightning bolts, wielding his thunderbolt with divine authority // 宙斯，一位天空之神，端坐在奥林匹斯山上，置身于旋转的云朵和闪电之中，挥舞着他的雷霆，拥有神圣的权威
+a sky god zeus, framed by the celestial heights and panoramic vista of a god's domain, radiating majestic power and sovereign command // 宙斯，一位天空之神，以天界的高度和神域的全景为框架，散发出威严的力量和至高无上的统治
+
+An earth god Gaia // 地神，盖亚
+an earth god gaia, merged with the living earth amidst lush forests and fertile valleys, embodying the nurturing essence of the planet // 盖亚，一位地神，与生机勃勃的大地融为一体，置身于葱郁的森林和肥沃的山谷之间，体现着星球滋养的本质
+an earth god gaia, framed by the verdant landscapes and teeming life of a vibrant terrestrial ecosystem, radiating maternal warmth and terrestrial vitality // 盖亚，一位地神，以充满活力的陆地生态系统翠绿的 landscape 和生机勃勃的生命为框架，散发出母性的温暖和陆地的活力
+
+A dark deity Erebus // 黑暗之神，厄瑞玻斯
+a dark deity erebus, shrouded in primordial darkness within the abyssal depths of the cosmos, before light and creation existed, utterly void // 厄瑞玻斯，一位黑暗之神，在宇宙深渊的原始黑暗中，笼罩在光和创造存在之前，完全空虚
+a dark deity erebus, framed by the infinite nothingness and absolute absence of a pre-creation void, radiating ancient dread and cosmic oblivion // 厄瑞玻斯，一位黑暗之神，以创造前虚空无限的虚无和绝对的缺失为框架，散发出古老的恐惧和宇宙的遗忘
+
+A chaos bringer Discordia // 混乱使者，不和
+a chaos bringer discordia, sowing seeds of strife and discord amidst warring factions, her presence inciting chaos and perpetual conflict // 不和，一位混乱使者，在交战派系之间播撒纷争和不和的种子，她的存在煽动着混乱和永恒的冲突
+a chaos bringer discordia, framed by the fractured realities and shattered alliances of a world consumed by strife, radiating disruptive energy and anarchic influence // 不和，一位混乱使者，以被纷争吞噬的世界支离破碎的现实和破裂的联盟为框架，散发出破坏性的能量和无政府主义的影响
+
+A fertility god Freyr // 丰饶之神，弗雷
+a fertility god freyr, amidst fields of golden grain and blossoming orchards, embodying abundance and prosperous harvest, radiating virile energy // 弗雷，一位丰饶之神，置身于金色的麦田和盛开的果园之间，体现着富饶和丰收，散发出阳刚的活力
+a fertility god freyr, framed by the sun-drenched landscapes and bountiful yields of a fertile realm, radiating life-giving warmth and generative power // 弗雷，一位丰饶之神，以阳光普照的 landscape 和肥沃国度丰收的产量为框架，散发出赋予生命的温暖和孕育的力量
+
+A time deity Chronos // 时间之神，克洛诺斯
+a time deity chronos, seated upon a cosmic clock amidst swirling galaxies, embodying the ceaseless flow of time and eternal cycles, utterly ageless // 克洛诺斯，一位时间之神，端坐在宇宙时钟上，置身于旋转的星系之中，体现着时间无休止的流逝和永恒的循环，完全永恒
+a time deity chronos, framed by the infinite expanse and cyclical nature of a temporal domain, radiating ancient wisdom and inexorable destiny // 克洛诺斯，一位时间之神，以时间领域无限的广阔和循环的本质为框架，散发出古老的智慧和不可阻挡的命运
+
+A wisdom god Odin // 智慧之神，奥丁
+a wisdom god odin, seated upon hlidskjalf amidst the clouds of asgard, overlooking all realms, with ravens huginn and muninn perched upon his shoulders, all-seeing // 奥丁，一位智慧之神，端坐在阿斯加德的云端之中，俯瞰着所有领域，渡鸦 Huginn 和 Muninn 栖息在他的肩膀上，洞察一切
+a wisdom god odin, framed by the celestial halls and cosmic tapestry of a god's dominion, radiating profound knowledge and strategic insight // 奥丁，一位智慧之神，以神之统治天界的大厅和宇宙挂毯为框架，散发出深刻的知识和战略性的洞察力
+
+A music deity Orpheus // 音乐之神，俄耳甫斯
+a music deity orpheus, playing his lyre amidst a tranquil grove, enchanting all beings with his melancholic melodies and soulful tunes, deeply moving // 俄耳甫斯，一位音乐之神，在宁静的树林中弹奏着他的七弦琴，用他忧郁的旋律和充满灵魂的曲调，让所有 beings 都为之倾倒，深深地打动人心
+a music deity orpheus, framed by the whispering trees and gentle streams of a serene woodland sanctuary, radiating artistic grace and emotional resonance // 俄耳甫斯，一位音乐之神，以宁静林地圣殿低语的树木和潺潺的溪流为框架，散发出艺术的优雅和情感的共鸣
+
+A forge god Hephaestus // 锻造之神，赫菲斯托斯
+a forge god hephaestus, working at his celestial forge amidst sparks and molten metal, crafting divine weapons and artifacts with tireless dedication, intensely focused // 赫菲斯托斯，一位锻造之神，在他的天界熔炉中工作，置身于火花和熔化的金属之中，用不知疲倦的奉献精神，打造着神圣的武器和工艺品，全神贯注
+a forge god hephaestus, framed by the fiery glow and metallic clangor of a divine workshop, radiating creative power and artisanal mastery // 赫菲斯托斯，一位锻造之神，以神圣工作室火焰般的光芒和金属的 clangor 为框架，散发出创造性的力量和工匠的精湛技艺
+
+A wine god Dionysus // 酒神，狄俄尼索斯
+a wine god dionysus, reveling in a vine-covered grove amidst ecstatic followers, with a thyrsus in hand and a joyful expression, utterly carefree // 狄俄尼索斯，一位酒神，在绿意盎然的葡萄园中狂欢，置身于欣喜若狂的追随者之中，手持杖，面带喜悦的表情，完全无忧无虑
+a wine god dionysus, framed by the lush foliage and intoxicating aroma of a bacchanalian paradise, radiating unrestrained joy and ecstatic liberation // 狄俄尼索斯，一位酒神，以纵酒狂欢天堂葱郁的树叶和醉人的芬芳为框架，散发出不受约束的快乐和狂喜的解放
+
+A commerce god Mercury // 商业神，墨丘利
+a commerce god mercury, winged sandals and caduceus in hand, amidst bustling marketplaces and trade routes, facilitating communication and swift transactions, ever moving // 墨丘利，一位商业之神，脚穿飞翼凉鞋，手持双蛇杖，置身于熙熙攘攘的市场和贸易路线之间，促进着沟通和快速的交易，永不停歇
+a commerce god mercury, framed by the vibrant stalls and diverse crowds of a thriving urban center, radiating mercantile acumen and communicative agility // 墨丘利，一位商业之神，以繁荣都市中心充满活力的摊位和各式各样的人群为框架，散发出商业上的敏锐和沟通上的敏捷
+
+A war god Mars // 战争神，玛尔斯
+a war god mars, clad in battle armor amidst a chaotic battlefield, wielding a spear and shield with ferocious intensity, embodying martial fury // 玛尔斯，一位战争之神，身着战甲，置身于混乱的战场，挥舞着长矛和盾牌，带着狂暴的强度，体现着尚武的愤怒
+a war god mars, framed by the clashing steel and war cries of a raging conflict, radiating belligerent power and strategic command // 玛尔斯，一位战争之神，以激烈的冲突中钢铁的撞击声和战争的呐喊声为框架，散发出好战的力量和战略性的指挥
+
+A trickster Coyote // 诡计多端的角色，郊狼
+a trickster coyote, amidst the arid desert landscape under a starlit sky, with a cunning grin and paw prints in the sand, ever elusive // 郊狼，一位诡计多端的角色，在星空下的干旱沙漠 landscape 中，脸上带着狡猾的笑容，沙地上留着爪印，永远难以捉摸
+a trickster coyote, framed by the canyon walls and whispering winds of a desolate wilderness, radiating cunning wit and adaptable survival // 郊狼，一位诡计多端的角色，以荒凉荒野峡谷的峭壁和低语的风为框架，散发出狡猾的智慧和适应性强的生存能力
+
+A death deity Thanatos // 死神，塔纳托斯
+a death deity thanatos, shrouded in black robes amidst the silent stillness of the underworld, leading souls to their final rest with gentle solemnity, profoundly serene // 塔纳托斯，一位死神，在冥界的寂静中，笼罩在黑色长袍之中，以温柔的庄严，引导灵魂走向最终的安息，极其宁静
+a death deity thanatos, framed by the ethereal mist and spectral gateways of a peaceful afterlife realm, radiating tranquil acceptance and merciful release // 塔纳托斯，一位死神，以平静来世国度空灵的薄雾和幽灵般的门户为框架，散发出宁静的接受和仁慈的解脱
+
+A sleep deity Hypnos // 睡神，许普诺斯
+a sleep deity hypnos, drifting through the dream realm amidst swirling mists and ethereal figures, dispensing slumber and weaving visions of tranquility, deeply calming // 许普诺斯，一位睡神，在梦境中飘荡，置身于旋转的薄雾和空灵的人物之中，散布着沉睡，编织着宁静的景象，极其平静
+a sleep deity hypnos, framed by the soft clouds and hushed whispers of a dreamlike sanctuary, radiating gentle peace and restorative slumber // 许普诺斯，一位睡神，以梦幻般的圣殿柔软的云朵和低语为框架，散发出温柔的平静和恢复性的睡眠
+
+A sea deity Triton // 海神，特里同
+a sea deity triton, blowing a conch shell trumpet amidst coral reefs and marine life, heralding the ocean's wonders with resonant calls, powerfully evocative // 特里同，一位海神，在珊瑚礁和海洋生物之间，吹响海螺号角，用洪亮的声音，宣告着海洋的奇观，极具感染力
+a sea deity triton, framed by the vibrant colors and teeming life of a coral reef ecosystem, radiating oceanic joy and aquatic exuberance // 特里同，一位海神，以珊瑚礁生态系统充满活力的色彩和生机勃勃的生命为框架，散发出海洋的喜悦和水生的活力
+
+A fire deity Pele // 火神，佩勒
+a fire deity pele, residing within a volcanic caldera amidst molten lava and fiery eruptions, embodying the raw power and destructive beauty of volcanoes, intensely volatile // 佩勒，一位火神，居住在火山喷口之中，置身于熔化的熔岩和炽热的喷发物之中，体现着火山原始的力量和毁灭性的美丽，极其不稳定
+a fire deity pele, framed by the volcanic landscape and geothermal vents of a fiery domain, radiating primal energy and geological might // 佩勒，一位火神，以火山 landscape 和火热领域的地热喷口为框架，散发出原始的能量和地质的力量
+
+A fertility god Cernunnos // 丰饶之神，塞尔努诺斯
+a fertility god cernunnos, antlered and seated cross-legged amidst a lush forest, surrounded by woodland creatures and bountiful nature, deeply connected to nature // 塞尔努诺斯，一位丰饶之神，长着鹿角，盘腿坐在葱郁的森林之中，周围环绕着林地生物和丰饶的自然，与自然紧密相连
+a fertility god cernunnos, framed by the ancient trees and vibrant flora of a primeval forest sanctuary, radiating wild abundance and natural harmony // 塞尔努诺斯，一位丰饶之神，以原始森林圣殿古老的树木和充满活力的植物群为框架，散发出野性的富饶和自然的和谐
+
+A trickster god Anansi // 恶作剧之神，阿南西
+a trickster god anansi, weaving intricate webs amidst a tropical rainforest canopy, with a sly grin and stories on his tongue, ever cunning // 阿南西，一位恶作剧之神，在热带雨林树冠中编织着错综复杂的蛛网，脸上带着狡猾的笑容，口中讲述着故事，永远狡猾
+a trickster god anansi, framed by the dense foliage and vibrant wildlife of a tropical jungle, radiating clever deception and storytelling prowess // 阿南西，一位恶作剧之神，以热带丛林茂密的树叶和充满活力的野生动物为框架，散发出聪明的欺骗和讲故事的才能
+
+An underworld god Hades // 冥界神，哈迪斯
+an underworld god hades, enthroned upon a obsidian throne in a vast cavern of the underworld, ruling over the dead with silent authority, profoundly somber // 哈迪斯，一位冥界神，端坐在冥界广阔洞穴中的黑曜石王座上，以沉默的权威统治着死者，极其忧郁
+an underworld god hades, framed by the shadowy depths and spectral inhabitants of a subterranean kingdom, radiating somber dominion and underworldly power // 哈迪斯，一位冥界神，以地下王国阴影笼罩的深处和幽灵般的居民为框架，散发出忧郁的统治和冥界的力量
+
+A harvest god Lugh // 丰收神，卢
+a harvest god lugh, standing amidst golden wheat fields under a summer sun, embodying the bounty of harvest and the warmth of the sun, radiantly generous // 卢，一位丰收神，站在夏日阳光下金色的麦田中，体现着丰收的富饶和阳光的温暖，光芒四射，慷慨大方
+a harvest god lugh, framed by the sunlit fields and abundant crops of a fertile farmland, radiating agrarian prosperity and solar beneficence // 卢，一位丰收神，以阳光照射的田野和肥沃农田丰收的作物为框架，散发出农业的繁荣和太阳的恩惠
+
+A creation god Brahma // 创造神，梵天
+a creation god brahma, emerging from a lotus flower amidst cosmic waters, embodying the genesis of the universe and all existence, infinitely vast and wise // 梵天，一位创造神，从宇宙之水中莲花中诞生，体现着宇宙和万物起源，无限浩瀚而智慧
+a creation god brahma, framed by the swirling nebulae and nascent galaxies of a newly formed cosmos, radiating creative energy and cosmic consciousness // 梵天，一位创造神，以新形成宇宙旋转的星云和新生的星系为框架，散发出创造性能量和宇宙意识
+
+A destruction god Shiva // 毁灭神，湿婆
+a destruction god shiva, dancing the tandava amidst flames and cosmic debris, embodying the cycle of destruction and renewal, powerfully transformative // 湿婆，一位毁灭神，在火焰和宇宙碎片中跳着坦达瓦之舞，体现着毁灭和新生的循环，具有强大的变革力量
+a destruction god shiva, framed by the chaotic energies and transformative power of a cosmic dance, radiating destructive force and cyclical rebirth // 湿婆，一位毁灭神，以宇宙之舞混乱的能量和变革的力量为框架，散发出毁灭性的力量和循环的重生
+
+A poetry god Apollo // 诗歌神，阿波罗
+a poetry god apollo, playing his lyre amidst laurel groves and sunlit meadows, inspiring artistry and embodying beauty and harmony, divinely inspired // 阿波罗，一位诗歌神，在月桂树林和阳光普照的草地上弹奏着他的七弦琴，激发着艺术才能，体现着美丽与和谐，神圣的灵感
+a poetry god apollo, framed by the serene landscapes and artistic inspiration of a muse's sanctuary, radiating creative brilliance and aesthetic grace // 阿波罗，一位诗歌神，以缪斯圣殿宁静的 landscape 和艺术灵感为框架，散发出创造性的才华和审美的优雅
+
+A death god Osiris // 死神，奥西里斯
+a death god osiris, resurrected from the underworld amidst fertile fields and life-giving waters, embodying rebirth and eternal life, powerfully regenerative // 奥西里斯，一位死神，从冥界复活，置身于肥沃的田野和赋予生命的水域之中，体现着重生和永恒的生命，具有强大的再生能力
+a death god osiris, framed by the lush vegetation and cyclical renewal of a fertile afterlife realm, radiating resurrectional power and eternal sovereignty // 奥西里斯，一位死神，以肥沃来世国度葱郁的植被和循环的更新为框架，散发出复活的力量和永恒的主权
+
+A mischievous male elf // 一个淘气的精灵
+a mischievous male elf, darting through moonlit forests amidst glowing mushrooms and whispering trees, with a playful grin and a bag of tricks, ever whimsical // 一个淘气的精灵，在月光下的森林中穿梭，置身于发光的蘑菇和低语的树木之中，脸上带着顽皮的笑容，手提一袋恶作剧，永远异想天开
+a mischievous male elf, framed by the enchanted glades and hidden pathways of a feywild realm, radiating playful charm and whimsical agility // 一个淘气的精灵，以妖精荒野国度魔法的林间空地和隐藏的通道为框架，散发出顽皮的魅力和异想天开的敏捷
+
+A strong male amazon // 一位强大的亚马逊战士
+a strong male amazon, clad in leather armor amidst a rainforest canopy, wielding a spear and shield with unwavering resolve, embodying primal strength // 一位强大的亚马逊战士，身着皮革盔甲，置身于热带雨林树冠之中，挥舞着长矛和盾牌，意志坚定，体现着原始的力量
+a strong male amazon, framed by the lush foliage and untamed wilderness of a primeval jungle, radiating warrior prowess and untamed ferocity // 一位强大的亚马逊战士，以原始丛林茂密的树叶和未驯服的荒野为框架，散发出战士的实力和未驯服的凶猛
+
+A fierce male harpy // 一位凶猛的哈比
+a fierce male harpy, soaring through storm-ridden skies amidst jagged peaks and howling winds, with talons bared and a predatory gaze, terrifyingly aggressive // 一位凶猛的哈比，在暴风雨侵袭的天空中翱翔，置身于锯齿状的山峰和呼啸的狂风之中，张开利爪，目光如炬，极其具有攻击性
+a fierce male harpy, framed by the craggy cliffs and desolate heights of a windswept mountain range, radiating aerial dominance and predatory terror // 一位凶猛的哈比，以狂风呼啸山脉崎岖的悬崖和荒凉的高度为框架，散发出空中统治力和掠夺性的恐怖
+
+A powerful male valkyrie // 一位强大的武神
+a powerful male valkyrie, descending from the heavens amidst lightning strikes and thunder rolls, clad in winged armor and wielding a celestial spear, divinely empowered // 一位强大的武神，从天而降，置身于闪电和雷鸣之中，身着带翼盔甲，挥舞着天界长矛，神圣的力量
+a powerful male valkyrie, framed by the celestial battlefields and heroic spirits of a valkyrian domain, radiating divine might and warrior valor // 一位强大的武神，以女武神领域天界的战场和英雄的精神为框架，散发出神圣的力量和战士的勇气
+
+A mystical witchdoctor // 一个神秘的巫医
+a mystical witchdoctor, adorned in tribal masks and feathered robes amidst a jungle clearing, performing ancient rituals and channeling spirits, deeply enigmatic // 一个神秘的巫医，戴着部落面具，身着羽毛长袍，置身于丛林空地，进行着古老的仪式，引导着灵魂，极其神秘
+a mystical witchdoctor, framed by the shadowy depths and tribal totems of a jungle shrine, radiating shamanic wisdom and spiritual connection // 一个神秘的巫医，以丛林神殿阴影笼罩的深处和部落图腾为框架，散发出萨满的智慧和精神的联系
+
+A commanding male sylph // 一位指挥的风精灵
+a commanding male sylph, riding the winds amidst swirling clouds and soaring eagles, clad in airy robes and wielding a staff of storms, elementally masterful // 一位指挥的风精灵，乘风而行，置身于旋转的云朵和翱翔的雄鹰之中，身着轻盈的长袍，挥舞着风暴之杖，元素上的大师
+a commanding male sylph, framed by the boundless skies and panoramic vistas of an aerial domain, radiating atmospheric control and elemental command // 一位指挥的风精灵，以空中领域无垠的天空和全景为框架，散发出对大气层的控制和元素的指挥
+
+A determined zealot // 一位坚定的狂热者
+a determined zealot, clad in righteous armor amidst burning pyres and chanting crowds, wielding a holy blade and unwavering faith, intensely devoted // 一位坚定的狂热者，身着正义的盔甲，置身于燃烧的柴堆和吟唱的人群之中，挥舞着神圣的刀刃，拥有坚定的信仰，极其虔诚
+a determined zealot, framed by the sacred banners and fervent devotion of a holy crusade, radiating unwavering conviction and righteous fervor // 一位坚定的狂热者，以神圣十字军东征神圣的旗帜和热烈的虔诚为框架，散发出坚定的信念和正义的热情
+
+A eerie zombie // 一个可怕的僵尸
+a eerie zombie, shambling through a ravaged cityscape amidst crumbling buildings and eerie silence, with decaying flesh and vacant eyes, horrifyingly undead // 一个可怕的僵尸，在饱受蹂躏的都市中蹒跚而行，置身于摇摇欲坠的建筑和令人毛骨悚然的寂静之中，血肉腐烂，眼神空洞，极其恐怖的亡灵
+a eerie zombie, framed by the desolate streets and urban decay of a post-apocalyptic metropolis, radiating deathly chill and relentless hunger // 一个可怕的僵尸，以后世界末日都市荒凉的街道和都市的衰败为框架，散发出死亡般的寒意和无情的饥饿
 
 A wise Elven king with a crown of leaves
+a wise elven king with a crown of leaves, enthroned amidst ancient trees and whispering streams in a hidden elven city, embodying wisdom and serene rule, deeply benevolent // 一位睿智的精灵国王，头戴树叶王冠，在隐藏的精灵城市，端坐在古老的树木和低语的溪流之间，体现着智慧和宁静的统治，极其仁慈
+a wise elven king with a crown of leaves, framed by the ethereal beauty and ancient magic of an elven kingdom, radiating enlightened leadership and timeless grace // 一位睿智的精灵国王，头戴树叶王冠，以精灵王国空灵的美丽和古老的魔法为框架，散发出开明的领导和永恒的优雅
+
 A powerful magic patriarch
+a powerful magic patriarch, wielding arcane energies amidst swirling constellations and cosmic dust in a celestial observatory, embodying magical mastery and cosmic knowledge, profoundly arcane // 一位强大的魔法族长，在天体观测台中，挥舞着神秘的能量，置身于旋转的星座和宇宙尘埃之中，体现着魔法的精湛技艺和宇宙的知识，极其神秘
+a powerful magic patriarch, framed by the celestial sphere and infinite cosmos of a magical domain, radiating arcane power and cosmic insight // 一位强大的魔法族长，以魔法领域天球和无限的宇宙为框架，散发出神秘的力量和宇宙的洞察力
+
 A demon world chief with fiery eyes
+a demon world chief with fiery eyes, enthroned upon a obsidian throne amidst lava rivers and infernal flames in a demon citadel, embodying demonic authority and fiery wrath, terrifyingly imposing // 一位魔界首领，双眼燃烧着火焰，在恶魔城堡中，端坐在黑曜石王座上，置身于熔岩河流和地狱般的火焰之中，体现着恶魔的权威和炽热的愤怒，极其令人生畏
+a demon world chief with fiery eyes, framed by the volcanic landscape and infernal abyss of a demon realm, radiating demonic power and fiery dominion // 一位魔界首领，双眼燃烧着火焰，以恶魔领域火山 landscape 和地狱般的深渊为框架，散发出恶魔的力量和火热的统治
+
 A man with a cat's head exotic and mysterious
+a man with a cat's head exotic and mysterious, adorned in opulent robes amidst incense smoke and ancient artifacts in a hidden temple chamber, embodying feline grace and enigmatic wisdom, deeply intriguing // 一位长着猫头、充满异国情调和神秘感的男人，身着华丽的长袍，置身于隐藏寺庙房间的香烟和古代文物之中，体现着猫科动物的优雅和神秘的智慧，极其引人入胜
+a man with a cat's head exotic and mysterious, framed by the dimly lit chambers and hieroglyphic walls of an ancient egyptian sanctuary, radiating feline mystique and arcane knowledge // 一位长着猫头、充满异国情调和神秘感的男人，以古埃及圣殿昏暗的房间和象形文字的墙壁为框架，散发出猫科动物的神秘感和神秘的知识
+
 A mighty orc chief with fierce strength
-A zombie rising from the grave
-A  skeletal king
-A dragonborn warlock with mystical powers
-A cyberpunk man ape
-A vampire king with sharp fangs and glowing eyes
-A wizard devil casting a spell
-A devil with fiery horns
-A fierce orc king with battle scars
-A death god with a dark aura
-a mighty bull demon king
-
-----------------------------------------------initial, Contributed by MW: 最初的, MW 贡献
-
-A handsome soldier in uniform
-A stern policeman on duty
-A fatherly man with a gentle smile
-A beautiful, ethereal fairy
-A mystical mermaid with flowing hair
-A beautiful woman in police uniform
-A metallic, robotic girl with glowing features
-A caring, motherly girl
-A strong, masculine man
-A chivalrous man offering a helping hand
-A dapper, well-dressed man
-A handsome man with a confident posture
-A muscular, macho man
-A regal royal woman in elegant attire
-A stunning beach woman in a bikini
-A beautiful Chinese classical woman in traditional dress
-A graceful Imperial Concubine in royal attire
-A beautiful Khātam girl with traditional features
-A brave grenadier in military uniform
-A quintessential technocrat with a serious demeanor
-A short, dwarfish warrior in armor
-An elfin girl with pointed ears and mystical aura
-A cybernetic female robot with futuristic design
-A regal emperor in royal portrait style
-A queen in a majestic gown
-A skilled swordsman with a sharp blade
-A fierce warrior ready for battle
-A beautiful angel with delicate wings
-A wise, white Gandalf-like wizard
-A beautiful girl in a flowing Hanfu dress
-A silhouette of a woman at dusk
-A man with a cat's head, exotic and mysterious
-A male adult film star with confident charm
-A strong, penetrating man with intense eyes
-A perky, energetic man with a broad smile
-A tough guy with a rugged look
-A scruffy man with a disheveled appearance
-A teenage boy, handsome and fresh-faced
-A young virgin with innocent eyes
-A muscular, handsome man with defined features
-A stylish male model striking a pose
-A beautiful woman with a cat's head, mystical charm
-A beautiful actress with a captivating smile
-A graceful female model in fashion pose
-A beautiful, sensual nurse in a healing pose
-A seductive female student with a curious expression
-A beautiful Medusa with mesmerizing eyes
-A playful, frisky girl with a mischievous smile
-A wise Elven king with a crown of leaves
-A beautiful, youthful loli with innocence
-A beautiful traditional woman in classic attire
-A beautiful oriental woman with exotic features
-A powerful magic patriarch with ancient wisdom
-A demon world chief with fiery eyes
-A mighty orc chief with fierce strength
-A spectral figure in ghostly attire
-A zombie rising from the grave
-A skeletal figure with hollow eyes
-A dragonborn warlock with mystical powers
-A cyberpunk ape with high-tech enhancements
-A vampire with sharp fangs and glowing eyes
-A wizard casting a spell in the dark
-A devil with fiery horns and red skin
-A fierce female orc with battle scars
-A death god with a dark aura
-
--------------------------------------------------------
+a mighty orc chief with fierce strength, enthroned upon a crude stone throne amidst tribal banners and war drums in an orcish stronghold, embodying brutal power and warlike command, savagely dominant // 一位强大的兽人首领，拥有强大的力量，在兽人要塞中，端坐在简陋的石头王座上，置身于部落旗帜和战鼓之间，体现着野蛮的力量和好战的指挥，野蛮地统治
+a mighty orc chief with fierce strength, framed by the rugged terrain and war-torn landscape of an orcish territory, radiating brute force and tribal authority // 一位强大的兽人首领，拥有强大的力量，以兽人领地崎岖的地形和战火纷飞的 landscape 为框架，散发出蛮力

@@ -1,22 +1,29 @@
-a majestic chinese ancient palace architecture
-an antarctica landscape
-the avenue of the baobabs
-a beautiful bay
-a beautiful bayou
-a seascape
-a waterside city
-a wetland landscape
-a heavenly capital
-a precipitous cliff and colossal statues
-a regal ancient palace in heaven
-a rustic floral house in clouds
-a spooky secluded magic landscape
-spectacular dreamlike ships in space
-a supernatural landscape
-aliens invading a fantasy landscape
-a portal to heaven
-an art deco city
-a scientific base
-an opulent throne room
-a narrow corridor to hell
-a soaring magic building in cloud
+// Mythical Animals, Demons, monsters 神兽, 妖魔鬼怪
+
+A huge and terrifying Cthulhu // 巨大恐怖的克苏鲁
+A fire-breathing Dragon // 喷火龙
+A wise and ancient Phoenix // 智慧古老的凤凰
+A giant with a single eye Cyclops // 独眼巨人，独眼巨人
+A magical unicorn // 魔法独角兽
+A sea monster Kraken // 海怪，克拉肯
+A giant wolf Fenrir // 巨狼，芬里尔
+A living snowman Yeti // 活着的雪人，雪人
+A shapeshifting dragon Fafnir // 变形龙，法夫纳
+A giant bird Roc // 巨鸟，洛克
+A mischievous goblin Puck // 顽皮的小妖精，帕克
+A fierce harpy // 一位凶猛的哈比
+A fierce termagant // 一位激烈的怪兽
+A fierce male termagant // 一位激烈的怪兽
+A magical deer Kirin // 魔法鹿，麒麟
+A giant turtle Gamera // 巨龟，卡美拉
+A multi-tailed beast Kyuubi // 多尾兽，九尾
+A forest spirit Kodama // 森林精灵，木灵
+A water serpent Naga // 水蛇，纳迦
+A fiery bird Bennu // 火鸟，贝努
+A guardian lion Shisa // 守护狮，狮子
+A giant ape King Kong // 巨猿，金刚
+A flesh-eating ghoul Gaki // 食人鬼，饿鬼
+A one-horned beast Narwhal // 独角兽，独角鲸
+A fire spirit Salamander // 火精灵，火蜥蜴
+A fiery phoenix Suzaku // 火凤凰，朱雀
+A sea monster Leviathan // 海怪，利维坦

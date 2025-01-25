@@ -10,6 +10,16 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 
 ## 📣 Updates
 
+[2025-01-21]⚒️: 
+
+- `txt` file support `//` comments: The line for comments will be ignored.
+
+- Add more prompts (human and poses):
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-25_22-47-23.png)
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-25_22-49-40.png)
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-25_22-58-00.png)
+
 [2025-01-10]⚒️: 
 
 - human_pose → pose: Any subject can set pose. Please promptly change the file name `human_pose` to `pose`.
@@ -76,6 +86,17 @@ ComfyUI-Fluxpromptenhancer: https://github.com/marduk191/ComfyUI-Fluxpromptenhan
 这是一个在 comfyui 中一键生成 flux 提示的节点.
 
 ## 📣 更新
+
+[2025-01-21]⚒️: 
+
+- “txt” 文件支持 “//” 注释：注释行将被忽略。
+
+- 添加更多 prompts (人物和姿态):
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-25_22-47-23.png)
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-25_22-49-40.png)
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-01-25_22-58-00.png)
+
 
 [2025-01-10]⚒️: 
 

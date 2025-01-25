@@ -1,198 +1,111 @@
--------------------------------------------------------Contributed by MW:  MW 贡献
 
-a thulhu
+// building 建筑
 
+A marble temple with Doric columns, a testament to the Classical Greek style
+A massive amphitheater of concrete, characteristic of the Classical Roman style
+A gold-mosaic-domed cathedral, showcasing Byzantine architectural style
+A round-arched monastery in the Romanesque style
+A pointed-arch cathedral with stained glass, in the Gothic style
+A symmetrical villa with classical pilasters, a hallmark of the Renaissance style
+A swirling palace with gilded decorations, emblematic of the Baroque style
+An asymmetrical pavilion with floral motifs, in the Rococo style
+A monumental legislative building with Doric columns, exemplifying the Neoclassical style
+An ironwork-adorned hotel with organic forms, representative of the Art Nouveau style
+A stepped skyscraper with geometric patterns, in the Art Deco style
+A glass-walled house with clean lines, a clear expression of Modernist style
+A fragmented museum with eclectic forms, a signature of Postmodernist style
+An asymmetrical concert hall with dynamic shapes, showcasing Deconstructivist style
+A whitewashed resort with terracotta roofs, a typical example of the Mediterranean style
+A grand mansion with wide verandahs, reflecting the Colonial style
+An ornate townhouse with bay windows, a hallmark of Victorian style
+An elegant country estate with refined details, in the Edwardian style
+A half-timbered manor house with exposed beams, embodying the Tudor style
+A low-slung residence with open floor plan, a creation of Prairie School style
+A functional workshop with unadorned design, in the Bauhaus style
+A glass and steel office tower, characteristic of the International style
+An exposed concrete library with monolithic form, exhibiting Brutalist style
+A sustainably-built community center with local materials, showcasing Neo-Vernacular style
+A minaret-topped mosque with geometric patterns, a representation of Islamic style
+A white-marble mausoleum with inlaid stones, exemplifying Mughal style
+A gopuram-adorned temple with sculptures, in the Hindu style
+A tiered-roof pagoda with serene surroundings, reflecting Buddhist style
+A minimalist tea house with paper doors, a hallmark of Japanese style
+A tiled-roof ancestral hall with intricate woodwork, a characteristic of Classical Chinese style
+A curved-roof pavilion with decorative patterns, in the Korean style
+A colorful hacienda with terracotta tiles, embodying Mexican Colonial style
+A stucco mission with red tile roofs, showcasing Spanish style
+A stone fortress in a strategic location, characteristic of the Portuguese style
+A stepped-gable canal house with brick facade, embodying Dutch style
+A timber-frame mountain lodge with sloping roof, typical of the Swiss Chalet style
+A light-wood cabin with simple design, in the Scandinavian style
+An onion-domed church with ornate decorations, in the Russian style
+A mud-brick village with thatched roofs, embodying African Tribal style
+A stepped pyramid with intricate carvings, in the Mayan style
+A stone citadel with precise stone work, showcasing the Incan style
+A hieroglyphic-inscribed obelisk, a symbol of Egyptian style
+A colorful townhouse with detailed balconies, in the Columbian style
+A curved-line condominium using concrete, emblematic of Brazilian style
+A classical estate with expansive grounds, embodying Argentine style
+A stone temple ruins showing ancient building methods, in the Peruvian style
+A sleek museum with innovative lines, representing the Chilean style
+A log-built timber lodge in a natural setting, typical of Canadian style
+A symmetrical residence with classical details, in the American Colonial Revival style
+An exposed-beam bungalow with handcrafted details, in the American Craftsman style
+A steel-framed skyscraper with large windows, a hallmark of the Chicago School
+A light-colored beach house with open design, typical of Florida style
+A sturdy barn with practical design, exemplifying Oklahoma style
+An adobe pueblo with flat roofs, in the New Mexican style
+A spacious plantation house with lanais, characteristic of the Hawaiian style
+A minimalist office building with modern materials, showcasing African Modernism
+An intricate palace with latticework and arches, embodying Arabian style
+A tilework garden pavilion with water features, in the Persian style
+A marble hammam with arched ceilings, a signature of Turkish style
+A portable ger with circular structure and felt, in the Mongolian style
+A tiered-roof pagoda with carved details, representative of the Nepalese style
+A tiled-roof communal house with carved wood, in the Vietnamese style
+An ancient temple complex with intricate carvings, exemplifying Cambodian style
+A gilded-roof wát with ornate decorations, in the Thai style
+A uniquely-built temple in a serene setting, showcasing Laotian style
+A golden pagoda with stupas and decorations, emblematic of Burmese style
+A sleek skyscraper with innovative design, in the Malaysian style
+A wooden traditional house with unique designs, exemplifying Indonesian style
+A baroque colonial church with historical significance, typical of Filipino style
+A natural-material eco-lodge with sustainable design, in the New Zealand style
+A spacious ranch house with open design, embodying the Australian style
+A traditional adobe house with local materials, in the Ghanaian style
+A colorful urban residence with innovative structures, representative of Nigerian style
+A circular maasai home with sturdy structure, in the Kenyan style
+A geometric cultural center echoing ancient designs, in the Egyptian Modern style
+A riad with zellige tiles and carved stucco, a characteristic of Moroccan style
+A white-washed medina house, embodying Tunisian style
+A thick-walled fortress in a strategic location, typical of Algerian style
+A desert dwelling crafted for arid climate, a hallmark of Libyan style
+A modern suburban residence with sleek lines, showcasing South African style
+A stone ruin demonstrating advanced building methods, reflecting Zimbabwean style
+A desert dwelling adapted for a harsh climate, in the Namibian style
+A colonial church with unique architecture, representative of Angolan style
+A coastal town house with colonial influence, showcasing Mozambican style
+A traditional house with local materials, in the Madagascan style
+An ancient church with cone shaped domes, in the Armenian style
+A medieval fortress, showcasing the Georgian style
+A wooden church with unique onion domes, representative of the Ukrainian style
+A traditional farmhouse of natural materials, a hallmark of Belarusian style
+A medieval castle with historical significance, characteristic of Polish style
+A baroque church with ornate architecture, in the Czech style
+A gothic parliament building, representing Hungarian style
+A grand palace reflecting royal history, embodying Austrian style
+A sleek mountain chalet in natural surroundings, in the Swiss Modern style
+A cozy sauna built with natural materials, typical of the Finnish style
+A simple turf house blending with its surroundings, in the Icelandic style
+A stone cottage with local materials, showcasing Irish style
+A towering castle with a rich history, emblematic of Scottish style
+A stone farmhouse in rough terrain, typical of Welsh style
+A cutting-edge art gallery with innovative use of space, representing British Modern style
+
+
+// other 其他
 
 a martial arts silhouette
 A sexy and alluring silhouette of a woman
 A spectral figure
 
-
-
-a convertible
-a coupe
-a motorcycle
-a tank
-
-
-
-a charming panda
-a fierce bear
-a hedgehog
-a hippopotamus
-a fierce leopard
-an elephant
-an affenpinscher
-a beautiful crane
-a heron
-an arctic fox
-a fennec fox
-a fire wolf
-a chibi dragon
-a dragon
-a deer with beautiful horns
-a camel
-a majestic horse
-a herd of horses
-a male lion
-
-
-
-------------------------------------------------------initial, Contributed by MW: 最初的, MW 贡献
-
-Cthulhu
-Convertible
-Coupe
-Dragster
-Hatchback
-Hearse
-Hotrod
-Humvee
-Jeep
-Van
-Motorcycle
-Tank
-Hedgehog
-Hippopotamus
-Fierce Leopard
-Elephant
-Affenpinscher
-Beautiful Crane
-Heron
-Arctic Fox
-Fennec Fox
-Fire Wolf
-Chibi Dragon
-Dragon
-Deer with beautiful horns
-Deer
-Camel
-Majestic Horse
-Herd of Horses
-Zebra
-Mighty Bull Demon King
-Mighty Bull with long horns
-Beautiful Antarctic Cyber Penguin
-Mighty Lion
-Fierce Lion close-up
-Fierce Bear
-Beautiful and Lovely Bear
-Charming Panda
-Beautiful Swan
-Cyber Swan
-Long-Horned Ram
-Lovely Alpaca
-Parrotlet
-Spix's Macaw
-Bearded Vulture
-Cinereous Vulture
-Marble Caves in Chile
-Benagil Sea Cave, Portugal
-Reed Flute Cave, China
-Crystal Caves, Iceland
-Frasassi Caves, Italy
-Antarctica Landscape
-Avenue of the Baobabs
-Most Beautiful Bay in the World
-Most Beautiful Bayou
-Mount Ararat
-Mount Blanc
-Mount Everest
-Mount Fuji
-Mount Kenya
-Seascape
-Serengeti National Park
-Sloping Meadows
-The Dark Hedges
-Grand Canyon
-Lofoten Islands
-Torres del Paine National Park
-Victoria Falls
-Wadi Rum
-Beautiful Waterfalls
-Waterside City
-Wetland Landscape
-Wulingyuan Scenic Area
-Yulong Xueshan
-Ship and Huge Storm on the Sea
-Cactus Kingdom
-Mountainous Landscape
-Giant Ships and Storms
-Beautiful Ornate Landscape
-Placid Lakescape
-Precipitous Waterfalls
-Heavenly Capital
-Precipitous Cliff with River
-Precipitous Cliff and Colossal Statues
-Magic Dense Primordial Forest
-Regal Ancient Palace in Heaven
-Regal Ancient Palace in Clouds
-Rustic Floral House in Clouds
-Spooky Secluded Magic Landscape
-Spectacular Dreamlike Ships in Space
-Staggering Wonder Landscape
-Sublime Beauty of Nature
-Supernatural Landscape at Night
-Aliens Invading Fantasy Landscape
-Reclusive Fantasy Landscape
-Angkor Wat
-Burj Khalifa
-Colosseum
-Eiffel Tower
-Empire State Building
-Hagia Sophia
-La Sagrada Familia
-Lotus Temple
-Namcha Barwa Architecture
-Notre Dame Cathedral
-Parliament Building
-Parthenon
-Pavilion
-Petra Historical City
-Saint Basil’s Cathedral
-Sydney Opera House
-Taj Mahal
-Heydar Aliyev Center
-Palace of Westminster
-Dreamlike Seaside Tower at Moonlight
-Domed Building
-Pagoda
-Portal to Heaven
-Art Deco City
-Infinite Hallway
-Shining Hotel Lobby
-Scientific Base
-Giant Skyscraper
-Predjama Castle, Slovenia
-Majlis al Jinn, Oman
-Ajanta Caves, India
-Legislative Edifice
-Magnificent Building
-Narrow Corridor to Hell
-Narrow Corridor to Heaven
-Opulent Apartment
-Opulent Detached Houses
-Opulent Throne Room
-Palatial Chamber
-Palatial Office Building
-Palatial House with Lights at Night
-Quintessential Symbol of a City
-Spooky Sacrificial Building
-Soaring Magic Building in Cloud
-Soaring Building
-Spiraled Science Fiction Building
-Magic Subterranean Research Station
-Towering Ancient Temples in Rosy Clouds
-Towering Sci-Fi Space Station in Universe
-Beautiful Modern Architecture in Clouds
-Beautiful Ancient Architecture in China at Dusk
-Cyberpunk Bustling Downtown
-Intricate Deconstructivism Architecture
-Fractalism Building
-Beautiful Architectural Painting
-Art Deco Palace Lobby
-Art Nouveau Gorgeous Architecture Interior
-Baroque Gorgeous Architecture Interior
-Martial Arts Silhouette at Dusk
-
--------------------------------------------------------------
