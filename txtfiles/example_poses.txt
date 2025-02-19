@@ -259,3 +259,22 @@ Looking directly at the camera with an intense gaze // 用强烈的目光直视�
 Kicking forcefully into the air // 用力踢向空中
 Floating serenely in a meditative pose // 以冥想的姿势安详地漂浮
 Shielding their eyes with one hand // 用一只手遮住眼睛
+
+
+// camera angle 拍摄角度
+
+low angle shot // 低角度拍摄
+high angle shot // 高角度拍摄
+dutch angle shot // 荷兰式角度拍摄
+eye level shot // 平视角度拍摄
+bird's eye view shot // 鸟瞰拍摄
+worm's eye view shot // 虫视角拍摄
+over the shoulder shot // 过肩拍摄
+point of view shot // 视角拍摄
+close-up shot // 特写镜头
+medium shot // 中景镜头
+long shot // 远景镜头
+extreme long shot // 极远景镜头
+aerial shot // 航拍
+profile shot // 侧面拍摄
+frontal shot // 正面拍摄

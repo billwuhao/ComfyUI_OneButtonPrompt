@@ -8,6 +8,26 @@
 
 ## 📣 更新
 
+[2025-02-19]⚒️: 支持本地 DeepSeek R1. 
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_10-32-16.png)
+
+[DeepScaleR-1.5B-Preview](https://hf-mirror.com/agentica-org/DeepScaleR-1.5B-Preview) 超越 OpenAI's O1-Preview 的性能. 将模型以及所有配置文件手动下载到 `ComfyUI\models\LLM\DeepScaleR-1.5B-Preview` 下即可使用.
+
+- 自定义主题用法:
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_19-22-49.png)
+
+- 高级自动提示用法:
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_19-19-26.png)
+
+这样 `{ a beautiful girl | a handsome man | a sexy woman | a naughty child | a future interstellar animal | a transportation  vehicle| a space vehicle | A fantastic building | a landscape of lake and mountain | a Chinese landscape| a sea landscape| a city landscape}` 设置好主题, 会自动随机选一个主题生成提示词.
+
+- 其他更多用法留给您自己去开发吧.
+
+- 生成效果:
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_20-00-01.png)
+
+
 [2025-01-21]⚒️: 
 
 - “txt” 文件支持 “//” 注释：注释行将被忽略。

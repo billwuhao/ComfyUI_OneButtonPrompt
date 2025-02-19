@@ -1,553 +1,489 @@
+// male, 男性
+
+A handsome soldier
+
+A fatherly man with a gentle smile
+
+A strong masculine man
+
+A chivalrous man
+
+A dapper well-dressed man
+
+A muscular macho man
+
+A quintessential technocrat
+
+A regal emperor in royal portrait style
+
+A  handsome young man in a flowing Hanfu dress
+
+A strong penetrating man with intense eyes
+
+A tough guy with a rugged look
+
+A scruffy man with a disheveled appearance
+
+A teenage boy handsome and fresh-faced
+
+A muscular handsome man with defined features
+
+a playful boy // 一个顽皮的男孩
+
+a wise elder // 一个智慧的长者
+
+a joyful kid // 一个快乐的小孩
+
+a charming male // 一个迷人的男性
+
+a daring youngster // 一个大胆的年轻人
+
+a nimble youth // 一个敏捷的青年
+
+a rugged chap // 一个粗犷的家伙
+
+a fierce male // 一个凶猛的男性
+
+a steadfast bloke // 一个坚定的家伙
+
+
+
+// Fantasy sci-fi male, 奇幻科幻男性
+
+
+A short dwarfish warrior in armor
+
+A regal emperor
+
+A skilled swordsman
+
+A fierce male warrior ready for battle
+
+A wise white Gandalf-like wizard
+
+A man with bull horns exotic and mysterious
+
+a strong lad // 一个强壮的少年
+
+a sly rogue // 一个狡猾的流氓
+
+a valiant male hero // 一个英勇的英雄
+
+a clever urchin // 一个聪明的顽童
+
+a mischievous imp // 一个淘气的男孩
+
+a vibrant youngling // 一个充满活力的年轻人
+
+a bold gallant // 一个大胆的骑士
+
+a thoughtful scholar // 一个深思的学者
+
+a cunning knave // 一个狡猾的小伙子
+
+a wise sage // 一个智慧的智者
+
+a daring adventurer // 一个大胆的冒险者
+
+a sturdy chap // 一个结实的家伙
+
+a bold swain // 一个大胆的青年
+
+A Monkey King Sun Wukong // 孙悟空
+
+A trickster god Loki // 恶作剧之神，洛基
+
+A vampire with eternal life Dracula // 永生的吸血鬼，德古拉
+
+A ghostly samurai Yurei // 幽灵武士，幽灵
+
+A god of thunder Thor // 雷神，托尔
+
+A multi-armed demon Asura // 多臂恶魔，阿修罗
+
+A haunting banshee // 一位神秘的女鬼
+
+A shadow demon Noppera-bo // 无面鬼，无面坊
+
+A storm god Susanoo // 风暴之神，须佐之男
+
+A mountain god Tengu // 山神，天狗
+
+A skeletal horseman Dullahan // 骷髅骑士，杜拉汉
+
+A river god Kappa // 河神，河童
+
+A death god Anubis // 死神，安努比斯
+
+A sea god Poseidon // 海神，波塞冬
+
+A storm giant Jotun // 风暴巨人，约顿
+
+A plague bringer Pestilence // 瘟疫使者，瘟疫
+
+A frost giant Ymir // 冰霜巨人，伊米尔
+
+A guardian dragon Ryu // 守护龙，龙
+
+A trickster kitsune Tamamo-no-Mae // 诡计多端的狐狸，玉藻前
+
+A night hag Nightmare // 夜魔，梦魇
+
+A two-faced god Janus // 双面神，雅努斯
+
+A sky god Zeus // 天空神，宙斯
+
+An earth god Gaia // 地神，盖亚
+
+A dark deity Erebus // 黑暗之神，厄瑞玻斯
+
+A chaos bringer Discordia // 混乱使者，不和
+
+A fertility god Freyr // 丰饶之神，弗雷
+
+A time deity Chronos // 时间之神，克洛诺斯
+
+A wisdom god Odin // 智慧之神，奥丁
+
+A music deity Orpheus // 音乐之神，俄耳甫斯
+
+A forge god Hephaestus // 锻造之神，赫菲斯托斯
+
+A wine god Dionysus // 酒神，狄俄尼索斯
+
+A commerce god Mercury // 商业神，墨丘利
+
+A war god Mars // 战争神，玛尔斯
+
+A trickster Coyote // 诡计多端的角色，郊狼
+
+A death deity Thanatos // 死神，塔纳托斯
+
+A sleep deity Hypnos // 睡神，许普诺斯
+
+A sea deity Triton // 海神，特里同
+
+A fire deity Pele // 火神，佩勒
+
+A fertility god Cernunnos // 丰饶之神，塞尔努诺斯
+
+A trickster god Anansi // 恶作剧之神，阿南西
+
+An underworld god Hades // 冥界神，哈迪斯
+
+A harvest god Lugh // 丰收神，卢
+
+A creation god Brahma // 创造神，梵天
+
+A destruction god Shiva // 毁灭神，湿婆
+
+A poetry god Apollo // 诗歌神，阿波罗
+
+A death god Osiris // 死神，奥西里斯
+
+A mischievous male elf // 一个淘气的精灵
+
+A strong male amazon // 一位强大的亚马逊战士
+
+A fierce male harpy // 一位凶猛的哈比
+
+A powerful male valkyrie // 一位强大的武神
+
+A mystical witchdoctor // 一个神秘的巫医
+
+A commanding male sylph // 一位指挥的风精灵
+
+A determined zealot // 一位坚定的狂热者
+
+A eerie zombie // 一个可怕的僵尸
+
+A wise Elven king with a crown of leaves
+
+A powerful magic patriarch
+
+A demon world chief with fiery eyes
+
+A man with a cat's head exotic and mysterious
+
+A mighty orc chief with fierce strength
+
+
 // female 女性
 
 A sexy and beautiful actress
-a sexy and beautiful actress, enveloped in a scarlet gown amidst flashing paparazzi bulbs // 一位性感而美丽的女演员，身着猩红色礼服，置身于闪烁的狗仔队闪光灯中
-a sexy and beautiful actress, adorned with diamond jewelry under the soft glow of a vintage theater marquee // 一位性感而美丽的女演员，在复古剧院的柔和光芒下，佩戴着钻石珠宝
 
 A fashionable female model
-a fashionable female model, silhouetted against the stark lines of a brutalist architectural marvel // 一位时尚的女模特，以野兽派建筑奇迹的鲜明线条为轮廓
-a fashionable female model, surrounded by an array of avant-garde garments in a minimalist white studio // 一位时尚的女模特，身处极简主义白色工作室中，周围环绕着一系列前卫服装
 
 a sensual female student
-a sensual female student, bathed in the warm afternoon light of a sun-drenched library // 一位性感的性感女学生，沐浴在阳光普照的图书馆温暖的午后阳光中
-a sensual female student, framed by the soft focus of blooming cherry blossoms in a tranquil campus garden // 一位性感的性感女学生，在宁静的校园花园中，以盛开的樱花柔和的焦点为框架
 
 a fair young maiden
-a fair young maiden, encircled by a halo of wildflowers in a verdant meadow at dawn // 一位白皙的年轻少女，在黎明时分，被翠绿草地上野花的晕圈环绕
-a fair young maiden, illuminated by the ethereal glow of fireflies in a twilight forest glade // 一位白皙的年轻少女，在暮色森林空地的萤火虫空灵光芒中被照亮
 
 a beautiful teenage female
-a beautiful teenage female, highlighted by the neon glow of a bustling Asian night market // 一位美丽的少女，在熙熙攘攘的亚洲夜市的霓虹灯光中凸显出来
-a beautiful teenage female, backdropped by the vast expanse of a starlit ocean horizon // 一位美丽的少女，以星光熠熠的海洋地平线的广阔为背景
 
 a beautiful voluptuous noblewoman
-a beautiful voluptuous noblewoman, draped in rich velvet within the ornate halls of an ancient castle // 一位美丽丰满的贵妇，身披华丽天鹅绒，置身于古老城堡华丽的大厅之中
-a beautiful voluptuous noblewoman, adorned with pearls and lace against the backdrop of a lavish baroque palace // 一位美丽丰满的贵妇，以巴洛克式豪华宫殿为背景，装饰着珍珠和蕾丝
 
 a beautiful traditional woman
-a beautiful traditional woman, framed by the intricate carvings of an ancient wooden pagoda // 一位美丽的传统女性，以古老木塔错综复杂的雕刻为框架
-a beautiful traditional woman, surrounded by the vibrant colors of a bustling spice market in Marrakech // 一位美丽的传统女性，周围环绕着马拉喀什熙熙攘攘的香料市场充满活力的色彩
 
 a beautiful orientalism woman
-a beautiful orientalism woman, enveloped in silk and jewels within the opulent chambers of a sultan's palace // 一位美丽的东方主义女性，身着丝绸和珠宝，置身于苏丹皇宫富丽堂皇的房间内
-a beautiful orientalism woman, backdropped by the majestic silhouettes of desert pyramids at sunset // 一位美丽的东方主义女性，以日落时分沙漠金字塔的雄伟轮廓为背景
 
 A regal royal woman in elegant attire
-a regal royal woman in elegant attire, enthroned upon a gilded dais within a grand imperial court // 一位身着优雅服饰的威严皇室女性，在宏伟的帝国宫廷中，端坐在镀金的台子上
-a regal royal woman in elegant attire, framed by the sweeping arches of a palatial royal garden in full bloom // 一位身着优雅服饰的威严皇室女性，以盛开的宫殿式皇家花园的 sweeping 拱门为框架
 
 A beautiful Chinese classical woman
-a beautiful chinese classical woman, adorned in jade and silk amidst a misty bamboo forest grove // 一位美丽的中国古典女性，身着玉器和丝绸，身处迷雾缭绕的竹林之中
-a beautiful chinese classical woman, framed by the delicate brushstrokes of a traditional ink wash painting // 一位美丽的中国古典女性，以传统水墨画的细腻笔触为框架
 
 A graceful Imperial Concubine in royal attire
-a graceful imperial concubine in royal attire, illuminated by the soft glow of lanterns within a secluded palace courtyard // 一位身着皇室服装的优雅皇妃，在僻静的宫殿庭院中，被灯笼的柔和光芒照亮
-a graceful imperial concubine in royal attire, backdropped by the serene expanse of a lotus pond in a royal garden // 一位身着皇室服装的优雅皇妃，以皇家花园中宁静的荷花池塘为背景
 
 A beautiful Khātam girl with traditional features
-a beautiful khātam girl with traditional features, adorned with intricate henna patterns in a sunlit desert oasis // 一位具有传统特征的美丽 Khatam 女孩，在阳光普照的沙漠绿洲中，装饰着错综复杂的指甲花图案
-a beautiful khātam girl with traditional features, framed by the vibrant textiles of a bustling Persian bazaar // 一位具有传统特征的美丽 Khatam 女孩，以熙熙攘攘的波斯集市充满活力的纺织品为框架
 
 A queen in a majestic gown
-a queen in a majestic gown, standing upon a balcony overlooking a vast kingdom at dawn // 一位身着华丽礼服的王后，站在阳台上，俯瞰着黎明时分广阔的王国
-a queen in a majestic gown, framed by the towering spires of a gothic cathedral in a snow-covered city // 一位身着华丽礼服的王后，以哥特式大教堂高耸的尖顶为框架，置身于白雪皑皑的城市中
 
 A beautiful girl in a flowing Hanfu dress
-a beautiful girl in a flowing hanfu dress, surrounded by the falling petals of peach blossoms in a spring garden // 一位身着飘逸汉服的美丽女孩，在春日花园中，被飘落的桃花花瓣环绕
-a beautiful girl in a flowing hanfu dress, silhouetted against the moonlit sky on a tranquil lake shore // 一位身着飘逸汉服的美丽女孩，在宁静的湖岸边，以月光下的天空为剪影
 
 A beautiful girl // 一个美丽的女孩
-a beautiful girl, bathed in the warm hues of a setting sun over a golden wheat field // 一位美丽的女孩，沐浴在金色麦田上日落的温暖色调中
-a beautiful girl, framed by the vibrant street art of a bohemian urban alleyway // 一位美丽的女孩，以波西米亚都市小巷充满活力的街头艺术为框架
 
 A graceful woman // 一个优雅的女人
-a graceful woman, enveloped in soft, flowing silk against a backdrop of cascading waterfalls // 一位优雅的女人，身着柔软飘逸的丝绸，背景是层叠的瀑布
-a graceful woman, highlighted by the warm candlelight within a grand ballroom of a bygone era // 一位优雅的女人，在昔日宏伟舞厅的温暖烛光中凸显出来
 
 A charming lady // 一位迷人的女士
-a charming lady, adorned with pearls and lace in a quaint Parisian café bathed in morning light // 一位迷人的女士，在沐浴在晨光中的古朴巴黎咖啡馆里，装饰着珍珠和蕾丝
-a charming lady, framed by the lush greenery of an Italian villa garden in full bloom // 一位迷人的女士，以盛开的意大利别墅花园葱郁的绿色植物为框架
 
 A stunning female // 一位惊艳的女性
-a stunning female, silhouetted against the dramatic skyline of a futuristic metropolis at twilight // 一位惊艳的女性，在暮色时分，以未来都市的戏剧性天际线为剪影
-a stunning female, bathed in the ethereal glow of bioluminescent flora in a hidden jungle grotto // 一位惊艳的女性，在隐藏的丛林石窟中，沐浴在生物发光植物的空灵光芒中
 
 A delicate maiden // 一位温柔的少女
-a delicate maiden, encircled by a wreath of daisies in a sun-dappled forest clearing // 一位温柔的少女，在阳光斑驳的森林空地上，被雏菊花环环绕
-a delicate maiden, illuminated by the soft glow of a bedside lamp in a cozy cottage bedroom // 一位温柔的少女，在舒适的小屋卧室里，被床头灯的柔和光芒照亮
 
 A gentle damsel // 一位温柔的少女
-a gentle damsel, framed by the weeping willow branches along a tranquil riverbank at dawn // 一位温柔的少女，以黎明时分宁静的河岸边垂柳枝条为框架
-a gentle damsel, surrounded by the soft hues of pastel-colored houses in a charming seaside village // 一位温柔的少女，周围环绕着迷人海滨村庄粉彩色房屋的柔和色调
 
 A noble matron // 一位高贵的已婚女性
-a noble matron, draped in rich brocade within the opulent library of a stately manor // 一位高贵的已婚女性，身披华丽锦缎，置身于庄严庄园富丽堂皇的图书馆内
-a noble matron, adorned with family jewels against the backdrop of a formal portrait gallery // 一位高贵的已婚女性，以正式肖像画廊为背景，装饰着家族珠宝
 
 A lovely miss // 一位可爱的小姐
-a lovely miss, framed by the colorful balloons and festive decorations of a summer fair // 一位可爱的小姐，以夏季集市色彩缤纷的气球和节日装饰为框架
-a lovely miss, surrounded by the sweet aroma of freshly baked pastries in a charming village bakery // 一位可爱的小姐，周围环绕着迷人乡村面包店新鲜出炉的糕点的甜美香气
 
 A dignified mrs // 一位有尊严的夫人
-a dignified mrs, enveloped in a tailored suit within the wood-paneled office of a grand estate // 一位有尊严的夫人，身着定制套装，置身于宏伟庄园的木镶板办公室中
-a dignified mrs, adorned with a sophisticated hat against the backdrop of a blooming rose garden // 一位有尊严的夫人，以盛开的玫瑰园为背景，装饰着精致的帽子
 
 A courteous madam // 一位彬彬有礼的夫人
-a courteous madam, framed by the polished mahogany and leather-bound books of a gentlemen's club // 一位彬彬有礼的夫人，以绅士俱乐部抛光的红木和皮革装订的书籍为框架
-a courteous madam, surrounded by the delicate porcelain and silver of a formal afternoon tea setting // 一位彬彬有礼的夫人，周围环绕着正式下午茶环境的精致瓷器和银器
 
 A graceful madame // 一位优雅的女士
-a graceful madame, enveloped in a chic dress within a bustling Parisian bistro at twilight // 一位优雅的女士，身着别致的连衣裙，置身于暮色时分熙熙攘攘的巴黎小酒馆中
-a graceful madame, highlighted by the soft glow of streetlamps along a charming cobblestone avenue // 一位优雅的女士，在迷人的鹅卵石大街上，被路灯的柔和光芒凸显出来
 
 A distinguished señora // 一位尊贵的西班牙女士
-a distinguished señora, draped in elegant lace within the sun-drenched courtyard of a Spanish hacienda // 一位尊贵的西班牙女士，身披优雅蕾丝，置身于阳光普照的西班牙庄园庭院中
-a distinguished señora, adorned with gold jewelry against the backdrop of a vibrant flamenco dance performance // 一位尊贵的西班牙女士，以充满活力的弗拉门戈舞蹈表演为背景，装饰着黄金珠宝
 
 A charming señorita // 一位迷人的西班牙小姐
-a charming señorita, framed by the colorful tiles and blooming bougainvillea of a Seville patio // 一位迷人的西班牙小姐，以塞维利亚庭院色彩缤纷的瓷砖和盛开的九重葛为框架
-a charming señorita, surrounded by the lively music and laughter of a bustling Spanish fiesta // 一位迷人的西班牙小姐，周围环绕着熙熙攘攘的西班牙节日欢快的音乐和笑声
 
 A poised fraulein // 一位从容的德国小姐
-a poised fraulein, enveloped in a dirndl dress within a traditional Bavarian beer garden // 一位从容的德国小姐，身着紧身连衣裙，置身于传统的巴伐利亚啤酒花园中
-a poised fraulein, highlighted by the crisp mountain air and snow-capped peaks of the Bavarian Alps // 一位从容的德国小姐，在巴伐利亚阿尔卑斯山清新的山间空气和白雪皑皑的山峰中凸显出来
 
 A sophisticated mademoiselle // 一位复杂的法式小姐
-a sophisticated mademoiselle, framed by the chic boutiques and elegant storefronts of the Champs-Élysées // 一位复杂的法式小姐，以香榭丽舍大街别致的精品店和优雅的店面为框架
-a sophisticated mademoiselle, surrounded by the artistic atmosphere of a Montmartre painter's studio // 一位复杂的法式小姐，周围环绕着蒙马特画家工作室的艺术氛围
 
 A elegant signora // 一位优雅的意大利女士
-a elegant signora, draped in flowing silk within a grand Venetian palazzo overlooking a canal // 一位优雅的意大利女士，身披飘逸的丝绸，置身于俯瞰运河的威尼斯宫殿中
-a elegant signora, adorned with delicate jewelry against the backdrop of a sun-drenched Tuscan vineyard // 一位优雅的意大利女士，以阳光普照的托斯卡纳葡萄园为背景，装饰着精致的珠宝
 
 A gentle signorina // 一位温柔的意大利小姐
-a gentle signorina, framed by the blooming lemon trees and terracotta pots of a Sicilian courtyard // 一位温柔的意大利小姐，以西西里庭院盛开的柠檬树和赤陶花盆为框架
-a gentle signorina, surrounded by the aroma of fresh pasta and basil in a cozy trattoria kitchen // 一位温柔的意大利小姐，周围环绕着舒适的意大利餐厅厨房新鲜意大利面和罗勒的香气
 
 A spiritual nun // 一位虔诚的修女
-a spiritual nun, bathed in the soft light filtering through stained glass windows in an ancient abbey // 一位虔诚的修女，沐浴在透过古老修道院彩色玻璃窗户的柔和光线中
-a spiritual nun, framed by the stark white walls and simple wooden cross of a secluded monastery cell // 一位虔诚的修女，以僻静修道院牢房的白色墙壁和简朴的木制十字架为框架
 
 A hardworking maid // 一位勤劳的女仆
-a hardworking maid, enveloped in a simple uniform within the bustling kitchens of a grand estate // 一位勤劳的女仆，身着朴素的制服，置身于宏伟庄园熙熙攘攘的厨房中
-a hardworking maid, highlighted by the soft morning light streaming into a dust-filled attic room // 一位勤劳的女仆，在充满灰尘的阁楼房间中，被柔和的晨光凸显出来
 
 A royal princess // 一位高贵的公主
-a royal princess, adorned with a tiara and jewels within the opulent chambers of a royal palace // 一位高贵的公主，在皇家宫殿富丽堂皇的房间内，装饰着头饰和珠宝
-a royal princess, framed by the manicured gardens and fountains of a sprawling royal estate // 一位高贵的公主，以广阔皇家庄园修剪整齐的花园和喷泉为框架
 
 A majestic queen // 一位威严的女王
-a majestic queen, enthroned upon a carved stone throne within a vast throne room illuminated by torches // 一位威严的女王，在巨大的王座室内，端坐在雕刻的石头王座上，被火炬照亮
-a majestic queen, backdropped by the towering battlements of a medieval castle against a stormy sky // 一位威严的女王，以暴风雨天气下中世纪城堡高耸的雉堞为背景
 
 A seductive vixen // 一位诱人的狐狸精
-a seductive vixen, enveloped in shadows and lace within a dimly lit boudoir // 一位诱人的狐狸精，身着阴影和蕾丝，置身于昏暗的闺房中
-a seductive vixen, highlighted by the crimson glow of a roaring fireplace in a secluded mountain chalet // 一位诱人的狐狸精，在僻静的山间小屋中，被熊熊燃烧的壁炉的深红色光芒凸显出来
 
 A alluring temptress // 一位诱人的女神
-a alluring temptress, framed by the cascading vines and exotic flowers of a hidden jungle temple // 一位诱人的女神，以隐藏的丛林神庙层叠的藤蔓和奇异的花朵为框架
-a alluring temptress, surrounded by the mystical mist and ancient stones of a forgotten island ruin // 一位诱人的女神，周围环绕着被遗忘的岛屿废墟神秘的薄雾和古老的石头
 
 A refined geisha // 一位优雅的艺伎
-a refined geisha, adorned in silk kimono amidst the serene beauty of a traditional Japanese tea garden // 一位优雅的艺伎，身着丝绸和服，置身于传统日式茶园宁静的美景之中
-a refined geisha, framed by the delicate paper lanterns and cherry blossoms of a Kyoto teahouse // 一位优雅的艺伎，以京都茶馆精致的纸灯笼和樱花为框架
 
 A elegant courtesan // 一位高贵的妓女
-a elegant courtesan, enveloped in velvet and jewels within the opulent salon of a Parisian townhouse // 一位高贵的妓女，身着天鹅绒和珠宝，置身于巴黎联排别墅富丽堂皇的沙龙中
-a elegant courtesan, highlighted by the soft candlelight and perfume of a luxurious boudoir // 一位高贵的妓女，在豪华闺房中，被柔和的烛光和香水凸显出来
 
 A sensual concubine // 一位妩媚的妾
-a sensual concubine, framed by the silk drapes and ornate screens of a secluded palace chamber // 一位妩媚的妾，以僻静宫殿房间的丝绸帷幔和华丽屏风为框架
-a sensual concubine, surrounded by the exotic perfumes and incense of a harem bathhouse // 一位妩媚的妾，周围环绕着后宫浴室充满异国情调的香水和熏香
 
 A dignified countess // 一位尊贵的伯爵夫人
-a dignified countess, draped in ermine fur within the grand hall of a ancestral estate // 一位尊贵的伯爵夫人，身披貂皮大衣，置身于祖传庄园的宏伟厅堂中
-a dignified countess, adorned with family heirlooms against the backdrop of a formal dining room set for a feast // 一位尊贵的伯爵夫人，以正式宴会厅为背景，装饰着家族传家宝
 
 A poised duchess // 一位优雅的公爵夫人
-a poised duchess, framed by the manicured lawns and fountains of a sprawling country estate // 一位优雅的公爵夫人，以广阔乡村庄园修剪整齐的草坪和喷泉为框架
-a poised duchess, surrounded by the antique furniture and priceless artwork of a stately manor house // 一位优雅的公爵夫人，周围环绕着庄严宅邸的古董家具和无价艺术品
 
 A intelligent governess // 一位聪明的家庭教师
-a intelligent governess, enveloped in a modest gown within the book-lined study of a grand manor // 一位聪明的家庭教师，身着朴素的礼服，置身于宏伟庄园书架林立的书房中
-a intelligent governess, highlighted by the soft lamplight and stacks of books in a cozy attic classroom // 一位聪明的家庭教师，在舒适的阁楼教室中，被柔和的灯光和成堆的书籍凸显出来
 
 A wealthy heiress // 一位富有的继承人
-a wealthy heiress, framed by the luxury sports cars and opulent yachts of a Monaco harbor // 一位富有的继承人，以摩纳哥港口的豪华跑车和豪华游艇为框架
-a wealthy heiress, surrounded by the designer boutiques and exclusive clientele of a Rodeo Drive storefront // 一位富有的继承人，周围环绕着罗迪欧大道店面的设计师精品店和专属客户
 
 A elegant marchioness // 一位优雅的侯爵夫人
-a elegant marchioness, draped in silk and lace within the formal gardens of a French chateau // 一位优雅的侯爵夫人，身披丝绸和蕾丝，置身于法国城堡正式的花园中
-a elegant marchioness, adorned with a diamond necklace against the backdrop of a grand ballroom lit by chandeliers // 一位优雅的侯爵夫人，以枝形吊灯照亮的宏伟舞厅为背景，装饰着钻石项链
 
 A proud peeress // 一位自豪的贵妇
-a proud peeress, framed by the heraldic banners and stone walls of a ancestral castle keep // 一位自豪的贵妇，以祖传城堡的纹章旗帜和石墙为框架
-a proud peeress, surrounded by the assembled nobles and courtiers in a grand royal audience chamber // 一位自豪的贵妇，周围环绕着聚集在宏伟皇家觐见室中的贵族和朝臣
 
 A dignified female sheikh // 一位有威严的酋长夫人
-a dignified female sheikh, enveloped in flowing robes within the opulent tents of a desert encampment // 一位有威严的酋长夫人，身着飘逸的长袍，置身于沙漠营地豪华的帐篷中
-a dignified female sheikh, highlighted by the golden light of a desert sunrise over rolling sand dunes // 一位有威严的酋长夫人，在连绵起伏的沙丘上，被沙漠日出的金色光芒凸显出来
 
 A brave suffragette // 一位勇敢的妇女运动者
-a brave suffragette, framed by the banners and placards of a crowded women's rights march // 一位勇敢的妇女运动者，以拥挤的妇女权利游行队伍的横幅和标语牌为框架
-a brave suffragette, surrounded by the determined faces of fellow activists in a smoky meeting hall // 一位勇敢的妇女运动者，周围环绕着烟雾缭绕的会议厅中坚定的活动家面孔
 
 A helpful waitress // 一位热心的女服务员
-a helpful waitress, enveloped in a crisp uniform within the bustling atmosphere of a classic diner // 一位热心的女服务员，身着清爽的制服，置身于经典餐厅熙熙攘攘的氛围中
-a helpful waitress, highlighted by the warm glow of neon signs and the aroma of coffee in a late-night cafe // 一位热心的女服务员，在深夜咖啡馆中，被霓虹灯的温暖光芒和咖啡的香气凸显出来
 
 A beautiful belle // 一位美丽的美女
-a beautiful belle, framed by the blooming magnolias and white columns of a Southern plantation house // 一位美丽的美女，以南方种植园房屋盛开的木兰花和白色柱子为框架
-a beautiful belle, surrounded by the elegant dancers and waltzing music of a grand ballroom in New Orleans // 一位美丽的美女，周围环绕着新奥尔良宏伟舞厅优雅的舞者和华尔兹音乐
 
 A coquettish coquette // 一个娇媚的女性
-a coquettish coquette, enveloped in lace and ribbons within a whimsical garden gazebo // 一个娇媚的女性，身着蕾丝和丝带，置身于异想天开的花园凉亭中
-a coquettish coquette, highlighted by the playful sunlight filtering through the leaves of a blossoming orchard // 一个娇媚的女性，在盛开的果园中，被透过树叶的嬉戏阳光凸显出来
 
 A young debutante // 一位年轻的初次亮相女性
-a young debutante, framed by the glittering chandeliers and swirling dancers of a grand society ball // 一位年轻的初次亮相女性，以盛大社交舞会闪烁的枝形吊灯和旋转的舞者为框架
-a young debutante, surrounded by the admiring gazes and hushed whispers of a crowded ballroom floor // 一位年轻的初次亮相女性，周围环绕着拥挤舞池中钦佩的目光和窃窃私语
 
 A radiant diva // 一位光彩照人的女歌手
-a radiant diva, bathed in the dazzling spotlights of a grand opera house stage // 一位光彩照人的女歌手，沐浴在宏伟歌剧院舞台耀眼的聚光灯下
-a radiant diva, framed by the velvet curtains and ornate gold trim of a luxurious theater box // 一位光彩照人的女歌手，以豪华剧院包厢的天鹅绒窗帘和华丽的金色装饰为框架
 
 A skilled huntress // 一位熟练的女猎手
-a skilled huntress, enveloped in furs and leather within a snow-covered forest wilderness // 一位熟练的女猎手，身着毛皮和皮革，置身于白雪皑皑的森林荒野中
-a skilled huntress, highlighted by the crisp morning air and towering pines of a remote mountain range // 一位熟练的女猎手，在偏远山脉中，被清新的早晨空气和高耸的松树凸显出来
 
 An innocent ingenue // 一位天真的少女
-an innocent ingenue, framed by the sunlit window and white lace curtains of a cozy cottage bedroom // 一位天真的少女，以阳光照射的窗户和舒适小屋卧室的白色蕾丝窗帘为框架
-an innocent ingenue, surrounded by the blooming wildflowers and buzzing bees of a summer meadow // 一位天真的少女，周围环绕着夏季草地上盛开的野花和嗡嗡作响的蜜蜂
 
 A seductive odalisque // 一位魅惑的哈雷姆女性
-a seductive odalisque, enveloped in silk scarves and jewels within the plush cushions of a harem chamber // 一位魅惑的哈雷姆女性，身着丝绸围巾和珠宝，置身于后宫房间柔软的靠垫中
-a seductive odalisque, highlighted by the soft light filtering through latticed windows in a secluded palace room // 一位魅惑的哈雷姆女性，在僻静的宫殿房间中，被透过格子窗户的柔和光线凸显出来
 
 A captivating seductress // 一位迷人的诱惑者
-a captivating seductress, framed by the flickering candlelight and velvet drapes of a clandestine meeting room // 一位迷人的诱惑者，以秘密会议室摇曳的烛光和天鹅绒帷幔为框架
-a captivating seductress, surrounded by the heady aroma of exotic perfumes and forbidden desires in a hidden boudoir // 一位迷人的诱惑者，周围环绕着隐藏闺房中充满醉人香气和禁忌欲望的异国情调香水
 
 A alluring vamp // 一位吸引人的吸血鬼
-a alluring vamp, enveloped in dark velvet and silver jewelry within the gothic arches of an ancient crypt // 一位吸引人的吸血鬼，身着深色天鹅绒和银饰，置身于古老地穴的哥特式拱门中
-a alluring vamp, highlighted by the pale moonlight streaming through a stained glass window in a deserted castle tower // 一位吸引人的吸血鬼，在废弃的城堡塔楼中，被透过彩色玻璃窗户的苍白月光凸显出来
 
 A charming wench // 一位迷人的姑娘
-a charming wench, framed by the wooden barrels and flickering lanterns of a bustling tavern cellar // 一位迷人的姑娘，以熙熙攘攘的酒馆地窖的木桶和闪烁的灯笼为框架
-a charming wench, surrounded by the hearty laughter and boisterous songs of a lively medieval inn // 一位迷人的姑娘，周围环绕着热闹的中世纪旅馆爽朗的笑声和喧闹的歌曲
 
 An enchanting temptress // 一位迷人的诱惑者
-an enchanting temptress, enveloped in shimmering scales and iridescent fins within the coral reefs of a hidden grotto // 一位迷人的诱惑者，身着闪闪发光的鳞片和彩虹色的鳍，置身于隐藏石窟的珊瑚礁中
-an enchanting temptress, highlighted by the ethereal glow of underwater bioluminescence in a deep ocean trench // 一位迷人的诱惑者，在深海海沟中，被水下生物发光的空灵光芒凸显出来
 
 A strong virago // 一位强悍的女性
-a strong virago, framed by the weathered stone walls and battle-scarred ramparts of a fortress stronghold // 一位强悍的女性，以堡垒要塞饱经风霜的石墙和伤痕累累的城墙为框架
-a strong virago, surrounded by the clang of steel and war cries of a chaotic battlefield encampment // 一位强悍的女性，周围环绕着混乱战场营地钢铁的撞击声和战争的呼喊声
 
 A fragile waif // 一个脆弱的女孩
-a fragile waif, enveloped in tattered rags within the grimy alleys of a Victorian slum // 一个脆弱的女孩，身着褴褛的破布，置身于维多利亚时代贫民窟肮脏的小巷中
-a fragile waif, highlighted by the dim gaslight and chilling wind of a desolate London street // 一个脆弱的女孩，在荒凉的伦敦街道上，被昏暗的煤气灯和寒冷的风凸显出来
 
 
 // Fantasy sci-fi female 奇幻科幻女性
 
 
 A mystical fairy // 一位神秘的仙女
-a mystical fairy, bathed in moonbeams within a moonlit glade of an ancient forest // 一位神秘的仙女，沐浴在古老森林月光下的空地上，沐浴在月光中
-a mystical fairy, framed by the glowing mushrooms and whispering trees of an enchanted grove // 一位神秘的仙女，以魔法树林中发光的蘑菇和低语的树木为框架
 
 A powerful empress // 一位强大的女皇
-a powerful empress, enthroned upon a obsidian throne within a volcanic caldera // 一位强大的女皇，在火山喷口中，端坐在黑曜石王座上
-a powerful empress, backdropped by the swirling nebulae and distant galaxies of a cosmic throne room // 一位强大的女皇，以宇宙王座室中旋转的星云和遥远的星系为背景
 
 A divine goddess // 一位神圣的女神
-a divine goddess, bathed in celestial light atop a cloud-piercing mountain peak // 一位神圣的女神，在穿云山峰之巅，沐浴在圣洁的光芒中
-a divine goddess, framed by the golden gates and pearly clouds of a heavenly paradise // 一位神圣的女神，以天堂乐园的金色大门和珍珠般的云朵为框架
 
 A serene angel // 一位宁静的天使
-a serene angel, enveloped in white feathers within the ethereal glow of a celestial realm // 一位宁静的天使，身着白色羽毛，置身于天界的空灵光芒之中
-a serene angel, framed by the stained-glass windows and hushed silence of a cathedral sanctuary // 一位宁静的天使，以大教堂圣殿的彩色玻璃窗户和寂静无声为框架
 
 A captivating siren // 一位迷人的海妖
-a captivating siren, framed by the jagged rocks and crashing waves of a storm-lashed coastline // 一位迷人的海妖，以暴风雨侵袭的海岸线锯齿状的岩石和汹涌的波浪为框架
-a captivating siren, surrounded by the bioluminescent plankton and deep sea creatures of an abyssal trench // 一位迷人的海妖，周围环绕着深渊海沟生物发光的浮游生物和深海生物
 
 A magical enchantress // 一位神奇的女巫
-a magical enchantress, enveloped in swirling robes within a potion-filled alchemist's laboratory // 一位神奇的女巫，身着旋转的长袍，置身于充满药剂的炼金术士实验室中
-a magical enchantress, highlighted by the glowing runes and arcane symbols of a mystical spell circle // 一位神奇的女巫，在神秘法术圈中，被发光的符文和神秘符号凸显出来
 
 A mysterious sorceress // 一个神秘的女巫
-a mysterious sorceress, framed by the ancient tomes and dusty scrolls of a forgotten wizard's tower // 一个神秘的女巫，以被遗忘的巫师塔楼古老的书卷和尘封的卷轴为框架
-a mysterious sorceress, surrounded by the swirling mists and spectral apparitions of a haunted moorland // 一个神秘的女巫，周围环绕着闹鬼荒原旋转的薄雾和幽灵般的幻影
 
 A bewitching witch // 一个迷人的女巫
-a bewitching witch, enveloped in black velvet and silver jewelry within a moonlit forest clearing // 一个迷人的女巫，身着黑色天鹅绒和银饰，置身于月光下的森林空地中
-a bewitching witch, highlighted by the flickering flames and bubbling cauldron of a woodland ritual site // 一个迷人的女巫，在林地仪式场所，被摇曳的火焰和沸腾的大锅凸显出来
 
 A graceful mermaid // 一位优雅的美人鱼
-a graceful mermaid, framed by the coral reefs and tropical fish of a vibrant underwater kingdom // 一位优雅的美人鱼，以充满活力的水下王国的珊瑚礁和热带鱼为框架
-a graceful mermaid, surrounded by the kelp forests and shimmering sunlight of a sun-drenched ocean cove // 一位优雅的美人鱼，周围环绕着阳光普照的海洋海湾的海带森林和闪烁的阳光
 
 A delicate nymph girl // 一位精致的树精灵
-a delicate nymph girl, bathed in dappled sunlight within the whispering leaves of an ancient oak tree // 一位精致的树精灵，在古老橡树低语的树叶中，沐浴在斑驳的阳光中
-a delicate nymph girl, framed by the blooming wildflowers and mossy stones of a hidden woodland spring // 一位精致的树精灵，以隐藏林地泉水中盛开的野花和布满青苔的石头为框架
 
 A strong female amazon // 一位强大的亚马逊女战士
-a strong female amazon, enveloped in leather armor within the lush canopy of a rainforest jungle // 一位强大的亚马逊女战士，身着皮革盔甲，置身于热带雨林茂密的树冠中
-a strong female amazon, highlighted by the dappled sunlight and exotic birds of a untamed wilderness // 一位强大的亚马逊女战士，在未驯服的荒野中，被斑驳的阳光和奇异的鸟类凸显出来
 
 A haunting female banshee // 一位神秘的女鬼
-a haunting female banshee, framed by the crumbling gravestones and weeping willows of a mist-shrouded graveyard // 一位神秘的女鬼，以雾气笼罩的墓地崩塌的墓碑和垂柳为框架
-a haunting female banshee, surrounded by the chilling wind and spectral fog of a desolate moorland at night // 一位神秘的女鬼，在夜晚荒凉的荒原上，周围环绕着寒冷的风和幽灵般的雾气
 
 A fierce female harpy // 一位凶猛的哈比
-a fierce female harpy, framed by the jagged peaks and swirling clouds of a storm-ridden mountain range // 一位凶猛的哈比，以暴风雨侵袭的山脉锯齿状的山峰和旋转的云层为框架
-a fierce female harpy, surrounded by the echoing winds and desolate rocks of a windswept cliff edge // 一位凶猛的哈比，周围环绕着风声呼啸的悬崖边回荡的风声和荒凉的岩石
 
 A mysterious dryad // 一位神秘的树精
-a mysterious dryad, enveloped in bark and leaves within the gnarled branches of an ancient forest tree // 一位神秘的树精，身着树皮和树叶，置身于古老森林树木扭曲的树枝中
-a mysterious dryad, highlighted by the filtered sunlight and rustling leaves of a secluded woodland grove // 一位神秘的树精，在僻静的林地树丛中，被过滤的阳光和沙沙作响的树叶凸显出来
 
 A mischievous female elf // 一个淘气的精灵
-a mischievous female elf, framed by the glowing crystals and hidden pathways of a cavernous underground realm // 一个淘气的精灵，以洞穴地下王国发光的晶体和隐藏的通道为框架
-a mischievous female elf, surrounded by the playful sprites and whispering echoes of an enchanted grotto // 一个淘气的精灵，周围环绕着魔法石窟顽皮的小精灵和低语的回声
 
 A mystical female witchdoctor // 一个神秘的巫医
-a mystical female witchdoctor, enveloped in feathers and bones within a smoky tribal shaman's hut // 一个神秘的巫医，身着羽毛和骨头，置身于烟雾弥漫的部落萨满小屋中
-a mystical female witchdoctor, highlighted by the flickering firelight and chanting rhythms of a jungle ritual ceremony // 一个神秘的巫医，在丛林仪式庆典中，被摇曳的火光和吟唱的节奏凸显出来
 
 A graceful naiad // 一位优雅的水精灵
-a graceful naiad, framed by the clear water and smooth stones of a flowing river stream // 一位优雅的水精灵，以清澈的水和流淌的河流光滑的石头为框架
-a graceful naiad, surrounded by the water lilies and dragonflies of a tranquil pond in a hidden valley // 一位优雅的水精灵，周围环绕着隐藏山谷宁静池塘中的睡莲和蜻蜓
 
 A playful female pixie // 一个顽皮的小精灵
-a playful female pixie, framed by the colorful petals and sweet nectar of a giant blooming flower // 一个顽皮的小精灵，以巨型盛开的花朵色彩缤纷的花瓣和甜美的花蜜为框架
-a playful female pixie, surrounded by the fluttering butterflies and buzzing bees of a sunlit meadow at midday // 一个顽皮的小精灵，在正午阳光普照的草地上，周围环绕着飞舞的蝴蝶和嗡嗡作响的蜜蜂
 
 A airy female sylph // 一位轻盈的风精灵
-a airy female sylph, enveloped in wispy clouds and swirling breezes within the airy heights of a mountain peak // 一位轻盈的风精灵，身着飘渺的云朵和旋转的微风，置身于山峰的轻盈高处
-a airy female sylph, highlighted by the panoramic vista and endless sky of a soaring mountain vista // 一位轻盈的风精灵，在翱翔的山景中，被全景视野和无尽的天空凸显出来
 
 A powerful valkyrie // 一位强大的女武神
-a powerful valkyrie, framed by the lightning strikes and thunder clouds of a raging storm battlefield // 一位强大的女武神，以狂风暴雨战场闪电和雷云为框架
-a powerful valkyrie, surrounded by the fallen warriors and spectral ravens of a battlefield of heroes // 一位强大的女武神，周围环绕着英雄战场阵亡的战士和幽灵般的渡鸦
 
 A beguiling succubus devil // 一位迷人的梦魇
-a beguiling succubus devil, enveloped in shadow wings and demonic horns within the fiery depths of hell // 一位迷人的梦魇，身着阴影翅膀和恶魔角，置身于地狱燃烧的深渊中
-a beguiling succubus devil, highlighted by the infernal flames and tortured souls of a hellish landscape // 一位迷人的梦魇，在如同地狱般的景象中，被地狱般的火焰和受折磨的灵魂凸显出来
 
 A beguiling succubus valkyrie
-a beguiling succubus valkyrie, framed by the frozen glaciers and howling winds of a glacial underworld // 一位迷人的梦魇女武神，以冰川地下世界冰冻的冰川和呼啸的狂风为框架
-a beguiling succubus valkyrie, surrounded by the frost giants and skeletal warriors of a frozen battlefield realm // 一位迷人的梦魇女武神，周围环绕着冰冻战场领域的霜巨人
 
 a beguiling succubus witchdoctor
-a beguiling succubus witchdoctor, enveloped in tribal paint and bone jewelry within a vine-choked jungle temple // 一位迷人的梦魇巫医，身着部落彩绘和骨骼珠宝，置身于藤蔓缠绕的丛林神庙中
-a beguiling succubus witchdoctor, highlighted by the glowing eyes and chanting whispers of a shadowed ritual circle // 一位迷人的梦魇巫医，在阴影笼罩的仪式圈中，被发光的眼睛和吟唱的低语凸显出来
 
 a beguiling succubus huntress
-a beguiling succubus huntress, framed by the moonlit trees and rustling leaves of a haunted forest at night // 一位迷人的梦魇女猎手，以夜晚闹鬼森林的月光下的树木和沙沙作响的树叶为框架
-a beguiling succubus huntress, surrounded by the shadowy figures and spectral hounds of a demonic hunting party // 一位迷人的梦魇女猎手，周围环绕着恶魔狩猎队的阴影人物和幽灵猎犬
 
 a sacred succubus priestess
-a sacred succubus priestess, enveloped in white robes and holy symbols within a stained-glass cathedral // 一位神圣的梦魇女祭司，身着白色长袍和神圣符号，置身于彩色玻璃大教堂中
-a sacred succubus priestess, highlighted by the divine light and ethereal whispers of a celestial altar // 一位神圣的梦魇女祭司，在天界祭坛上，被神圣的光芒和空灵的低语凸显出来
 
 a fierce female termagant // 一位激烈的女战士
-a fierce female termagant, framed by the burning siege engines and crumbling city walls of a war-torn fortress // 一位激烈的女战士，以战火纷飞的堡垒燃烧的攻城器械和摇摇欲坠的城墙为框架
-a fierce female termagant, surrounded by the clashing swords and battle cries of a chaotic siege assault // 一位激烈的女战士，周围环绕着混乱围攻中刀剑的撞击声和战斗的呐喊声
 
 a haunting vampiress // 一位让人陶醉的吸血鬼女性
-a haunting vampiress, enveloped in flowing black velvet and antique silver within a gothic castle library // 一位让人陶醉的吸血鬼女性，身着飘逸的黑色天鹅绒和古董银饰，置身于哥特式城堡图书馆中
-a haunting vampiress, highlighted by the dust motes dancing in moonlight through arched windows of a deserted wing // 一位让人陶醉的吸血鬼女性，在废弃翼楼拱形窗户的月光中，被舞动的尘埃凸显出来
 
 a commanding female sylph // 一位指挥的风精灵
-a commanding female sylph, framed by the swirling wind and soaring eagles of a storm-swept mountain peak // 一位指挥的风精灵，以暴风雨席卷的山峰旋转的风和翱翔的雄鹰为框架
-a commanding female sylph, surrounded by the whispering breezes and rustling leaves of a wind-精灵 sanctuary // 一位指挥的风精灵，周围环绕着风精灵圣殿低语的微风和沙沙作响的树叶
 
 a powerful witch // 一位强大的女巫
-a powerful witch, enveloped in dark magic and arcane symbols within a stone circle at midnight // 一位强大的女巫，身着黑暗魔法和神秘符号，置身于午夜的石圈中
-a powerful witch, highlighted by the crackling energy and spectral flames of a forbidden ritual // 一位强大的女巫，在禁忌仪式中，被噼啪作响的能量和幽灵般的火焰凸显出来
 
 a fierce xena // 一位强悍的女性
-a fierce xena, framed by the rocky cliffs and crashing waves of a windswept coastline battlefield // 一位强悍的女性，以狂风呼啸的海岸线战场崎岖的悬崖和汹涌的波浪为框架
-a fierce xena, surrounded by the fallen soldiers and broken weapons of a hard-fought battle victory // 一位强悍的女性，周围环绕着艰苦战斗胜利后倒下的士兵和破碎的武器
 
 a determined female zealot // 一位坚定的狂热者
-a determined female zealot, framed by the burning pyres and chanting crowds of a righteous crusade // 一位坚定的狂热者，以正义十字军东征燃烧的柴堆和吟唱的人群为框架
-a determined female zealot, surrounded by the devout followers and holy banners of a sacred pilgrimage // 一位坚定的狂热者，周围环绕着神圣朝圣虔诚的追随者和神圣的旗帜
 
 a eerie female zombie // 一个可怕的僵尸
-a eerie female zombie, enveloped in tattered flesh and decaying clothes within a mist-filled graveyard // 一个可怕的僵尸，身着破烂的血肉和腐烂的衣服，置身于雾气弥漫的墓地中
-a eerie female zombie, highlighted by the pale moonlight and chilling silence of a haunted mausoleum // 一个可怕的僵尸，在闹鬼的陵墓中，被苍白的月光和令人不寒而栗的寂静凸显出来
 
 a strong zombiress // 一位强大的女僵尸
-a strong zombiress, framed by the shattered tombstones and upturned earth of a freshly desecrated grave // 一位强大的女僵尸，以新近亵渎的坟墓破碎的墓碑和翻起的泥土为框架
-a strong zombiress, surrounded by the groaning hordes and shuffling feet of an undead army // 一位强大的女僵尸，周围环绕着亡灵军队呻吟的人群和拖沓的脚步声
 
 a sacred priestess // 一位神圣的女祭司
-a sacred priestess, enveloped in white linen and golden jewelry within a sun-drenched temple courtyard // 一位神圣的女祭司，身着白色亚麻布和金色珠宝，置身于阳光普照的寺庙庭院中
-a sacred priestess, highlighted by the fragrant incense and chanting prayers of a holy sanctuary // 一位神圣的女祭司，在神圣的圣殿中，被芬芳的熏香和吟唱的祈祷凸显出来
 
 a heroic superheroine // 一位英雄的女英雄
-a heroic superheroine, framed by the towering skyscrapers and neon lights of a futuristic cityscape // 一位英雄的女英雄，以未来都市高耸的摩天大楼和霓虹灯为框架
-a heroic superheroine, surrounded by the cheering crowds and flashing cameras of a grateful metropolis // 一位英雄的女英雄，周围环绕着感激的都市欢呼的人群和闪烁的相机
 
 a determined wardress // 一位坚定的看守女
-a determined wardress, enveloped in steel armor and iron chains within a dark dungeon corridor // 一位坚定的看守女，身着钢制盔甲和铁链，置身于黑暗的地牢走廊中
-a determined wardress, highlighted by the flickering torchlight and echoing footsteps of a prison fortress // 一位坚定的看守女，在监狱堡垒中，被摇曳的火炬光和回荡的脚步声凸显出来
 
 a beautiful woman with the Cat's ears
-a beautiful woman with the cat's ears, framed by the cozy bookshelves and soft lamplight of a vintage library // 一位长着猫耳朵的美丽女人，以复古图书馆舒适的书架和柔和的灯光为框架
-a beautiful woman with the cat's ears, surrounded by the purring sounds and playful movements of feline companions in a sunbeam-filled room // 一位长着猫耳朵的美丽女人，在充满阳光的房间里，周围环绕着猫科动物同伴的咕噜声和嬉戏的动作
 
 a beautiful woman with elder antlers
-a beautiful woman with elder antlers, enveloped in forest greens and flowing fabrics within an ancient woodland grove // 一位长着长老鹿角的美丽女人，身着森林绿色和飘逸面料，置身于古老的林地树丛中
-a beautiful woman with elder antlers, highlighted by the dappled sunlight and whispering leaves of a magical forest sanctuary // 一位长着长老鹿角的美丽女人，在魔法森林圣殿中，被斑驳的阳光和低语的树叶凸显出来
 
 a powerful female magic patriarch
-a powerful female magic patriarch, framed by the swirling galaxies and cosmic dust of a celestial observatory // 一位强大的女性魔法族长，以天体观测台旋转的星系和宇宙尘埃为框架
-a powerful female magic patriarch, surrounded by the floating runes and arcane energies of a mystical astral plane // 一位强大的女性魔法族长，周围环绕着神秘星界漂浮的符文和神秘能量
 
 a demon world female chief with fiery eyes
-a demon world female chief with fiery eyes, enveloped in black leather and infernal jewelry within a lava-filled throne room // 一位魔界女首领，双眼燃烧着火焰，身着黑色皮革和地狱珠宝，置身于充满熔岩的王座室中
-a demon world female chief with fiery eyes, highlighted by the molten glow and tormented screams of a volcanic underworld // 一位魔界女首领，双眼燃烧着火焰，在火山地下世界中，被熔化的光芒和痛苦的尖叫声凸显出来
 
 a mighty female orc chief with fierce strength
-a mighty female orc chief with fierce strength, framed by the rough-hewn timbers and battle banners of a tribal war camp // 一位强大的兽人女首领，拥有强大的力量，以部落战争营地粗凿的木材和战旗为框架
-a mighty female orc chief with fierce strength, surrounded by the roaring fires and war drums of a barbaric horde gathering // 一位强大的兽人女首领，拥有强大的力量，周围环绕着野蛮部落聚集的熊熊火焰和战鼓
 
 a female zombie rising from the grave
-a female zombie rising from the grave, enveloped in grave dirt and tattered shroud within a moonlit cemetery // 一位从坟墓中爬出的女僵尸，身着坟墓泥土和破烂的裹尸布，置身于月光下的墓地中
-a female zombie rising from the grave, highlighted by the skeletal hands and decaying flesh of an undead emergence // 一位从坟墓中爬出的女僵尸，在亡灵出现时，被骨骼般的手和腐烂的肉体凸显出来
 
 a skeletal female king
-a skeletal female king, framed by the bone throne and skull candles of a macabre underworld court // 一位骷髅女王，以阴森恐怖的地下世界法庭的骨骼王座和骷髅蜡烛为框架
-a skeletal female king, surrounded by the ghostly whispers and chilling drafts of a haunted bone palace // 一位骷髅女王，周围环绕着闹鬼的骨骼宫殿幽灵般的低语和寒冷的空气
 
 a female dragonborn warlock with mystical powers
-a female dragonborn warlock with mystical powers, enveloped in scaled armor and arcane robes within a dragon's hoard cavern // 一位拥有神秘力量的龙裔女术士，身着鳞片盔甲和神秘长袍，置身于巨龙宝藏洞穴中
-a female dragonborn warlock with mystical powers, highlighted by the shimmering gold and ancient artifacts of a dragon's lair treasury // 一位拥有神秘力量的龙裔女术士，在巨龙巢穴宝库中，被闪闪发光的黄金和古代文物凸显出来
 
 a female devil with fiery horns
-a female devil with fiery horns, framed by the lava rivers and volcanic rocks of a hellish landscape // 一位长着火角的恶魔女性，以地狱般景象的熔岩河流和火山岩为框架
-a female devil with fiery horns, surrounded by the tormented souls and infernal flames of a demonic abyss // 一位长着火角的恶魔女性，周围环绕着恶魔深渊受折磨的灵魂和地狱般的火焰
 
 a beautiful medusa
-a beautiful medusa, enveloped in serpentine scales and venomous vipers within a petrified forest // 一位美丽的美杜莎，身着蛇形鳞片和有毒的蝰蛇，置身于石化森林中
-a beautiful medusa, highlighted by the stone statues and silent screams of a cursed woodland domain // 一位美丽的美杜莎，在被诅咒的林地领地中，被石头雕像和无声的尖叫声凸显出来
 
 a elven female king
-a elven female king, framed by the crystal spires and glowing flora of an elven city in a hidden valley // 一位精灵女王，以隐藏山谷中精灵城市水晶尖顶和发光植物为框架
-a elven female king, surrounded by the graceful architecture and serene magic of an enchanted elven realm // 一位精灵女王，周围环绕着魔法精灵王国优雅的建筑和宁静的魔法
 
 A beautiful ethereal fairy
-a beautiful ethereal fairy, enveloped in stardust and moonbeams within a celestial garden of glowing flora // 一位美丽的空灵仙女，身着星尘和月光，置身于发光植物的天界花园中
-a beautiful ethereal fairy, highlighted by the rainbow light and whispering petals of a magical flower sanctuary // 一位美丽的空灵仙女，在魔法花卉圣殿中，被彩虹光芒和低语的花瓣凸显出来
 
 An elfin girl with pointed ears and mystical aura
-an elfin girl with pointed ears and mystical aura, framed by the ancient trees and whispering winds of a hidden forest glade // 一位长着尖耳朵和神秘光环的精灵女孩，以隐藏森林空地古老的树木和低语的风为框架
-an elfin girl with pointed ears and mystical aura, surrounded by the fireflies and glowing moss of an enchanted woodland night // 一位长着尖耳朵和神秘光环的精灵女孩，在魔法林地之夜中，周围环绕着萤火虫和发光的苔藓
 
 A cybernetic female with futuristic design
-a cybernetic female with futuristic design, framed by the neon signs and towering skyscrapers of a cyberpunk metropolis // 一位具有未来主义设计的赛博女性，以赛博朋克都市霓虹灯和高耸的摩天大楼为框架
-a cybernetic female with futuristic design, surrounded by the holographic displays and flying vehicles of a technologically advanced cityscape // 一位具有未来主义设计的赛博女性，周围环绕着技术先进的都市全息显示屏和飞行汽车
 
 A skilled female swordsman
-a skilled female swordsman, framed by the training dummies and weapon racks of a martial arts dojo // 一位熟练的女剑士，以武术道场的训练假人和武器架为框架
-a skilled female swordsman, surrounded by the focused intensity and disciplined movements of a warrior's training ground // 一位熟练的女剑士，周围环绕着战士训练场专注的强度和有纪律的动作
 
 A fierce female warrior ready for battle
-a fierce female warrior ready for battle, framed by the sharpened spears and leather shields of a tribal war band // 一位准备战斗的凶猛女战士，以部落战队锋利的长矛和皮革盾牌为框架
-a fierce female warrior ready for battle, surrounded by the war paint and battle cries of a tribal army preparing for war // 一位准备战斗的凶猛女战士，周围环绕着准备战争的部落军队的战争彩绘和战斗呐喊
 
 A death-dealing banshee // 带来死亡的哭泣女妖，女妖
-a death-dealing banshee, wreathed in spectral mist amidst the crumbling ruins of a haunted abbey // 一位带来死亡的哭泣女妖，在闹鬼修道院摇摇欲坠的废墟中，笼罩在幽灵般的薄雾中
-a death-dealing banshee, framed by the gnarled branches and rustling leaves of an ancient burial grove at midnight // 一位带来死亡的哭泣女妖，以午夜古老墓地扭曲的树枝和沙沙作响的树叶为框架
 
 A seductive siren // 诱人的海妖，塞壬
-a seductive siren, adorned with pearls and coral within a sunlit grotto of a hidden lagoon // 一位诱人的海妖，在隐藏泻湖阳光普照的石窟中，装饰着珍珠和珊瑚
-a seductive siren, framed by the turquoise waves and golden sands of a secluded tropical beach paradise // 一位诱人的海妖，以僻静热带海滩天堂碧绿的海浪和金色沙滩为框架
 
 A cursed mirror Bloody Mary // 被诅咒的镜子，血腥玛丽
-a cursed mirror bloody mary, reflecting a distorted visage within the fogged glass of a Victorian-era vanity // 一面被诅咒的镜子血腥玛丽，在维多利亚时代的梳妆台雾蒙蒙的玻璃中，反映出一张扭曲的面容
-a cursed mirror bloody mary, framed by the ornate carvings and dusty velvet of an antique dressing table in a haunted manor // 一面被诅咒的镜子血腥玛丽，在闹鬼庄园古董梳妆台华丽的雕刻和布满灰尘的天鹅绒中为框架
 
 A spider goddess Arachne // 蜘蛛女神，阿瑞克涅
-a spider goddess arachne, draped in silken webs within the shadowy corners of a forgotten temple // 一位蜘蛛女神阿瑞克涅，身披丝绸般的蛛网，置身于被遗忘的神庙阴暗的角落中
-a spider goddess arachne, framed by the intricate patterns and glistening threads of a colossal spiderweb spanning an ancient ruin // 一位蜘蛛女神阿瑞克涅，以跨越古老废墟的巨大蜘蛛网错综复杂的图案和闪闪发光的丝线为框架
 
 A snake-haired woman Medusa // 蛇发女妖，美杜莎
-a snake-haired woman medusa, encircled by petrified figures within the silent stillness of a cursed garden // 一位蛇发女妖美杜莎，在被诅咒花园寂静的静止中，被石化的人物环绕
-a snake-haired woman medusa, framed by the crumbling columns and weathered statues of a forgotten acropolis at dusk // 一位蛇发女妖美杜莎，以黄昏时分被遗忘的卫城摇摇欲坠的柱子和饱经风霜的雕像为框架
 
 A tree spirit Dryad // 树精，树妖
-a tree spirit dryad, merged with the bark and branches of an ancient oak within a sun-dappled forest clearing // 一位树精，树妖，与阳光斑驳的森林空地中，古老橡树的树皮和树枝融为一体
-a tree spirit dryad, framed by the interwoven roots and whispering leaves of a primeval woodland grove // 一位树精，树妖，以原始林地树丛交织的树根和低语的树叶为框架
 
 A wind spirit Sylph // 风之精灵，希尔芙
-a wind spirit sylph, aloft amidst swirling clouds and ethereal breezes above a mountain peak // 一位风之精灵希尔芙，在高耸的山峰之上，漂浮在旋转的云朵和空灵的微风中
-a wind spirit sylph, framed by the panoramic vista and endless horizon of a boundless sky expanse // 一位风之精灵希尔芙，以无垠天空的广阔全景和无尽的地平线为框架
 
 A singing mermaid Lorelei // 歌唱的美人鱼，罗蕾莱
-a singing mermaid lorelei, perched upon a jagged rock amidst crashing waves along a treacherous coastline // 一位歌唱的美人鱼罗蕾莱，栖息在险恶海岸线汹涌波涛中锯齿状的岩石上
-a singing mermaid lorelei, framed by the mist-shrouded cliffs and echoing calls of seabirds in a desolate ocean cove // 一位歌唱的美人鱼罗蕾莱，以荒凉海湾雾气笼罩的悬崖和海鸟的回声为框架
 
 A light deity Amaterasu // 光之神，太阳神
-a light deity amaterasu, radiating celestial luminescence from within a golden shrine bathed in dawn light // 一位光之神天照，从沐浴在黎明光芒中的金色神殿中，散发出圣洁的光芒
-a light deity amaterasu, framed by the rising sun and shimmering rays of a radiant morning sky // 一位光之神天照，以冉冉升起的太阳和光芒四射的晨空闪烁的光芒为框架
 
 A war goddess Athena // 战争女神，雅典娜
-a war goddess athena, adorned in bronze armor amidst the marble columns of an ancient temple citadel // 一位战争女神雅典娜，身着青铜盔甲，置身于古老神庙城堡的大理石柱之间
-a war goddess athena, framed by the carved friezes and battle trophies of a victory-strewn sanctuary // 一位战争女神雅典娜，以胜利圣殿雕刻的飞檐和战利品为框架
 
 A harvest deity Demeter // 丰收之神，德墨忒尔
-a harvest deity demeter, surrounded by golden wheat fields and bountiful orchards in a sun-drenched countryside // 一位丰收之神德墨忒尔，在阳光普照的乡村，周围环绕着金色的麦田和丰饶的果园
-a harvest deity demeter, framed by the overflowing cornucopia and ripe fruits of a bountiful autumn landscape // 一位丰收之神德墨忒尔，以丰收的秋季景象中溢出的聚宝盆和成熟的水果为框架
 
 A sea witch Calypso // 海巫，卡吕普索
-a sea witch calypso, enveloped in seaweed and seashells within a cavernous grotto beneath the ocean waves // 一位海巫卡吕普索，身着海藻和贝壳，置身于海浪下巨大的石窟中
-a sea witch calypso, framed by the bioluminescent creatures and deep sea currents of an abyssal ocean trench // 一位海巫卡吕普索，以深海海沟生物发光的生物和深海海流为框架
 
 A hearth goddess Hestia // 壁炉女神，赫斯提亚
-a hearth goddess hestia, radiating warmth and serenity from within a cozy home bathed in firelight // 一位壁炉女神赫斯提亚，从沐浴在火光中的舒适家中，散发出温暖和宁静
-a hearth goddess hestia, framed by the flickering embers and comforting glow of a crackling fireplace in a tranquil dwelling // 一位壁炉女神赫斯提亚，以宁静住宅噼啪作响的壁炉摇曳的余烬和令人欣慰的光芒为框架
 
 A vengeance goddess Nemesis // 复仇女神，涅墨西斯
-a vengeance goddess nemesis, shrouded in shadows and vengeance within the ruined halls of a forsaken palace // 一位复仇女神涅墨西斯，在被遗弃的宫殿废墟大厅中，笼罩在阴影和复仇之中
-a vengeance goddess nemesis, framed by the broken statues and crumbling altars of a desecrated sanctuary // 一位复仇女神涅墨西斯，以被亵渎的圣殿破碎的雕像和摇摇欲坠的祭坛为框架
 
 A fertility goddess Isis // 丰饶女神，伊西斯
-a fertility goddess isis, adorned in flowing linen and lotus blossoms amidst the fertile banks of the Nile river // 一位丰饶女神伊西斯，身着飘逸的亚麻布和莲花，置身于尼罗河肥沃的河岸边
-a fertility goddess isis, framed by the lush vegetation and vibrant wildlife of a thriving river delta ecosystem // 一位丰饶女神伊西斯，以繁荣的河流三角洲生态系统茂盛的植被和充满活力的野生动物为框架
 
 A justice deity Themis // 正义之神，忒弥斯
-a justice deity themis, holding scales and sword amidst the celestial clouds of a divine court // 一位正义之神忒弥斯，在神圣法庭的天界云朵中，手持天平和剑
-a justice deity themis, framed by the golden light and unwavering gaze of a righteous judgment tribunal // 一位正义之神忒弥斯，以正义审判庭金色的光芒和坚定的目光为框架
 
 A dawn goddess Eos // 黎明女神，厄俄斯
-a dawn goddess eos, bathed in rosy hues and morning mist atop a mountain peak at sunrise // 一位黎明女神厄俄斯，在日出时分，沐浴在山峰之巅玫瑰色的色调和晨雾中
-a dawn goddess eos, framed by the pastel skies and awakening world of a nascent daybreak // 一位黎明女神厄俄斯，以新生黎明柔和的天空和苏醒的世界为框架
 
 A hunting goddess Artemis // 狩猎女神，阿耳忒弥斯
-a hunting goddess artemis, clad in furs and wielding a silver bow within a moonlit forest wilderness // 一位狩猎女神阿耳忒弥斯，身着毛皮，手持银弓，置身于月光下的森林荒野中
-a hunting goddess artemis, framed by the shadowed trees and watchful eyes of nocturnal creatures in a primeval woodland at night // 一位狩猎女神阿耳忒弥斯，以夜晚原始林地阴影笼罩的树木和夜行动物警惕的目光为框架
 
 A protective deity Bastet // 保护神，巴斯特
-a protective deity bastet, seated regally amidst golden artifacts within a lavish Egyptian temple chamber // 一位保护神巴斯特，在豪华的埃及神庙房间内，端坐在金色文物之中，显得雍容华贵
-a protective deity bastet, framed by the hieroglyphic walls and flickering torchlight of an ancient sanctuary // 一位保护神巴斯特，以古老圣殿象形文字的墙壁和摇曳的火炬光为框架
 
 A death goddess Hel // 死亡女神，海拉
-a death goddess hel, enthroned upon a glacial throne within the frozen halls of a subterranean kingdom // 一位死亡女神海拉，在地下王国冰冻的大厅中，端坐在冰川王座上
-a death goddess hel, framed by the icy spires and spectral shadows of a frigid underworld domain // 一位死亡女神海拉，以寒冷地下世界领域冰冷的尖顶和幽灵般的阴影为框架
 
 A magic god Hecate // 魔法神，赫卡忒
-a magic god hecate, enveloped in arcane energy and shadowy robes within a crossroads at midnight // 一位魔法神赫卡忒，身着神秘能量和阴影长袍，置身于午夜的十字路口
-a magic god hecate, framed by the flickering torchlight and mystical symbols of a hidden ritual site // 一位魔法神赫卡忒，以隐藏仪式场所摇曳的火炬光和神秘符号为框架
 
 A sun goddess Amaterasu // 太阳女神，天照
-a sun goddess amaterasu, radiating warmth and light from a celestial chariot across a boundless sky // 一位太阳女神天照，从穿越无垠天空的天界战车上，散发出温暖和光芒
-a sun goddess amaterasu, framed by the golden rays and life-giving energy of a radiant solar deity // 一位太阳女神天照，以光芒四射的太阳神金色光芒和赋予生命的能量为框架
 
 A fire goddess Hestia // 火神，赫斯提亚
-a fire goddess hestia, surrounded by flickering flames and protective warmth within a sacred hearth temple // 一位火神赫斯提亚，在神圣的炉火神庙中，周围环绕着摇曳的火焰和保护性的温暖
-a fire goddess hestia, framed by the comforting glow and crackling sounds of a central fire in an ancient dwelling place // 一位火神赫斯提亚，以古代住所中央篝火令人欣慰的光芒和噼啪声为框架

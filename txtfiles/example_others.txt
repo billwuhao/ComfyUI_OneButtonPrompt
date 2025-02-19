@@ -27,3 +27,115 @@ A one-horned beast Narwhal // 独角兽，独角鲸
 A fire spirit Salamander // 火精灵，火蜥蜴
 A fiery phoenix Suzaku // 火凤凰，朱雀
 A sea monster Leviathan // 海怪，利维坦
+
+
+// building 建筑
+
+A marble temple with Doric columns, a testament to the Classical Greek style
+A massive amphitheater of concrete, characteristic of the Classical Roman style
+A gold-mosaic-domed cathedral, showcasing Byzantine architectural style
+A round-arched monastery in the Romanesque style
+A pointed-arch cathedral with stained glass, in the Gothic style
+A symmetrical villa with classical pilasters, a hallmark of the Renaissance style
+A swirling palace with gilded decorations, emblematic of the Baroque style
+An asymmetrical pavilion with floral motifs, in the Rococo style
+A monumental legislative building with Doric columns, exemplifying the Neoclassical style
+An ironwork-adorned hotel with organic forms, representative of the Art Nouveau style
+A stepped skyscraper with geometric patterns, in the Art Deco style
+A glass-walled house with clean lines, a clear expression of Modernist style
+A fragmented museum with eclectic forms, a signature of Postmodernist style
+An asymmetrical concert hall with dynamic shapes, showcasing Deconstructivist style
+A whitewashed resort with terracotta roofs, a typical example of the Mediterranean style
+A grand mansion with wide verandahs, reflecting the Colonial style
+An ornate townhouse with bay windows, a hallmark of Victorian style
+An elegant country estate with refined details, in the Edwardian style
+A half-timbered manor house with exposed beams, embodying the Tudor style
+A low-slung residence with open floor plan, a creation of Prairie School style
+A functional workshop with unadorned design, in the Bauhaus style
+A glass and steel office tower, characteristic of the International style
+An exposed concrete library with monolithic form, exhibiting Brutalist style
+A sustainably-built community center with local materials, showcasing Neo-Vernacular style
+A minaret-topped mosque with geometric patterns, a representation of Islamic style
+A white-marble mausoleum with inlaid stones, exemplifying Mughal style
+A gopuram-adorned temple with sculptures, in the Hindu style
+A tiered-roof pagoda with serene surroundings, reflecting Buddhist style
+A minimalist tea house with paper doors, a hallmark of Japanese style
+A tiled-roof ancestral hall with intricate woodwork, a characteristic of Classical Chinese style
+A curved-roof pavilion with decorative patterns, in the Korean style
+A colorful hacienda with terracotta tiles, embodying Mexican Colonial style
+A stucco mission with red tile roofs, showcasing Spanish style
+A stone fortress in a strategic location, characteristic of the Portuguese style
+A stepped-gable canal house with brick facade, embodying Dutch style
+A timber-frame mountain lodge with sloping roof, typical of the Swiss Chalet style
+A light-wood cabin with simple design, in the Scandinavian style
+An onion-domed church with ornate decorations, in the Russian style
+A mud-brick village with thatched roofs, embodying African Tribal style
+A stepped pyramid with intricate carvings, in the Mayan style
+A stone citadel with precise stone work, showcasing the Incan style
+A hieroglyphic-inscribed obelisk, a symbol of Egyptian style
+A colorful townhouse with detailed balconies, in the Columbian style
+A curved-line condominium using concrete, emblematic of Brazilian style
+A classical estate with expansive grounds, embodying Argentine style
+A stone temple ruins showing ancient building methods, in the Peruvian style
+A sleek museum with innovative lines, representing the Chilean style
+A log-built timber lodge in a natural setting, typical of Canadian style
+A symmetrical residence with classical details, in the American Colonial Revival style
+An exposed-beam bungalow with handcrafted details, in the American Craftsman style
+A steel-framed skyscraper with large windows, a hallmark of the Chicago School
+A light-colored beach house with open design, typical of Florida style
+A sturdy barn with practical design, exemplifying Oklahoma style
+An adobe pueblo with flat roofs, in the New Mexican style
+A spacious plantation house with lanais, characteristic of the Hawaiian style
+A minimalist office building with modern materials, showcasing African Modernism
+An intricate palace with latticework and arches, embodying Arabian style
+A tilework garden pavilion with water features, in the Persian style
+A marble hammam with arched ceilings, a signature of Turkish style
+A portable ger with circular structure and felt, in the Mongolian style
+A tiered-roof pagoda with carved details, representative of the Nepalese style
+A tiled-roof communal house with carved wood, in the Vietnamese style
+An ancient temple complex with intricate carvings, exemplifying Cambodian style
+A gilded-roof wát with ornate decorations, in the Thai style
+A uniquely-built temple in a serene setting, showcasing Laotian style
+A golden pagoda with stupas and decorations, emblematic of Burmese style
+A sleek skyscraper with innovative design, in the Malaysian style
+A wooden traditional house with unique designs, exemplifying Indonesian style
+A baroque colonial church with historical significance, typical of Filipino style
+A natural-material eco-lodge with sustainable design, in the New Zealand style
+A spacious ranch house with open design, embodying the Australian style
+A traditional adobe house with local materials, in the Ghanaian style
+A colorful urban residence with innovative structures, representative of Nigerian style
+A circular maasai home with sturdy structure, in the Kenyan style
+A geometric cultural center echoing ancient designs, in the Egyptian Modern style
+A riad with zellige tiles and carved stucco, a characteristic of Moroccan style
+A white-washed medina house, embodying Tunisian style
+A thick-walled fortress in a strategic location, typical of Algerian style
+A desert dwelling crafted for arid climate, a hallmark of Libyan style
+A modern suburban residence with sleek lines, showcasing South African style
+A stone ruin demonstrating advanced building methods, reflecting Zimbabwean style
+A desert dwelling adapted for a harsh climate, in the Namibian style
+A colonial church with unique architecture, representative of Angolan style
+A coastal town house with colonial influence, showcasing Mozambican style
+A traditional house with local materials, in the Madagascan style
+An ancient church with cone shaped domes, in the Armenian style
+A medieval fortress, showcasing the Georgian style
+A wooden church with unique onion domes, representative of the Ukrainian style
+A traditional farmhouse of natural materials, a hallmark of Belarusian style
+A medieval castle with historical significance, characteristic of Polish style
+A baroque church with ornate architecture, in the Czech style
+A gothic parliament building, representing Hungarian style
+A grand palace reflecting royal history, embodying Austrian style
+A sleek mountain chalet in natural surroundings, in the Swiss Modern style
+A cozy sauna built with natural materials, typical of the Finnish style
+A simple turf house blending with its surroundings, in the Icelandic style
+A stone cottage with local materials, showcasing Irish style
+A towering castle with a rich history, emblematic of Scottish style
+A stone farmhouse in rough terrain, typical of Welsh style
+A cutting-edge art gallery with innovative use of space, representing British Modern style
+
+
+// other 其他
+
+a martial arts silhouette
+A sexy and alluring silhouette of a woman
+A spectral figure
+
