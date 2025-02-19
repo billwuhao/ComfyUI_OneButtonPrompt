@@ -25,7 +25,10 @@
 - 其他更多用法留给您自己去开发吧.
 
 - 生成效果:
+
 ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_20-00-01.png)
+
+**提示**: 如果显存不够, 可将 Flux 换成 sdxl 或 SD15 并调整 DeepSeek R1 提示词. 自行琢磨.
 
 
 [2025-01-21]⚒️: 

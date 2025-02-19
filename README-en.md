@@ -29,7 +29,10 @@ This way, `{ a beautiful girl | a handsome man | a sexy woman | a naughty child 
 -Leave more usage options to you to develop on your own.
 
 -Generate effect:
+
 ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_20-00-01.png)
+
+**Tip**: To solve the problem of OOM, you can replace Flux with sdxl or SD15 and adjust the DeepSeek R1 prompt. Think on your own.
 
 [2025-01-21]⚒️: 
 
