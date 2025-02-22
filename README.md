@@ -8,6 +8,22 @@
 
 ## 📣 更新
 
+[2025-02-20]⚒️: 支持 [C](https://civitai.com/images) 站图片及提示词. 
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-23_00-40-23.png)
+
+默认使用 [Civitai](https://civitai.com/images) 的图片, 如果需要使用其他站图片, 请自行修改 `\ComfyUI_OneButtonPrompt_Flux\txtfiles\civit_sfw.json` 文件. 将不定期更新 `civit_sfw.json` 文件.
+
+如果你需要 nsfw 图片, 请在 `ComfyUI_OneButtonPrompt_Flux\txtfiles\` 文件夹下新建 `civit_nsfw.json` 文件, 需与 `civit_sfw.json` 文件内容保持同样的格式.
+
+配合 deepseek r1 优化增强提示词.
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-23_01-14-08.png)
+
+反推提示词.
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-23_01-37-50.png)
+
 [2025-02-19]⚒️: 支持本地 DeepSeek R1. 
 
 ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_10-32-16.png)

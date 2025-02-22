@@ -3,6 +3,7 @@ txtfiles/others.txt
 txtfiles/poses.txt
 txtfiles/styles.txt
 txtfiles/test.txt
+txtfiles/civit_nsfw.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -12,6 +12,22 @@ This is a node for generating Flux prompts with one click in ComfyUI.
 
 ## 📣 Updates
 
+[2025-02-20]⚒️: Support [C](https://civitai.com/images) Station images and prompts.
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-23_00-40-23.png)
+
+Default use [Civitai](https://civitai.com/images). If you need to use images from other websites, please modify the file `\ComfyUI_OneButtonPrompt_Flux\txtfiles\civit_sfw.json` yourself. I will periodically update the `civit_sfw.json` file
+
+If you need nsfw images, please create a new `civit_nsfw.json` file in the `ComfyUI_OneButtonPrompt_Flux\txtfiles\` folder, which should be in the same format as the content of the `civit_sfw.json` file.
+
+Collaborate with Deepseek r1 to optimize and enhance prompts.
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-23_01-14-08.png)
+
+Reverse inference prompts.
+
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-23_01-37-50.png)
+
 [2025-02-19] ⚒️: Support local DeepSeek R1.
 
 ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_10-32-16.png)
