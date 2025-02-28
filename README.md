@@ -4,9 +4,27 @@
 
 ---
 
-## 一个在 comfyui 中一键生成 flux 提示的节点.
+## 一个在 comfyui 中一键生成提示 (用于图像和视频生成等) 的节点.
 
 ## 📣 更新
+
+[2025-03-01]⚒️: 
+
+- 支持 Qwen2.5 语言和视觉模型, 可生成提示, 可反推图像和视频.
+  1. 生成提示:
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/3bflux.png)
+  2. 两张图片反推视频生成提示:
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/nextimage.png)
+  3. 反推视频(显存占用较大, 请加载较少的帧数):
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/video3b.png)
+
+- 现在可以从 C 站 json 文件仅加载 prompt, 而无需联网.
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/onlyprompt.png)
+
+下载以下 3 个模型到 `models/LLM`:
+- [Qwen2.5-VL-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)
+- [Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct)
+- [Qwen2.5-3B-Instruct-Flux](https://huggingface.co/mrkrak3n/Qwen2.5-3B-Instruct-Flux)
 
 [2025-02-20]⚒️: 支持 [C](https://civitai.com/images) 站图片及提示词. 
 

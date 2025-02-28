@@ -4,13 +4,31 @@
 
 ---
 
-# One Button Prompt for Flux in ComfyUI
+# A node for one click generation of prompts (for image and video generation, etc.) in Comfyui
 
 ## Summary
 
 This is a node for generating Flux prompts with one click in ComfyUI.
 
 ## 📣 Updates
+
+[2025-03-01]⚒️: 
+
+- Supports Qwen2.5 language and visual models, can generate prompts, and can describe images and videos.
+  1. Generate prompts:
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/3bflux.png)
+  2. Two images are used to generate the video prompt:
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/nextimage.png)
+  3. Describe video (high memory usage, please load fewer frames):
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/video3b.png)
+
+- Now it is possible to load `onlyprompt` from JSON files on C site without the need for internet connection.
+  ![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/onlyprompt.png)
+
+Download the following 3 models to `models/LLM`:
+- [Qwen2.5-VL-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)
+- [Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct)
+- [Qwen2.5-3B-Instruct-Flux](https://huggingface.co/mrkrak3n/Qwen2.5-3B-Instruct-Flux)
 
 [2025-02-20]⚒️: Support [C](https://civitai.com/images) Station images and prompts.
 

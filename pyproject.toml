@@ -1,7 +1,7 @@
 [project]
 name = "onebuttonprompt_flux"
-description = "ComfyUI_OneButtonPrompt_Flux is a Flux prompt generation node. The subject can be \"human\", \"other\" or a combination of both. For human, pose settings can be enabled. Additionally, various styles can be applied. Finally, combine it with \"Prompt Enhancement\" to seamlessly automate image generation, eliminating the hassle of designing prompts."
-version = "3.0.0"
+description = "A node for one click generation of prompts (for image and video generation, etc.) in Comfyui. 一个在 comfyui 中一键生成提示 (用于图像和视频生成等) 的节点"
+version = "3.5.0"
 license = {file = "LICENSE"}
 
 [project.urls]

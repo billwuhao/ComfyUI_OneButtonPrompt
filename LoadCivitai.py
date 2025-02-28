@@ -3,6 +3,7 @@ import torch
 import requests
 from io import BytesIO
 import os
+import re
 import numpy as np
 import json
 import random
@@ -37,6 +38,7 @@ def get_image_data_from_url(url, proxies=None):
     except requests.exceptions.RequestException as e:
         print(f"Error fetching URL: {url}. Error: {e}")
         return None  # Error during request
+    
 def pil2tensor(img):
     output_images = []
     output_masks = []
@@ -64,6 +66,12 @@ def pil2tensor(img):
 
     return (output_image, output_mask)
 
+def process_prompt(prompt):
+    result = re.sub(r'[sS]core_\w+\s*,?\s*|<.+?>\s*,?\s*', '', prompt, flags=re.DOTALL)
+    # 清理多余的空格和换行
+    result = re.sub(r'\s+', ' ', result).strip()
+    return result
+
 def get_random_imginfo(data: dict, img_type: str, proxies=None):
     """
     Selects and returns a random key-value pair from a dictionary.
@@ -76,23 +84,24 @@ def get_random_imginfo(data: dict, img_type: str, proxies=None):
                        selected item from the dictionary. Returns None if
                        the dictionary is empty.
     """
-    if not data:
-        return None  # Return None if the dictionary is empty
-
-    if img_type == "Prompt":
+    if img_type == "Img+Prompt" or img_type == "OnlyPrompt":
         data = data["Prompt"]
     else:
         data = {**data["Prompt"], **data["NoPrompt"]}
 
     keys = list(data)
-
-    for i in range(6):
-        random_url = random.choice(keys)
-        imageinfo = get_image_data_from_url(random_url, proxies=proxies)
-        if imageinfo:
-            return imageinfo, data[random_url][1]
+    if img_type == "OnlyPrompt":
+        prompt = process_prompt(data[random.choice(keys)][1])
+        return None, prompt
     else:
-        raise ValueError("Failed to find a valid image URL after 6 attempts.")
+        for i in range(6):
+            random_url = random.choice(keys)
+            imageinfo = get_image_data_from_url(random_url, proxies=proxies)
+            prompt = process_prompt(data[random_url][1])
+            if imageinfo:
+                return imageinfo, prompt
+        else:
+            raise ValueError("Failed to find a valid image URL after 6 attempts. Or the proxy settings are incorrect.")
 
 
 class LoadImageInfoFromCivitai:
@@ -102,7 +111,7 @@ class LoadImageInfoFromCivitai:
     def INPUT_TYPES(cls):
         return {
             "required": {
-                "output_type": (["Img", "Img+Prompt"], {"default": "Prompt"}),
+                "output_type": (["Img", "Img+Prompt", "OnlyPrompt"], {"default": "OnlyPrompt"}),
                 "nsfw": ("BOOLEAN", {
                     "default": False, 
                     "tooltip": "When True, need `civit_nsfw.json` in the `txtfiles` folder, otherwise it is invalid"}),
@@ -134,49 +143,31 @@ class LoadImageInfoFromCivitai:
             set_seed(self.hash_seed(seed))
 
         proxy = None if proxy == "http://127.0.0.1:None" else proxy
-        img, prompt = self.load_json_file(output_type, nsfw, proxies={"https": proxy,"http": proxy,})
-        print(f"LoadImageInfoFromCivitai.load: load_json_file returned img type: {type(img)}") # Debug print
+        data = self.load_data_form_json(nsfw)
 
-        if img is None: # Check if get_image_data_from_url failed
-            print("LoadImageInfoFromCivitai.load: get_image_data_from_url returned None. Image download failed.") # Debug print
-            return (None, None, prompt) 
+        img, prompt = get_random_imginfo(data, output_type, proxies={"https": proxy,"http": proxy,})
+
+        if img is None: 
+            img = Image.new('RGB', (512, 512), color=(0, 0, 0))
+            # return (None, None, prompt) 
         
         img_out, mask_out = pil2tensor(img)
-        print(f"LoadImageInfoFromCivitai.load: pil2tensor returned img_out type: {type(img_out)}, mask_out type: {type(mask_out)}") # Debug print
 
-        
-        if img_out is None or mask_out is None: # Check if pil2tensor failed
-            print("LoadImageInfoFromCivitai.load: pil2tensor returned None outputs. Image processing failed.") # Debug print
-            return (None, None, prompt) # Return None for IMAGE and MASK, and error message
-        
         return (img_out, mask_out, prompt)
     
-    def load_json_file(self, output_type, nsfw, proxies=None):
+        
+    def load_data_form_json(self,nsfw):
         if nsfw:
             file_path = self.jsonfile_path + "/civit_nsfw.json"
-            if not os.path.exists(self.jsonfile_path + "/civit_nsfw.json"):
+            if not os.path.exists(file_path):
                 file_path = self.jsonfile_path + "/civit_sfw.json"
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-            except Exception as e:
-                print(f"Error loading JSON file: {file_path}. Error: {e}")
-                return None, None
-            
-            if output_type == "Img+Prompt":
-                img, prompt = get_random_imginfo(data, "Prompt", proxies=proxies)
-            else:
-                img, prompt = get_random_imginfo(data, "Img", proxies=proxies)
-        if not nsfw:
-            try:
-                with open(self.jsonfile_path + "/civit_sfw.json", "r", encoding="utf-8") as f:
-                    data = json.load(f)
-            except Exception as e:
-                print(f"Error loading JSON file: {self.jsonfile_path + '/civit_sfw.json'}. Error: {e}")
-                return None, None
-            
-            if output_type == "Img+Prompt":
-                img, prompt = get_random_imginfo(data, "Prompt", proxies=proxies)
-            else:
-                img, prompt = get_random_imginfo(data, "Img", proxies=proxies)
-        return img, prompt
+        else:
+            file_path = self.jsonfile_path + "/civit_sfw.json"
+        
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                return data
+        except Exception as e:
+            print(f"Error loading JSON file: {file_path}. Error: {e}")
+            raise

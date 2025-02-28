@@ -126,18 +126,22 @@ class OneButtonPromptFlux:
         return (generate_prompt(subject, pose, style, lora_trigger_or_prefix, refresh, test, seed),)
 
 
-from .DeepSeekRone import DeepseekRun
+from .DeepSeekRone_Qwen import DeepseekRun, QwenLLMRun, QwenVLRun
 from .LoadCivitai import LoadImageInfoFromCivitai
 
 
 NODE_CLASS_MAPPINGS = {
     "DeepseekRun": DeepseekRun,
+    "QwenLLMRun": QwenLLMRun,
+    "QwenVLRun": QwenVLRun,
     "OneButtonPromptFlux": OneButtonPromptFlux,
     "LoadImageInfoFromCivitai": LoadImageInfoFromCivitai
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     "DeepseekRun": "Deepseek Run",
+    "QwenLLMRun": "Qwen LLM Run",
+    "QwenVLRun": "Qwen VL Run",
     "OneButtonPromptFlux": "One Button Prompt Flux",
     "LoadImageInfoFromCivitai": "Load Image Info From Civitai"
 }

@@ -1,0 +1,6 @@
+bitsandbytes
+accelerate
+qwen-vl-utils
+optimum
+transformers>=4.49
+# git+https://github.com/huggingface/transformers
