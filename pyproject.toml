@@ -1,7 +1,7 @@
 [project]
 name = "onebuttonprompt_flux"
 description = "A node for one click generation of prompts (for image and video generation, etc.) in Comfyui. 一个在 comfyui 中一键生成提示 (用于图像和视频生成等) 的节点"
-version = "3.5.0"
+version = "3.5.2"
 license = {file = "LICENSE"}
 
 [project.urls]
