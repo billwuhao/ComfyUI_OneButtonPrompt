@@ -1,7 +1,7 @@
 [project]
-name = "onebuttonprompt_flux"
-description = "A node for one click generation of prompts (for image and video generation, etc.) in Comfyui. 一个在 comfyui 中一键生成提示 (用于图像和视频生成等) 的节点"
-version = "3.5.2"
+name = "onebuttonprompt-mw"
+description = "A node that assists in one click generation of prompts (for image and video generation, etc.) in Comfyui. 一个在 comfyui 中一键辅助生成提示 (用于图像和视频生成等) 的节点."
+version = "1.0.0"
 license = {file = "LICENSE"}
 
 [project.urls]
@@ -10,5 +10,5 @@ Repository = "https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux"
 
 [tool.comfy]
 PublisherId = "mw"
-DisplayName = "ComfyUI_OneButtonPrompt_Flux"
+DisplayName = "MW-ComfyUI_OneButtonPrompt"
 Icon = "https://github.com/billwuhao/aiart.website/blob/master/hb.png"

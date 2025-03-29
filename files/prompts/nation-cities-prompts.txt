@@ -1,0 +1,680 @@
+accra
+addis ababa
+adelaide
+agra
+almaty
+amman
+amritsar
+amsterdam
+anchorage
+ankara
+antalya
+antananarivo
+antigua
+ashgabat
+astana
+aswan
+athens
+atlanta
+auckland
+bagan
+baku
+bali
+bamako
+bangkok
+barcelona
+bath
+batumi
+beijing
+belfast
+belgrade
+bergen
+berlin
+bern
+birmingham
+bled
+bogota
+bologna
+brasilia
+bratislava
+brisbane
+brussels
+bucharest
+budapest
+buenos aires
+bukhara
+cairo
+canberra
+cancun
+cannes
+cape town
+caracas
+carcassonne
+cartagena
+casablanca
+chengdu
+chiang mai
+chicago
+christchurch
+cologne
+colombo
+copenhagen
+cordoba
+cusco
+dakar
+dar es salaam
+detroit
+doha
+dresden
+dubai
+dublin
+dubrovnik
+edinburgh
+eilat
+fes
+florence
+frankfurt
+fukuoka
+geneva
+genoa
+glasgow
+granada
+guangzhou
+guatemala city
+haifa
+hamburg
+hangzhou
+hanoi
+harare
+havana
+heidelberg
+helsinki
+hiroshima
+ho chi minh city
+hobart
+hoi an
+hong kong
+honolulu
+interlaken
+istanbul
+izmir
+jaipur
+jericho
+jerusalem
+johannesburg
+kathmandu
+kiev
+kingston
+kolkata
+krakow
+kuala lumpur
+kyoto
+la paz
+lagos
+lalibela
+las vegas
+lausanne
+lhasa
+lima
+lisbon
+liverpool
+ljubljana
+london
+los angeles
+luang prabang
+lubeck
+lugano
+luxor
+lyon
+macau
+madrid
+male
+malmo
+managua
+manaus
+manchester
+manila
+marrakech
+marseille
+melbourne
+mexico city
+miami
+milan
+minsk
+mombasa
+mont st. michel
+montevideo
+montreal
+moscow
+mumbai
+munich
+nagoya
+nairobi
+naples
+nassau
+new delhi
+new orleans
+new york city
+nice
+nottingham
+novosibirsk
+nuremberg
+odessa
+orlando
+osaka
+oslo
+ottawa
+panama city
+paris
+petra
+philadelphia
+phnom penh
+phuket
+porto
+prague
+pretoria
+punta cana
+pyongyang
+quebec city
+quito
+rabat
+recife
+reykjavik
+riga
+rio de janeiro
+riyadh
+rome
+rotterdam
+salt lake city
+salvador da bahia
+salzburg
+samarkand
+san francisco
+san jose
+san juan
+santiago
+santo domingo
+santorini
+sao paulo
+sarajevo
+seattle
+seoul
+seville
+shanghai
+sharm el sheikh
+shenzhen
+siem reap
+siena
+sofia
+st. louis
+st. petersburg
+stockholm
+strasbourg
+suva
+sydney
+taipei
+tallinn
+tashkent
+tbilisi
+tel aviv
+the hague
+thessaloniki
+tokyo
+toronto
+toulouse
+turin
+ulaanbaatar
+ushuaia
+valletta
+valparaiso
+varanasi
+varna
+venice
+vienna
+vientiane
+vilnius
+volgograd
+warsaw
+washington dc
+wellington
+windhoek
+xian
+yalta
+yangon
+yerevan
+zagreb
+zanzibar
+zurich
+afghanistan
+albania
+algeria
+andorra
+angola
+antigua and barbuda
+argentina
+armenia
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bhutan
+bolivia
+bosnia and herzegovina
+botswana
+brazil
+brunei
+bulgaria
+burkina faso
+burundi
+cabo verde
+cambodia
+cameroon
+canada
+central african republic
+chad
+chile
+china
+colombia
+comoros
+congo
+costa rica
+côte d’ivoire
+croatia
+cuba
+cyprus
+czechia
+democratic republic of the congo
+denmark
+djibouti
+dominica
+dominican republic
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+eswatini
+ethiopia
+fiji
+finland
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+grenada
+guatemala
+guinea
+guinea-bissau
+guyana
+haiti
+holy see
+honduras
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+jordan
+kazakhstan
+kenya
+kiribati
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+new zealand
+nicaragua
+niger
+nigeria
+north korea
+north macedonia
+norway
+oman
+pakistan
+palau
+palestine state
+panama
+papua new guinea
+paraguay
+peru
+philippines
+poland
+portugal
+qatar
+romania
+russia
+rwanda
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south korea
+south sudan
+spain
+sri lanka
+sudan
+suriname
+sweden
+switzerland
+syria
+tajikistan
+tanzania
+thailand
+timor-leste
+togo
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states of america
+uruguay
+uzbekistan
+vanuatu
+venezuela
+vietnam
+yemen
+zambia
+zimbabwe
+aboriginal
+afghan
+akkadian
+albanian
+algerian
+american
+ancient egyptian
+andorran
+angolan
+anguillan
+argentine
+armenian
+assyrian
+australian
+austrian
+azerbaijani
+aztec
+babylonian
+bahamian
+bahraini
+bangladeshi
+barbadian
+belarusian
+belgian
+belizean
+beninese
+bermudian
+bhutanese
+bolivian
+botswanan
+brazilian
+british
+british virgin islander
+bruneian
+bulgarian
+burkinan
+burmese
+burundian
+cambodian
+cameroonian
+canadian
+cape verdean
+cayman islander
+central african
+chadian
+chilean
+chinese
+citizen of antigua and barbuda
+citizen of bosnia and herzegovina
+citizen of guinea-bissau
+citizen of kiribati
+citizen of seychelles
+citizen of the dominican republic
+citizen of vanuatu
+colombian
+comoran
+congolese
+cook islander
+costa rican
+croatian
+cuban
+cymraes
+cymro
+cypriot
+czech
+danish
+djiboutian
+dominican
+dutch
+east timorese
+ecuadorean
+egyptian
+emirati
+english
+equatorial guinean
+eritrean
+estonian
+ethiopian
+faroese
+fijian
+filipino
+finnish
+french
+gabonese
+gambian
+georgian
+german
+ghanaian
+gibraltarian
+greek
+greenlandic
+grenadian
+guamanian
+guatemalan
+guinean
+guyanese
+haida
+haitian
+hellenistic
+honduran
+hungarian
+icelandic
+incan
+indian
+indonesian
+iranian
+iraqi
+irish
+israeli
+italian
+ivorian
+jamaican
+japanese
+jordanian
+kazakh
+kenyan
+kittitian
+kosovan
+kuwaiti
+kyrgyz
+lao
+latvian
+lebanese
+liberian
+libyan
+liechtenstein citizen
+lithuanian
+luxembourger
+macedonian
+malagasy
+malawian
+malaysian
+maldivian
+malian
+maltese
+marshallese
+martiniquais
+mauritanian
+mauritian
+mayan
+mesoamerican
+mexican
+micronesian
+moldovan
+monegasque
+mongolian
+montenegrin
+montserratian
+moroccan
+mosotho
+mozambican
+namibian
+native american
+nauruan
+navajo
+nepalese
+new zealander
+nicaraguan
+nigerian
+nigerien
+niuean
+north korean
+northern irish
+norwegian
+omani
+pakistani
+palauan
+palestinian
+panamanian
+papua new guinean
+paraguayan
+peruvian
+phoenician
+pitcairn islander
+polish
+portuguese
+prydeinig
+puerto rican
+qatari
+roman
+romanian
+russian
+rwandan
+salvadorean
+sámi
+sammarinese
+samoan
+sao tomean
+saudi arabian
+scottish
+senegalese
+serbian
+sierra leonean
+singaporean
+slovak
+slovenian
+solomon islander
+somali
+south african
+south korean
+south sudanese
+spanish
+sri lankan
+st helenian
+st lucian
+stateless
+sudanese
+sumerian
+surinamese
+swazi
+swedish
+swiss
+syrian
+tajik
+tanzanian
+thai
+togolese
+tongan
+trinidadian
+tristanian
+tunisian
+turkish
+turkmen
+turks and caicos islander
+tuvaluan
+ugandan
+ukrainian
+uruguayan
+uzbek
+vatican citizen
+venezuelan
+vietnamese
+vincentian
+wallisian
+welsh
+yemeni
+zambian
+zimbabwean

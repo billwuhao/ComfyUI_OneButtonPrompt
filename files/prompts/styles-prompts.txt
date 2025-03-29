@@ -1,0 +1,1166 @@
+// image 绘画
+
+50s Art
+60s Art
+60s Kitsch and Psychedelia
+70s Art
+70s Science Fiction
+80s Art
+Abstract Art
+Abstract Expressionism
+Abstract Illusionism
+Academism
+Action Painting
+Aestheticism
+Aetherpunk
+Afrofuturism
+Afropunk
+Altermodern
+Alternative Art
+American Expressionism
+American Impressionism
+American Scene Painting
+Analytical Art
+Anime
+Animecore
+Art & Language
+Art Brut
+Art Deco
+Art Nouveau
+Art Photography
+Arte Povera
+Arts and Crafts Movement
+Ascii Art
+Ashcan School
+Atomicpunk
+Atompunk
+Astropunk
+Auroracore
+Australian Tonalism
+Auto-Destructive Art
+avant-garde
+Barbiecore
+Bardcore
+Baroque Art
+Bastardcore
+Bauhaus Art
+Berlin Secession
+Bimbocore
+Biopunk Art
+Bloomcore
+Boho
+Bombacore
+Breakcore
+Britpop
+Brocore
+Bronzepunk
+Brutalist
+Bugcore
+by GLaDOS
+Cartelcore
+Cartooncore
+Catholicpunk
+CGI Art
+Chibi Anime
+Christcore
+Classical Realism
+Classicism Art
+Cleancore
+Clockpunk
+Cloisonnism
+Cloudpunk
+Cobra
+Computer Art
+Conceptual Art
+Constructivism Art
+Corporate Punk
+Crowcore
+Crustpunk
+Cryptidcore
+Crystal Cubism
+Cubism
+Cubo-futurism
+Cutecore
+Cutepunk
+Cutester Art
+Cyber Noir
+cyberdelic
+Cybergoth Art
+Cyberpop
+Cyberpunk Art
+Cybergoth Fashion
+Dada Art
+Dark Academia
+Dark Wave Art
+Darksynth
+Darkcore
+Darkpunk
+De Stijl
+Deathpunk
+Decopunk
+Decora
+decal art
+Demoscene
+Destructive Art
+Dieselpunk
+Digital Art
+divisionism
+dmt
+Dollpunk
+Doodle Art style
+Doodle art style
+Dragoncore
+Dragonpunk
+Dreamcore
+dtx
+Dual Kawaii
+Duckcore
+Dullcore
+Emo Art
+Emopunk
+Europunk
+Excessivism
+Expressionism
+Fashwave
+Fairy Kei
+Fairy-Tale
+Fauvism
+Feralcore
+Figurative Art
+Flat Art
+Fluxus Art
+Folk Art
+Funk Art
+Futurepunk
+Futurism
+Gadgetpunk
+Gamercore
+Gamerpunk
+Generative Art
+Geometric Abstract Art
+Geometric Style
+Glitch Art
+Glitchcore
+Gloomcore
+Gloompunk
+Glow In The Dark
+Glowwave
+Goblincore
+Goth Art
+Gouache Art
+Graffiti Street Art
+Grindhouse
+Grimdark
+Grunge Art
+Grungepunk
+Gutai Group
+Harajuku
+Hackercore
+Hardcore Art
+Harlem Renaissance
+Health Goth Art
+Heidelberg School
+Hermitpunk
+Hippie Art
+Hippiepunk
+Hipster Art
+Hispanicore
+Hyperpop
+Hyperpunk
+Hyperrealism
+Icepunk
+Impressionism
+Industrial Art
+Islandpunk
+Impasto
+Japonism Art
+Junglecore
+K-pop
+Kawaii anime
+kalighat
+Kinetic Pointillism
+kinetic art
+Kingcore
+Knightcore
+Land Art
+Letterism
+Libertywave
+Lightcore
+Lowbrow Art
+Lunarpunk
+Lyrical Abstraction
+Magewave
+Magical Realism
+Mannerism Art
+Margins Art
+Medieval art
+Memecore Art
+Metalcore
+Methaphysical painting
+Minecraft
+Minecraftcore
+Mingei
+Miniaturecore
+Minimalism Art
+Modern Art
+Modern European Ink Painting
+Modernism Art
+monotype
+mosaic
+Mushroomcore
+Mythpunk
+Naive Art
+Nanopunk
+Native Art
+Naturecore
+Neo
+Neo Dada Art
+Neo-Dadaism Art
+Neo-Expressionism
+Neo-Fauvism
+Neo-Primitivism
+Neoclassicism
+Neogothic Art
+New Wave Art
+Nihilcore
+Nintencore
+Normcore Art
+Nu Goth Art
+Orientalism Art
+Orphism
+Organic
+Panfuturism
+Patachitra
+Pastel Goth Art
+Photorealism
+Pin-up
+Pixel Art
+Pixiecore
+Pointillism
+Pop Art
+Post-Apocalyptic
+Post-Impressionism
+Post-Punk
+Post-Rock
+Pre-raphaelitism
+Prehistoricore
+Primitivism
+Primitivism Art
+Princecore
+Princesscore
+Printcore
+Private Press
+Process Art
+Psychedelic Art
+Psytrance Art
+Psychobilly
+Punk Art
+Qajar Art
+Queencore
+Queercore Art
+Rainbowpunk
+Rave Fashion
+Realism
+Remodernism
+Renaissance
+Retrofuturism
+Rococo
+Rollerwave
+Romanesque
+Royalcore
+Rusticcore
+Seapunk Art
+Serial Art
+Shin Hanga
+Shock Art
+Sleepycore
+Slimepunk
+Solarpunk Art
+Sosaku Hanga
+Sots Art
+Steampunk Art
+Steelpunk
+Still Life
+Stonepunk
+Street Art
+Superflat
+Suprematism
+Surrealism Art
+Synthetism
+Synthpunk
+Synthwave Art
+Tattoo style
+Techwear
+Terrorwave
+Technopunk
+Tenebrism
+Teslapunk
+Thriftcore
+Tinkercore
+Tinycore
+Tonalism
+Toyism Art
+Trendercore
+Trillwave
+Ukiyo-E
+Vanitas
+Vaporpunk
+Vaporwave
+Vaporwave Art
+Victorian Gothic Art
+Villagecore
+Villaincore
+Voidpunk
+Vorticism Art
+Voxel Art
+Warmcore
+Westernpunk
+Weirdcore
+Witchcore
+Wizardcore
+Yankeecore
+Yuccie Art
+Yume Kawaii
+style of abstract expressionism // 抽象表现主义风格
+style of art nouveau // 新艺术风格
+style of chinese ink painting // 中国水墨画风格
+style of classical realism // 古典现实主义风格
+style of cubism // 立体主义风格
+style of dada // 达达主义风格
+style of expressionism // 表现主义风格
+style of fauvism // 野兽派风格
+style of folk art // 民间艺术风格
+style of impressionism // 印象派风格
+style of minimalism // 极简主义风格
+style of modernism // 现代主义风格
+style of neoclassicism // 新古典主义风格
+style of op art // 视错觉艺术风格
+style of photorealism // 超写实主义风格
+style of pixel art // 像素艺术风格
+style of pointillism // 点彩派风格
+style of pop art // 波普艺术风格
+style of postmodernism // 后现代主义风格
+style of pre-raphaelitism // 拉斐尔前派风格
+style of realism // 现实主义风格
+style of romanticism // 浪漫主义风格
+style of surrealism // 超现实主义风格
+style of symbolism // 象征主义风格
+style of ukiyo-e // 浮世绘风格
+style of voxel art // 体素艺术风格
+style of watercolor painting // 水彩画风格
+style of woodblock printing // 木刻版画风格
+style of anime // 动漫风格
+style of chiaroscuro // 明暗对比风格
+style of collage // 拼贴艺术风格
+style of cyberpunk // 赛博朋克风格
+style of encaustic painting // 蜡画风格
+style of hyperrealism // 超现实主义风格
+style of islamic art // 伊斯兰艺术风格
+style of lowbrow art // 低俗艺术风格
+style of mandala art // 曼陀罗艺术风格
+style of miniature painting // 微型绘画风格
+style of naive art // 天真艺术风格
+style of neo-expressionism // 新表现主义风格
+style of outsider art // 局外人艺术风格
+style of pastiche // 拼接风格
+style of primitivism // 原始主义风格
+style of punk // 朋克风格
+style of retro // 复古风格
+style of sgraffito // 刻画风格
+style of stencil art // 模板艺术风格
+style of tiki art // 蒂基艺术风格
+style of trompe l'oeil // 错视画风格
+style of video art // 视频艺术风格
+style of zentangle // 禅绕画风格
+style of biomorphic art // 生物形态艺术风格
+style of calligraphic art // 书法艺术风格
+style of decoupage // 剪贴画风格
+style of dot painting // 点画风格
+style of fantasy art // 幻想艺术风格
+style of fresco // 壁画风格
+style of glitch art // 故障艺术风格
+style of holography // 全息图风格
+style of icon painting // 圣像画风格
+style of light art // 光艺术风格
+style of mosaic // 马赛克风格
+style of neon art // 霓虹艺术风格
+style of origami // 折纸艺术风格
+style of paper cutting // 剪纸艺术风格
+style of pyrography // 烙画风格
+style of quilling // 纸艺卷曲风格
+style of scratchboard // 刮画板风格
+style of sumi-e // 墨画风格
+style of tapestry // 挂毯艺术风格
+style of typography // 排版艺术风格
+style of assemblage // 拼装艺术风格
+style of automata // 自动机艺术风格
+style of batik // 蜡染艺术风格
+style of book art // 书籍艺术风格
+style of concrete art // 具体艺术风格
+style of drypoint // 干点刻风格
+style of earth art // 地景艺术风格
+style of environmental art // 环境艺术风格
+style of filigree // 花丝艺术风格
+style of glass art // 玻璃艺术风格
+style of lacquerware // 漆器艺术风格
+style of land art // 土地艺术风格
+style of metalwork // 金属工艺风格
+style of micro-mosaic // 微型马赛克风格
+style of niello // 黑金工艺风格
+style of paper marbling // 纸浆大理石纹风格
+style of patchwork // 拼布艺术风格
+style of performance art // 行为艺术风格
+style of photomontage // 照片拼贴风格
+style of pysanky // 乌克兰彩蛋艺术风格
+style of reverse glass painting // 玻璃背面绘画风格
+style of shadow art // 影子艺术风格
+style of textile art // 纺织艺术风格
+style of aerial perspective // 空气透视风格
+style of anamorphic art // 变形艺术风格
+style of assemblage painting // 组合绘画风格
+style of boro // 日本补缀布艺术风格
+style of cameo // 浮雕宝石艺术风格
+style of cave painting // 洞窟壁画风格
+style of cloisonnism // 分隔画风格
+style of cyanotype // 蓝晒法风格
+style of en plein air // 户外写生风格
+style of frottage // 拓印艺术风格
+style of gilding // 镀金艺术风格
+style of gold leaf painting // 金箔画风格
+style of gouache // 广告彩绘风格
+style of grisaille // 灰色画风格
+style of inlay // 镶嵌艺术风格
+style of intarsia // 嵌木艺术风格
+style of kintsugi // 金继艺术风格
+style of marquetry // 拼花木工艺术风格
+style of mezzotint // 磨刻版画风格
+style of monoprint // 单版画风格
+style of nanban art // 南蛮艺术风格
+style of oragami // 折纸艺术风格（不同的拼写方式）
+style of petroglyph // 岩画风格
+style of pietra dura // 硬石镶嵌艺术风格
+style of scagliola // 彩色大理石仿制风格
+style of sgrafitto // 刻花陶瓷风格
+style of stenciling // 模板印花风格
+style of aerial art // 空中艺术风格
+style of bark painting // 树皮画风格
+style of calligram // 书法画风格
+style of cut-paper silhouettes // 剪影艺术风格
+style of egg tempera // 蛋彩画风格
+style of fresco secco // 干壁画风格
+style of micro-painting // 微型绘画风格
+style of nihonga // 日本画风格
+style of junk art // 垃圾艺术风格
+style of 3d game shader // 三维游戏着色器风格
+style of 3d ambient occlusion // 三维环境遮蔽风格
+style of 3d pre-rendered graphics // 三维预渲染图形风格
+style of stippling // 点描艺术风格
+style of hudson river school painting // 哈德逊河派绘画风格
+style of naturalism painting // 自然主义绘画风格
+style of allegorical // 寓意画风格
+style of ashcan school // 垃圾桶派风格
+style of barbizon school painting // 巴比松画派风格
+style of chalk drawing // 粉笔画风格
+style of crayon drawing // 蜡笔画风格
+style of dutch golden age // 荷兰黄金时代风格
+style of french renaissance // 法国文艺复兴风格
+style of german renaissance // 德国文艺复兴风格
+style of high renaissance // 高文艺复兴风格
+style of mannerism // 风格主义风格
+style of neo-impressionism // 新印象派风格
+style of orientalism // 东方主义风格
+style of panel painting // 板画风格
+style of synthetism // 综合主义风格
+style of tonalism // 色调主义风格
+style of mixed media painting // 混合媒介绘画风格
+style of amsterdam impressionism // 阿姆斯特丹印象派风格
+style of fantastic realism // 幻想现实主义风格
+style of magic realism // 魔幻现实主义风格
+style of flemish baroque // 佛兰德斯巴洛克风格
+style of figurative art // 具象艺术风格
+style of adventure pulp poster // 冒险通俗海报风格
+style of flat color picture // 平面色彩图风格
+style of graphic novel // 图画小说风格
+style of propaganda poster // 宣传海报风格
+style of storybook illustration // 故事书插图风格
+style of comic strip // 连环漫画风格
+style of caravaggisti // 卡拉瓦乔派风格
+style of edo period painting // 江户时代绘画风格
+style of infrared art // 红外艺术风格
+style of mexican muralism // 墨西哥壁画运动风格
+style of hd photo // 高清照片风格
+style of stage photo // 舞台摄影风格
+style of film still // 电影剧照风格
+style of autochrome // 彩色玻璃照相法风格
+style of french new wave // 法国新浪潮风格
+style of redscale // 红调摄影风格
+style of needlepoint art // 刺绣艺术风格
+style of cross-stitch art // 十字绣艺术风格
+style of embroidery art // 刺绣艺术风格
+style of indienne textile art // 印花布艺术风格
+style of chinoiserie art // 中国风艺术风格
+style of x-ray photography // X光摄影风格
+style of isometric art // 等距艺术风格
+style of low poly // 低多边形风格
+style of art brut // 原始艺术风格
+style of chillwave art // 清新电子风格艺术
+style of maximalism // 极繁主义风格
+style of phantasm art // 幻象艺术风格
+style of illusionism art // 错觉艺术风格
+style of aestheticism art // 唯美主义艺术风格
+style of avant-garde art // 前卫艺术风格
+style of fractalism // 分形艺术风格
+style of lsd art // 迷幻艺术风格
+style of psychedelic punk // 迷幻朋克风格
+style of massurrealism // 大众超现实主义风格
+style of botanical illustration // 植物插图风格
+style of marine art // 海洋艺术风格
+style of spray paint art // 喷漆艺术风格
+style of icon religious painting // 宗教圣像画风格
+style of master print art // 大师版画艺术风格
+style of flower bouquet art // 花束艺术风格
+style of sōsaku-hanga // 创作版画风格
+style of shin-hanga painting // 新版画风格
+style of 2d game // 二维游戏风格
+style of retrowave art // 复古波艺术风格
+style of aquatint art // 水印版画风格
+style of linocut art // 油毡版画风格（不同于之前的linocut）
+style of woodblock // 木版画风格
+style of popular print art // 流行印刷艺术风格
+style of lithography painting // 平版画风格
+style of concept art // 概念艺术风格
+style of dark academia art // 暗黑学术风格
+style of fashion art // 时尚艺术风格
+style of feminist art // 女权艺术风格
+style of melanin art // 黑色素艺术风格
+style of movie poster // 电影海报风格
+style of nirvana art // 涅槃艺术风格
+style of kawaii // 可爱风格
+style of pop surrealism // 流行超现实主义风格
+style of cybernetic art // 控制论艺术风格
+style of daydream punk art // 白日梦朋克风格
+style of acidpunk art // 酸朋克风格
+style of aetherpunk art // 以太朋克风格
+style of funk art // 放克艺术风格
+style of decopunk art // 装饰朋克风格
+style of kitsch // 媚俗风格
+style of eastern art // 东方艺术风格
+style of electronic art // 电子艺术风格
+style of modern anime still // 现代动漫静态风格
+style of dmt art // DMT艺术风格
+style of line-drawing // 线条绘画风格
+style of ambient occlusion art // 环境遮蔽艺术风格
+style of cel shading art // 赛璐璐阴影艺术风格
+style of double exposure // 双重曝光风格
+style of intricate pattern details art // 复杂图案细节艺术风格
+style of leave negative space // 留白艺术风格
+style of american scene painting // 美国场景画风格
+style of indian miniature painting // 印度微型绘画风格
+style of mughal painting // 莫卧儿绘画风格
+style of persian miniature // 波斯微型画风格
+style of russian lubok // 俄罗斯卢布克风格
+style of aerograph // 喷枪画风格
+style of digital quilt // 数字拼布风格
+style of light painting // 光绘艺术风格
+style of cymatics // 波形艺术风格
+
+// building 建筑
+
+style of art deco // 装饰艺术风格
+style of baroque // 巴洛克风格
+style of constructivism // 构成主义风格
+style of futurism // 未来主义风格
+style of gothicism // 哥特式风格
+style of graffiti // 涂鸦风格
+style of kinetic art // 动力艺术风格
+style of mythpunk // 神话朋克风格
+style of rococo // 洛可可风格
+style of steampunk // 蒸汽朋克风格
+style of street art // 街头艺术风格
+style of cloisonné // 景泰蓝风格
+style of deconstructivism // 解构主义风格
+style of kinetic sculpture // 动力雕塑风格
+style of relief sculpture // 浮雕风格
+style of wire sculpture // 金属丝雕塑风格
+style of diorama // 立体模型艺术风格
+style of gothic revival // 哥特复兴风格
+style of soap carving // 肥皂雕刻风格
+style of alebrijes // 墨西哥奇幻动物雕刻风格
+style of automata art // 自动机艺术风格（不同于之前的自动机）
+style of bas-relief // 浅浮雕风格
+style of bone carving // 骨雕艺术风格
+style of cameo glass // 浮雕玻璃风格
+style of carborundum printing // 碳化硅印刷风格
+style of cloisonné enamel // 景泰蓝珐琅风格
+style of coffering // 格棂天花板艺术风格
+style of coromandel lacquer // 科罗曼德尔漆器风格
+style of encaustic // 蜡画艺术风格（不同于之前的蜡画）
+style of filigree jewelry // 花丝珠宝风格
+style of flameworking // 火焰加工玻璃艺术风格
+style of glassblowing // 吹制玻璃艺术风格
+style of grotto art // 洞穴艺术风格
+style of hardstone carving // 硬石雕刻风格
+style of ikat // 扎染纺织风格
+style of inro // 日本印笼艺术风格
+style of katagami // 型纸艺术风格
+style of linocut // 油毡版画风格
+style of lost-wax casting // 失蜡铸造艺术风格
+style of pyrography on gourds // 葫芦烙画风格
+style of sand art // 沙画艺术风格
+style of bauhaus // 包豪斯风格
+style of byzantine art // 拜占庭艺术风格
+style of churrigueresque // 丘里格拉风格
+style of constructivist typography // 构成主义排版风格
+style of coptic art // 科普特艺术风格
+style of de stijl // 风格派风格
+style of early netherlandish painting // 早期尼德兰绘画风格
+style of expressionist architecture // 表现主义建筑风格
+style of gothic architecture // 哥特式建筑风格
+style of heian period art // 平安时代艺术风格
+style of italian futurist architecture // 意大利未来主义建筑风格
+style of korean celadon // 朝鲜青瓷风格
+style of ottonian art // 奥托式艺术风格
+style of quimbaya goldwork // 钦巴亚金工艺术风格
+style of sasanian art // 萨珊艺术风格
+style of bubble art // 泡泡艺术风格
+style of candle art // 蜡烛艺术风格
+style of electroforming // 电铸艺术风格
+style of fire art // 火焰艺术风格
+style of foam carving // 泡沫雕刻风格
+style of fruit carving // 水果雕刻风格
+style of ice sculpture // 冰雕艺术风格
+style of mud art // 泥浆艺术风格
+style of nacre art // 珍珠母艺术风格
+style of petal art // 花瓣艺术风格
+style of resin art // 树脂艺术风格
+style of salt art // 盐画艺术风格
+style of sandblasting art // 喷砂艺术风格
+style of 3d printed art // 三维打印艺术风格
+style of sculpture art // 雕塑艺术风格
+style of statue art // 雕像艺术风格
+style of famous artists // 著名艺术家风格
+style of figurativism // 具象主义风格
+style of german expressionism // 德国表现主义风格
+style of clockpunk // 钟表朋克风格
+style of dieselpunk // 柴油朋克风格
+style of mechanical punk // 机械朋克风格
+style of steelpunk // 钢铁朋克风格
+style of brutalism art // 野蛮主义艺术风格
+style of modernism art // 现代主义艺术风格
+style of romanesque // 罗马式风格
+style of afrofuturism // 非洲未来主义风格
+style of futuresynth art // 未来合成艺术风格
+style of post-cyberpunk // 后赛博朋克风格
+style of sci-fi // 科幻风格
+style of solarpunk // 太阳朋克风格
+style of tech noir // 科技黑色风格
+style of synthwave art // 合成波艺术风格
+style of chibi // 萌系风格
+style of children’s illustration // 儿童插画风格
+style of fractal manifold // 分形流形风格
+style of solarised art // 太阳化艺术风格
+style of spatialism art // 空间主义艺术风格
+style of vaporwave // 蒸汽波风格
+style of computer-generated hologram // 计算机生成全息图风格
+style of peking opera art // 京剧艺术风格
+style of thangka art // 唐卡艺术风格
+style of acidwave art // 酸波艺术风格
+style of cyberart // 网络艺术风格
+style of optical illusion art // 视觉错觉艺术风格
+style of y2k aesthetic art // Y2K美学艺术风格
+style of manichaean art // 摩尼教艺术风格
+style of thunderpunk // 雷霆朋克风格
+style of assemblage jewelry // 拼装珠宝风格
+style of biomorphic jewelry // 生物形态珠宝风格
+
+// 画质
+
+uhd
+8k resolution
+smooth and detailed
+ultrafine 4k
+deviantart hd
+artstation hd
+cgsociety hd
+photoreal
+
+
+// 渲染
+
+rendered with 3dfx voodoo
+rendered with 3ds max
+rendered with autodesk maya
+rendered with blender
+rendered with cinema 4d
+rendered with foundry modo
+rendered with houdini
+rendered with oculus medium
+rendered with otoy octanerender
+rendered with pov-ray
+rendered with rhino3d
+rendered with sketchup
+rendered with softimage
+rendered with vfx friday
+rendered with v-ray
+rendered with bondware poser
+rendered with corel painter
+rendered with mudbox
+rendered with pixologic zbrush
+rendered with sculptris
+rendered with adobe after effects
+rendered with rtx
+rendered with cryengine
+rendered with doom engine
+rendered with quake engine
+unreal engine
+polycount hd
+zbrush central hd
+vray tracing
+photorealistic
+rendered with terragen
+by best minecraft shaders
+3d game shader
+ambient occlusion
+Cel shaded
+Cel shading
+Classical
+Contemporary
+Detailed illustration
+Dynamic
+Graphic novel
+Illustration
+Masterpiece
+Magic Realism
+Realistic
+Rough sketch
+Screen print
+Simple illustration
+Simple and clean
+Sketch
+Sketched
+Ultra Detailed
+Ultra Real
+Ultrarealistic
+Visual novel
+Vivid
+Maximalist
+Movie still
+Anime screencap
+Overdetailed art
+ultrafine detailed
+Fine art
+detailed, masterpiece
+3D glue model
+3D graffiti
+3D isometric render Low poly
+3D print model
+50s illustration style
+60s illustration style
+70s illustration style
+80s illustration style
+90s illustration style
+a ceramic coffee mug
+a cube
+a felt muppet
+a microscopic photo
+a sphere
+a stock photo
+a storybook illustration
+acrylic marbling art
+acrylic painting
+acrylic pour
+action figure
+action painting art
+Advertising Portrait
+Aerosol Paint
+Airbrush
+Album cover
+Albumen Print
+alcohol ink art
+alcohol ink drawing
+alebrije art
+amigurumi
+Anaglyph
+Anatomical Illustration
+Ancient Egyptian Art
+Animation
+Anthotype Print
+Aquatint
+Architectural Digest
+ASCII art
+Asemblage art
+assemblage art
+Associated press photo
+azulejo texture
+Ballpoint pen art
+bas-relief art
+batik
+bestiary
+biological illustration
+black ink art
+blacklight palette
+Blueprint
+board game
+Bonsai
+Botanical artwork
+Bromoil print
+Bronze Statue
+brush pen art
+Byzantine Icon
+Calligraphy
+Cardboard cutout
+caricature art
+Carnival Glass
+Cartonnage
+Cartoon
+carving technique
+cast paper art
+catholic icon
+CCTV
+celtic patch
+Cement
+ceramic figurine
+Chantilly lace
+charcoal art
+Chemigram
+chiaroscuro art
+child's drawing
+Cibulak Porcelain
+cibulak porcelain technique
+Clay model
+Claymation
+cloisonné
+Cob
+Collage
+collagraph technique
+Collodion Print
+Collotype Print
+color sketchnote drawing
+colored pencil drawing
+Colouring sheet
+comic book art
+Comic Strip Style
+comics art
+Concept sheet
+Concrete
+Conte Drawing
+continuous line art
+contour drawing
+contour rivalry drawing
+Cover Art
+Crayons artwork
+Crochet
+Crochet doll
+Cross Processing Print
+cross stitch
+cross-stitching technique
+Cutout Animation
+cutout art
+Cyanotype Print
+Daguerreotype
+decoupage technique
+Design made of Wood
+diagram
+digital sculpture made of -material-
+doll
+doodling drawing
+Doom engine
+Doric architecture
+Dota style
+dotted lines art
+double exposure
+drawn in MS paint
+dribbble style
+Drone photo
+Drybrush artwork
+Dynamic art
+editorial illustration
+embossing
+Embroidery
+enamel painting art
+encaustic texture
+engraving drawing
+etched metal
+etched stone
+etching technique
+Fabric art style
+Fantasy concept art
+fashion editorial
+fashion illustration
+Fashion Portrait
+Fashion shoot
+Fashion Sketch
+felt tip pen drawing
+ferrofluid
+Fiber Optic Light Painting
+Filigree
+Fine Art Etching
+fingerpaint artwork
+Flemish Tapestry
+fractal manifold
+fresco art
+Funko pop
+Fused Glass
+fused glass art
+gilded drawing
+Glitch art
+glitch effect
+Glitter Drawing
+Gobelin Tapestry
+gobelin tapestry technique
+gold leafing technique
+gond painting
+Gopro footage
+Gouache Paint
+Graal Glass
+graffiti print
+graphic print
+graphite
+Grisaille
+Grotesque Tapestry
+Gzhel Ceramic
+Halftone Print
+Hand-Colored Photograph
+HDR
+hearthstone artwork
+Herbarium
+hieroglyphs
+Historical Photo
+Holga Photography
+hologram
+Holography
+Ice statue of
+Ikebana
+Impasto
+Infographic
+Infrared Photography
+ink wash art
+inktober drawing
+Inlay
+Intaglio Print
+intarsia inlay
+isometric
+Isometric 3D
+isotype
+Ivory Carving
+ivory carving technique
+Iznik Tiles
+iznik tiles pattern
+Japanese Vintage Poster
+Jewelry
+kachina doll
+khatam inlay
+Kintsugi
+Kirigami
+kirigami art
+Knitted
+Knolling
+kokedama
+Lapidary
+Laser Engraving
+lath art
+latte art
+Layered paper art
+league of legends splash art
+Lego minifig
+Lego set
+LEGO Style
+letterpress print
+Light Field Photography
+Light Painting
+Light Tracing
+linocut drawing
+Linocut Print
+Lite Brite Art
+lithography print
+loose sketching drawing
+Low-Poly
+low-poly drawing
+Luminogram
+Macrame
+Made Of Felt
+Made of felt fiber
+Made Of Iridescent Foil
+Made Of Lace
+magic the gathering artwork
+mandala
+Marble Statue
+Marbling
+Marker Drawing
+marquetry
+Matryoshka
+Melainotype Print
+Melting Wax
+Metal pin
+Metal Statue
+Mezzotint Print
+millefiori
+Millefiori Glass
+Millefleurs Tapestry
+Miniature diorama
+Mixed media
+Mokume-Gane
+Monotype Print
+Mosaic
+Movie poster
+Multiple layers of silhouette
+Muppet Style
+Mural
+Muybridge Sequence
+Natural parks travel poster
+Needlepoint
+Newspaper paper Cuts
+Oil Paint
+One Line Art
+Origami
+Ornament
+Paint splatter
+Palekh
+palette knife art
+Palette Knife Drawing
+Paper clippings Art
+Paper Cutout
+Paper Quilling
+paper quilling art
+papercut art
+Papier-Mache
+papier-mache art
+Papier-mache figure
+Pastel Drawing
+patachitra painting
+patchwork
+pebble art
+pen drawing
+Pencil Drawing
+petroglyph
+Photogram
+Photogravure
+photoshop
+pietra dura inlay
+Pixel Drawing
+Plastic Action Figure
+Plastic model
+plasticine
+Playdough figure
+Playing card
+plush toy
+Porcelain
+Pottery
+product photo
+Pulp Art
+pyrography
+Pyrogravure
+Quake engine
+Quilted
+quilted art
+Rajasthani painting
+recycled art
+Redscale Print
+relief art
+rendered in autodesk 3ds max
+rendered in cinema4d
+rendered in corel art
+rendered in houdini
+rendered in octane
+rendered in povray
+rendered in rtx
+rendered in vray
+Resin Art
+Resin artwork
+Retro comic style artwork
+Rio Carnival Float
+risograph print
+Rotoscope Animation
+Sand Sculpture
+Scraperboard Art
+Scratchboard
+Scratchboard Art
+Screenprint
+scribble art
+Scrimshaw
+Semi caricature
+sgraffito drawing
+Shibori
+shin-hanga
+silhouette art
+silk screen
+Sketchnote Style
+sloppy strokes drawing
+Snowglobe
+sock puppet
+Sock Puppet Style
+Solargram
+Solargraph
+Soutache
+Stained Glass
+Stained glass window
+stencil art
+Stencil Painting
+sticker
+still life
+Stippling
+stop motion
+Stop-Motion Animation
+stuffed toy
+Sumi-E Drawing
+sumi-e outline
+Suminagashi
+swirling line drawing
+Tapestry
+Tarot card
+Tattoo ink
+Technical Drawing
+Temari
+Terracotta
+Thai Puppet Theater
+Thermal camera
+Thermograph
+Viewfinder Photography
+Tie-Dye
+tilt and drip drawing
+tilt and drip painting art
+Tilt-Shift
+Tintype Print
+Torn Paper Collage
+traditional Haida art
+traditional Sámi art
+Trompe Loeil
+Ukiyo-E
+Ultra Wide Lens
+Ultraviolet Photography
+underpainting art
+Underwater Photography
+Vamberk Lace
+vector illustration
+Verdure Tapestry
+Video Installation
+Vitrail
+Vitreous Enamel
+Watercolor Paint
+Watercolor With Ink Pen Outline
+Wax casting art
+Weaving
+Wheatpaste
+Wire sculpture
+wireframe drawing
+Wood Carving
+Wood engraving
+woodblock print
+Woodcut
+woodcut drawing
+woodcut technique
+X-Ray
+x-ray photography
+Xerography
+Yarn model
+zentangle
+zig-zag lines drawing
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+// male, 男性
+
+A handsome soldier
+a handsome soldier, standing at attention amidst the ranks of a disciplined legion, clad in polished armor and bearing a standard of valor, resolutely martial // 一位英俊的士兵，在纪律严明的军团队伍中，笔直地站立，身着锃亮的盔甲，擎着英勇的军旗，坚定而威武
+a handsome soldier, framed by the sun-drenched battlements and fluttering banners of a fortified citadel, radiating stoic duty and unwavering patriotism // 一位英俊的士兵，以阳光普照的城垛和飘扬的旗帜为框架，散发出坚忍的责任感和坚定的爱国主义
+
+A fatherly man with a gentle smile
+a fatherly man with a gentle smile, sitting comfortably by a crackling fireplace amidst cozy armchairs and warm lamplight, radiating paternal comfort // 一位慈父般的男人，带着温柔的微笑，舒适地坐在噼啪作响的壁炉旁，置身于舒适的扶手椅和温暖的灯光之中，散发出慈父般的舒适感
+a fatherly man with a gentle smile, framed by the laughter of children and the aroma of home-baked goods in a welcoming family kitchen, radiating nurturing warmth and heartfelt affection // 一位慈父般的男人，带着温柔的微笑，以孩子们的笑声和温馨家庭厨房自制烘焙食品的香气为框架，散发出滋养的温暖和真挚的爱意
+
+A strong masculine man
+a strong masculine man, standing powerfully amidst a rugged mountain landscape, with chiseled features and a weathered gaze towards the horizon, inherently virile // 一位强壮阳刚的男人，强有力地站立在崎岖的山 landscape 之中，五官轮廓分明，目光饱经风霜，注视着地平线，天生阳刚
+a strong masculine man, framed by the raw textures of granite cliffs and windswept pines of a wilderness domain, radiating primal strength and unyielding fortitude // 一位强壮阳刚的男人，以荒野领域花岗岩悬崖和饱经风霜的松树的原始纹理为框架，散发出原始的力量和坚韧不拔的毅力
+
+A chivalrous man
+a chivalrous man, kneeling gallantly before a damsel in distress amidst a rose garden and moonlit gazebo, clad in noble attire and extending a helping hand, courtly and honorable // 一位侠义的男人，在玫瑰园和月光下的凉亭中，勇敢地跪在一位身处困境的少女面前，身着高贵的服装，伸出援助之手，彬彬有礼，光明磊落
+a chivalrous man, framed by the elegant arches and blossoming vines of a romantic villa courtyard, radiating noble courtesy and gallant devotion // 一位侠义的男人，以浪漫别墅庭院优雅的拱门和盛开的藤蔓为框架，散发出高贵的礼貌和英勇的奉献精神
+
+A dapper well-dressed man
+a dapper well-dressed man, standing confidently amidst the polished mahogany and leather armchairs of a gentleman's club, in a tailored suit and a silk tie, impeccably refined // 一位衣着考究、衣冠楚楚的男人，自信地站在绅士俱乐部的抛光红木和皮革扶手椅之间，身穿定制西装，系着丝绸领带，完美精致
+a dapper well-dressed man, framed by the art deco architecture and bustling city streets of a sophisticated metropolis, radiating urban elegance and sartorial flair // 一位衣着考究、衣冠楚楚的男人，以装饰艺术风格的建筑和繁华的都市街道为框架，散发出都市的优雅和着装的才华
+
+A muscular macho man
+a muscular macho man, flexing his biceps amidst a gritty urban gym, with sweat glistening and veins bulging, exuding raw physicality // 一位肌肉发达的男子汉，在简陋的都市健身房里，炫耀着他的二头肌，汗水闪闪发光，血管凸起，散发出原始的体魄
+a muscular macho man, framed by the heavy weights and iron chains of a hardcore training facility, radiating brute power and aggressive masculinity // 一位肌肉发达的男子汉，以硬核训练设施的重型器械和铁链为框架，散发出野蛮的力量和具有侵略性的男子气概
+
+A quintessential technocrat
+a quintessential technocrat, standing amidst holographic displays and futuristic interfaces in a sleek command center, in a minimalist suit and data implants, technologically advanced // 一位典型的技术专家，站在光滑的指挥中心的全息显示屏和未来主义界面之间，身穿极简主义西装，植入数据芯片，技术先进
+a quintessential technocrat, framed by the neon glow and server racks of a cutting-edge technology hub, radiating intellectual dominance and digital prowess // 一位典型的技术专家，以尖端技术中心霓虹灯的光芒和服务器机架为框架，散发出智力上的优势和数字方面的实力
+
+A regal emperor in royal portrait style
+a regal emperor in royal portrait style, seated upon a velvet throne amidst a grand hall, depicted with rich detail and formal composition, classically majestic // 一位皇家肖像风格的威严皇帝，在宏伟的大厅中，端坐在天鹅绒宝座上，以丰富的细节和正式的构图描绘，古典而庄严
+a regal emperor in royal portrait style, framed by the ornate tapestries and gilded frames of a royal art gallery, radiating timeless authority and imperial grandeur // 一位皇家肖像风格的威严皇帝，以皇家美术馆华丽的挂毯和镀金画框为框架，散发出永恒的权威和帝国的宏伟
+
+A  handsome young man in a flowing Hanfu dress
+a handsome young man in a flowing hanfu dress, standing gracefully amidst a misty bamboo forest, with silk sleeves flowing and a serene expression, ethereally elegant // 一位身着飘逸汉服的英俊年轻人，优雅地站立在雾气缭绕的竹林中，丝绸袖子飘逸，表情宁静，空灵而优雅
+a handsome young man in a flowing hanfu dress, framed by the delicate blossoms and tranquil streams of a classical chinese garden, radiating refined grace and timeless beauty // 一位身着飘逸汉服的英俊年轻人，以古典中国花园精致的花朵和宁静的溪流为框架，散发出优雅的精致和永恒的美丽
+
+A strong penetrating man with intense eyes
+a strong penetrating man with intense eyes, standing resolutely amidst a storm-swept coastline, with piercing gaze and wind-blown hair, powerfully commanding // 一位目光锐利、目光如炬的坚强男人，坚定地站立在暴风雨侵袭的海岸线上，目光锐利，头发被风吹散，气势磅礴
+a strong penetrating man with intense eyes, framed by the jagged cliffs and crashing waves of a tempestuous seascape, radiating unwavering determination and forceful presence // 一位目光锐利、目光如炬的坚强男人，以狂风暴雨海景锯齿状的悬崖和汹涌的波浪为框架，散发出坚定的决心和强大的气场
+
+A tough guy with a rugged look
+a tough guy with a rugged look, leaning against a brick wall in a dimly lit urban alleyway, with a leather jacket and a cynical smirk, streetwise and hardened // 一位外表粗犷的硬汉，倚靠在昏暗都市小巷的砖墙上，身穿皮夹克，脸上带着愤世嫉俗的冷笑，街头智慧，饱经世故
+a tough guy with a rugged look, framed by the graffiti art and gritty textures of a backstreet underworld, radiating hardened resilience and urban grit // 一位外表粗犷的硬汉，以黑社会后街的涂鸦艺术和粗犷的纹理为框架，散发出坚韧不拔的韧性和都市的坚韧
+
+A scruffy man with a disheveled appearance
+a scruffy man with a disheveled appearance, sitting wearily on a park bench amidst fallen leaves and autumn chill, with an unshaven face and a melancholic gaze, world-weary and forlorn // 一位邋遢的男人，外表凌乱，疲惫地坐在公园的长椅上，置身于落叶和秋天的寒意之中，脸上没有刮胡子，目光忧郁，饱经风霜，孤苦伶仃
+a scruffy man with a disheveled appearance, framed by the bare trees and overcast skies of a desolate autumn park, radiating weary vulnerability and melancholic isolation // 一位邋遢的男人，外表凌乱，以荒凉秋日公园光秃秃的树木和阴沉的天空为框架，散发出疲惫的脆弱和忧郁的孤立
+
+A teenage boy handsome and fresh-faced
+a teenage boy handsome and fresh-faced, standing playfully amidst a sunny beach and crashing waves, with a bright smile and youthful energy, radiantly youthful // 一位英俊、面容清秀的少年，在阳光明媚的海滩和汹涌的海浪中嬉戏，脸上带着灿烂的笑容，充满青春活力，光芒四射，青春洋溢
+a teenage boy handsome and fresh-faced, framed by the golden sands and azure waters of a tropical paradise, radiating youthful exuberance and carefree joy // 一位英俊、面容清秀的少年，以热带天堂金色沙滩和蔚蓝海水为框架，散发出年轻的活力和无忧无虑的快乐
+
+A muscular handsome man with defined features
+a muscular handsome man with defined features, standing confidently in a sunlit studio, with chiseled physique and a self-assured gaze, powerfully sculpted // 一位肌肉发达、五官轮廓分明的英俊男人，自信地站在阳光普照的工作室里，体格健美，目光自信，强壮而健美
+a muscular handsome man with defined features, framed by the soft light and minimalist backdrop of a professional photoshoot, radiating athletic prowess and sculpted masculinity // 一位肌肉发达、五官轮廓分明的英俊男人，以专业摄影棚的柔和光线和极简主义背景为框架，散发出运动能力和健美的男子气概
+
+a playful boy // 一个顽皮的男孩
+a playful boy, running joyfully through a flower-filled meadow amidst butterflies and buzzing bees, with bright eyes and infectious laughter, gleefully innocent // 一个顽皮的男孩，在鲜花盛开的草地上快乐地奔跑，置身于蝴蝶和嗡嗡作响的蜜蜂之中，眼睛明亮，笑声具有感染力，兴高采烈，天真烂漫
+a playful boy, framed by the vibrant colors and sweet scents of a summer garden, radiating youthful delight and carefree abandon // 一个顽皮的男孩，以夏日花园充满活力的色彩和甜美的香味为框架，散发出年轻的快乐和无忧无虑的放纵
+
+a wise elder // 一个智慧的长者
+a wise elder, sitting serenely beneath an ancient tree amidst rustling leaves and dappled sunlight, with a knowing smile and eyes reflecting years of experience, profoundly insightful // 一位智慧的长者，在古树下平静地坐着，置身于沙沙作响的树叶和斑驳的阳光之中，脸上带着会心的微笑，眼神反映着多年的经验，极其有洞察力
+a wise elder, framed by the weathered bark and deep roots of a venerable tree, radiating aged wisdom and seasoned perspective // 一位智慧的长者，以古老树木饱经风霜的树皮和深深扎根的树根为框架，散发出饱经风霜的智慧和成熟的视角
+
+a joyful kid // 一个快乐的小孩
+a joyful kid, laughing gleefully amidst colorful balloons and festive decorations at a lively carnival, with sparkling eyes and boundless enthusiasm, infectiously cheerful // 一个快乐的小孩，在热闹的狂欢节上，在色彩缤纷的气球和节日装饰品中高兴地大笑，眼睛闪闪发光，热情洋溢，极具感染力的快乐
+a joyful kid, framed by the bright lights and whirling rides of a bustling fairground, radiating youthful glee and uncontainable merriment // 一个快乐的小孩，以熙熙攘攘的游乐场明亮的灯光和旋转的游乐设施为框架，散发出年轻的欢乐和无法抑制的快乐
+
+a charming male // 一个迷人的男性
+a charming male, standing confidently in a sophisticated urban cafe, amidst soft jazz music and the aroma of coffee, with a disarming smile and effortless charisma, captivatingly suave // 一位迷人的男性，自信地站在精致的都市咖啡馆里，置身于柔和的爵士乐和咖啡的香气之中，脸上带着令人心动的微笑，魅力四射，极具魅力
+a charming male, framed by the chic decor and intimate ambiance of a trendy bistro, radiating effortless charm and alluring sophistication // 一位迷人的男性，以时尚小酒馆别致的装饰和亲密的氛围为框架，散发出毫不费力的魅力和诱人的成熟
+
+a daring youngster // 一个大胆的年轻人
+a daring youngster, climbing a rocky cliff face amidst crashing waves and sea spray, with determined grit and youthful recklessness, audaciously adventurous // 一位大胆的年轻人，在汹涌的海浪和海浪冲击下，攀登着岩石峭壁，意志坚定，年轻鲁莽，大胆冒险
+a daring youngster, framed by the jagged rocks and boundless ocean of a dramatic coastline, radiating youthful bravado and intrepid spirit // 一位大胆的年轻人，以戏剧性海岸线锯齿状的岩石和无垠的海洋为框架，散发出年轻的虚张声势和无畏的精神
+
+a nimble youth // 一个敏捷的青年
+a nimble youth, leaping gracefully across rooftops amidst a bustling cityscape, with fluid movements and acrobatic skill, athletically agile // 一位敏捷的青年，在熙熙攘攘的都市中，优雅地跳跃在屋顶之间，动作流畅，身手矫健，运动敏捷
+a nimble youth, framed by the urban sprawl and dynamic energy of a vibrant metropolis, radiating youthful dexterity and acrobatic grace // 一位敏捷的青年，以充满活力的都市都市扩张和动态能量为框架，散发出年轻的灵巧和杂技般的优雅
+
+a rugged chap // 一个粗犷的家伙
+a rugged chap, working tirelessly in a sun-drenched field amidst golden wheat and open skies, with calloused hands and honest sweat, genuinely hardworking // 一个粗犷的家伙，在阳光普照的田野中，不知疲倦地工作，置身于金色的麦田和开阔的天空之中，双手长满了老茧，汗水淋漓，真正勤劳
+a rugged chap, framed by the rustic textures and honest labor of a rural farm, radiating earthy strength and unpretentious sincerity // 一个粗犷的家伙，以乡村农场的朴实纹理和诚实的劳动为框架，散发出朴实的力量和不做作的真诚
+
+a fierce male // 一个凶猛的男性
+a fierce male, standing defiantly amidst a raging storm and crashing waves, with clenched fists and a primal roar, untamed and aggressive // 一位凶猛的男性，在狂风暴雨和汹涌的波浪中，挺身而出，紧握双拳，发出原始的怒吼，桀骜不驯，具有侵略性
+a fierce male, framed by the tempestuous skies and turbulent seas of a wrathful storm, radiating raw power and untamed fury // 一位凶猛的男性，以狂风暴雨天气狂暴的天空和汹涌的大海为框架，散发出原始的力量和桀骜不驯的愤怒
+
+a steadfast bloke // 一个坚定的家伙
+a steadfast bloke, standing resolutely amidst a raging fire and crumbling ruins, with unwavering gaze and determined stance, unyieldingly resolute // 一个坚定的家伙，坚定地站立在熊熊燃烧的大火和摇摇欲坠的废墟中，目光坚定，姿态坚定，毫不动摇
+a steadfast bloke, framed by the inferno's glow and the devastation of a ravaged landscape, radiating unbending resolve and unwavering loyalty // 一个坚定的家伙，以地狱之火的光芒和饱受蹂躏的 landscape 的破坏为框架，散发出坚韧不拔的决心和坚定的忠诚

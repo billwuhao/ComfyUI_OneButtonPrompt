@@ -1,0 +1,393 @@
+// building 建筑
+Architecture
+House
+Apartment
+Townhouse
+Cottage
+Bungalow
+Farmhouse
+Ranch house
+Mansion
+Castle
+Palace
+Cathedral
+Church
+Temple
+Shrine
+Mosque
+Synagogue
+Library
+Museum
+Art gallery
+School
+College
+University
+Hospital
+Clinic
+Laboratory
+Research facility
+Office building
+Skyscraper
+Tower
+Shopping mall
+Department store
+Market
+Grocery store
+Convenience store
+Restaurant
+Cafe
+Bar
+Nightclub
+Danceclub
+Movie theater
+Concert hall
+Stadium
+Arena
+Gymnasium
+Sports complex
+Swimming pool
+Spa
+Hotel
+Motel
+Hostel
+Guesthouse
+Bed and breakfast
+Resort
+Home
+Vacation home
+Lake House
+Campground
+Summer Camp
+Marina
+Port
+Airport
+Train station
+Bus station
+Parking garage
+Warehouse
+Factory
+Power plant
+Water treatment plant
+Sewage treatment plant
+Dam
+Bridge
+Tunnel
+Road
+Highway
+Freeway
+Toll road
+Pedestrian bridge
+Pedestrian tunnel
+Footbridge
+Overpass
+Underpass
+Viaduct
+Aqueduct
+Windmill
+Barn
+Silo
+Carport
+Garage
+Workshop
+Greenhouse
+Conservatory
+Shed
+Tool shed
+Playhouse
+Treehouse
+Doghouse
+Dollhouse
+Birdhouse
+Outhouse
+Cabin
+Chalet
+Wind turbine
+Oil rig
+Water tower
+Ferris wheel
+Colosseum
+Eiffel Tower
+Pyramid
+Sphinx
+Roller coaster
+Suspension bridge
+Amphitheater
+Monastery
+Arch dam
+Oil refinery
+Giant sequoia tree
+Sea fort
+Fort
+Fortress
+Hydroelectric power plant
+Fossil fuel power station
+Telecommunications tower
+Amusement park
+Floating hotel
+Skate park
+Space station
+Oil platform
+Wind farm
+Megalopolis
+Astronomical observatory
+Coal mine
+Chemical plant
+Grain silo
+Nuclear power plant
+Space elevator
+Offshore oil platform
+Solar power station
+Offshore wind farm
+Grain elevator
+Quarry
+Nuclear missile silo
+Dungeon
+Gate
+Botanical Garden
+Garden
+Citadel
+Great Wall of China
+Machu Picchu
+Petra
+Taj Mahal
+Christ the Redeemer
+Chichen Itza
+Great Pyramid of Giza
+Hagia Sophia
+Stonehenge
+The Parthenon
+The Roman Aqueducts
+The Acropolis
+The Alhambra
+The Sistine Chapel
+Angkor Wat
+The Sydney Opera House
+The Eiffel Tower
+The Pyramids of Teotihuacan
+The Burj Khalifa
+The Golden Gate Bridge
+Stargate
+Portal
+Monolith
+Pagoda
+St. Peter's Basilica
+Notre-Dame Cathedral
+Westminster Abbey
+Sagrada Familia
+Cologne Cathedral
+St. Basil's Cathedral
+Canterbury Cathedral
+St. Patrick's Cathedral
+Duomo di Milano
+St. Stephen's Cathedral
+bakery
+food stand
+ice cream stand
+cafeteria
+tavern
+supermarket
+Aquarium tunnel
+angkor wat
+burj khalifa
+colosseum
+eiffel tower
+empire state building
+hagia sophia
+la sagrada familia
+lotus temple
+namcha barwa architecture
+notre dame cathedral
+parliament building
+parthenon
+pavilion
+petra historical city
+saint basils cathedral
+sydney opera house
+taj mahal
+the heydar aliyev centre
+the palace of westminster
+a beautiful dreamlike seaside tall tower with lights at moon night
+a domed building
+a pagoda
+a portal to heaven
+a large art deco city
+a infinite hallway
+a shinning hotel lobby
+a scientific base
+a giant skyscraper
+predjama castle in slovenia
+majlis al jinn in oman
+ajanta caves in india
+legislative edifice
+magnificent building
+narrow corridor to hell
+narrow corridor to heaven
+opulent apartment
+quite opulent detached houses
+opulent throne room
+palatial chamber
+palatial office
+palatial office building
+palatial house with lights at night
+quintessential symbol of city
+spooky sacrificial building
+soaring magic building in cloud
+soaring building
+spiraled science fiction building
+spiral building
+staggering a wonder architecture of the world
+magic subterranean scientific research station
+towering ancient temples in the rosy clouds
+towering sc-fi space station and spacecraft in the universe
+beautiful modern architecture in clouds
+beautiful ancient architecture in china in clouds at dusk
+a cyber sc-fi bustling downtown
+a intricate deconstructivism architecture
+a deconstructivism architecture building
+a beautiful fractalism building
+a beautiful architectural painting
+a intricate art deco architecture palace lobby
+overall view of the a art nouveau gorgeous architecture interior
+overall view of the a baroque gorgeous architecture interior
+baroque gorgeous architecture in the clouds and distance
+brutalism gorgeous architecture in the clouds and distance
+byzantine gorgeous architecture in the clouds and distance
+overall view of the a byzantine gorgeous architecture interior
+overall view of the a classical gorgeous architecture interior
+classical gorgeous architecture in the clouds and distance
+gorgeous composite architecture in the clouds and distance
+womangorgeous contemporary architecture in the clouds and distance
+overall view of the a gorgeous contemporary architecture interior
+womangorgeous corinthian architecture in the clouds and distance
+overall view of the a gorgeous corinthian architecture lobby
+overall view of the a gorgeous decorated style architecture lobby
+overall view of the a gorgeous federation architecture lobby
+overall view of the a gorgeous functionalism architecture lobby
+overall view of the a gorgeous georgian architecture lobby
+overall view of the a gorgeous gothic architecture interior
+overall view of the a gorgeous greek revival architecture interior
+overall view of the a gorgeous louis quatorze architecture lobby
+overall view of the a gorgeous mannerism architecture lobby
+overall view of the a gorgeous modernism architecture lobby
+overall view of the a gorgeous postmodernism architecture lobby
+overall view of the a gorgeous rococo architecture lobby
+overall view of the a gorgeous transitional architecture lobby
+gorgeous vienna architecture in the distance
+gorgeous tudor architecture in the distance
+gorgeous trompe-l’œil architecture in the distance
+gorgeous trompe-l’œil architecture
+magnificent saracen architecture in the distance
+magnificent towering romanesque architecture in the distance
+magnificent towering rococo architecture in the distance
+magnificent towering regency architecture in the distance
+magnificent towering postmodernism architecture in the distance
+magnificent towering postmodernism mushroom architecture in the distance
+magnificent towering perpendicular architecture in the distance
+magnificent towering neoclassicism architecture in the distance
+magnificent towering morisco architecture in the distance
+magnificent towering modernism architecture in the distance
+magnificent towering mannerism architecture in the distance
+magnificent towering gothic architecture in the distance
+magnificent towering federation architecture in the distance
+magnificent towering floating empire architecture in the distance
+bright lobby of the luxury library
+A marble temple with Doric columns, a testament to the Classical Greek style
+A massive amphitheater of concrete, characteristic of the Classical Roman style
+A gold-mosaic-domed cathedral, showcasing Byzantine architectural style
+A round-arched monastery in the Romanesque style
+A pointed-arch cathedral with stained glass, in the Gothic style
+A symmetrical villa with classical pilasters, a hallmark of the Renaissance style
+A swirling palace with gilded decorations, emblematic of the Baroque style
+An asymmetrical pavilion with floral motifs, in the Rococo style
+A monumental legislative building with Doric columns, exemplifying the Neoclassical style
+An ironwork-adorned hotel with organic forms, representative of the Art Nouveau style
+A stepped skyscraper with geometric patterns, in the Art Deco style
+A glass-walled house with clean lines, a clear expression of Modernist style
+A fragmented museum with eclectic forms, a signature of Postmodernist style
+An asymmetrical concert hall with dynamic shapes, showcasing Deconstructivist style
+A whitewashed resort with terracotta roofs, a typical example of the Mediterranean style
+A grand mansion with wide verandahs, reflecting the Colonial style
+An ornate townhouse with bay windows, a hallmark of Victorian style
+An elegant country estate with refined details, in the Edwardian style
+A half-timbered manor house with exposed beams, embodying the Tudor style
+A low-slung residence with open floor plan, a creation of Prairie School style
+A functional workshop with unadorned design, in the Bauhaus style
+A glass and steel office tower, characteristic of the International style
+An exposed concrete library with monolithic form, exhibiting Brutalist style
+A sustainably-built community center with local materials, showcasing Neo-Vernacular style
+A minaret-topped mosque with geometric patterns, a representation of Islamic style
+A white-marble mausoleum with inlaid stones, exemplifying Mughal style
+A gopuram-adorned temple with sculptures, in the Hindu style
+A tiered-roof pagoda with serene surroundings, reflecting Buddhist style
+A minimalist tea house with paper doors, a hallmark of Japanese style
+A tiled-roof ancestral hall with intricate woodwork, a characteristic of Classical Chinese style
+A curved-roof pavilion with decorative patterns, in the Korean style
+A colorful hacienda with terracotta tiles, embodying Mexican Colonial style
+A stucco mission with red tile roofs, showcasing Spanish style
+A stone fortress in a strategic location, characteristic of the Portuguese style
+A stepped-gable canal house with brick facade, embodying Dutch style
+A timber-frame mountain lodge with sloping roof, typical of the Swiss Chalet style
+A light-wood cabin with simple design, in the Scandinavian style
+An onion-domed church with ornate decorations, in the Russian style
+A mud-brick village with thatched roofs, embodying African Tribal style
+A stepped pyramid with intricate carvings, in the Mayan style
+A stone citadel with precise stone work, showcasing the Incan style
+A hieroglyphic-inscribed obelisk, a symbol of Egyptian style
+A colorful townhouse with detailed balconies, in the Columbian style
+A curved-line condominium using concrete, emblematic of Brazilian style
+A classical estate with expansive grounds, embodying Argentine style
+A stone temple ruins showing ancient building methods, in the Peruvian style
+A sleek museum with innovative lines, representing the Chilean style
+A log-built timber lodge in a natural setting, typical of Canadian style
+A symmetrical residence with classical details, in the American Colonial Revival style
+An exposed-beam bungalow with handcrafted details, in the American Craftsman style
+A steel-framed skyscraper with large windows, a hallmark of the Chicago School
+A light-colored beach house with open design, typical of Florida style
+A sturdy barn with practical design, exemplifying Oklahoma style
+An adobe pueblo with flat roofs, in the New Mexican style
+A spacious plantation house with lanais, characteristic of the Hawaiian style
+A minimalist office building with modern materials, showcasing African Modernism
+An intricate palace with latticework and arches, embodying Arabian style
+A tilework garden pavilion with water features, in the Persian style
+A marble hammam with arched ceilings, a signature of Turkish style
+A portable ger with circular structure and felt, in the Mongolian style
+A tiered-roof pagoda with carved details, representative of the Nepalese style
+A tiled-roof communal house with carved wood, in the Vietnamese style
+An ancient temple complex with intricate carvings, exemplifying Cambodian style
+A gilded-roof wát with ornate decorations, in the Thai style
+A uniquely-built temple in a serene setting, showcasing Laotian style
+A golden pagoda with stupas and decorations, emblematic of Burmese style
+A sleek skyscraper with innovative design, in the Malaysian style
+A wooden traditional house with unique designs, exemplifying Indonesian style
+A baroque colonial church with historical significance, typical of Filipino style
+A natural-material eco-lodge with sustainable design, in the New Zealand style
+A spacious ranch house with open design, embodying the Australian style
+A traditional adobe house with local materials, in the Ghanaian style
+A colorful urban residence with innovative structures, representative of Nigerian style
+A circular maasai home with sturdy structure, in the Kenyan style
+A geometric cultural center echoing ancient designs, in the Egyptian Modern style
+A riad with zellige tiles and carved stucco, a characteristic of Moroccan style
+A white-washed medina house, embodying Tunisian style
+A thick-walled fortress in a strategic location, typical of Algerian style
+A desert dwelling crafted for arid climate, a hallmark of Libyan style
+A modern suburban residence with sleek lines, showcasing South African style
+A stone ruin demonstrating advanced building methods, reflecting Zimbabwean style
+A desert dwelling adapted for a harsh climate, in the Namibian style
+A colonial church with unique architecture, representative of Angolan style
+A coastal town house with colonial influence, showcasing Mozambican style
+A traditional house with local materials, in the Madagascan style
+An ancient church with cone shaped domes, in the Armenian style
+A medieval fortress, showcasing the Georgian style
+A wooden church with unique onion domes, representative of the Ukrainian style
+A traditional farmhouse of natural materials, a hallmark of Belarusian style
+A medieval castle with historical significance, characteristic of Polish style
+A baroque church with ornate architecture, in the Czech style
+A gothic parliament building, representing Hungarian style
+A grand palace reflecting royal history, embodying Austrian style
+A sleek mountain chalet in natural surroundings, in the Swiss Modern style
+A cozy sauna built with natural materials, typical of the Finnish style
+A simple turf house blending with its surroundings, in the Icelandic style
+A stone cottage with local materials, showcasing Irish style
+A towering castle with a rich history, emblematic of Scottish style
+A stone farmhouse in rough terrain, typical of Welsh style
+A cutting-edge art gallery with innovative use of space, representing British Modern style

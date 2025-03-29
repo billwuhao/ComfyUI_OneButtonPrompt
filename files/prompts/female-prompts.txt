@@ -1,0 +1,249 @@
+// female 女性
+
+A sexy and beautiful actress
+a sexy and beautiful actress, enveloped in a scarlet gown amidst flashing paparazzi bulbs // 一位性感而美丽的女演员，身着猩红色礼服，置身于闪烁的狗仔队闪光灯中
+a sexy and beautiful actress, adorned with diamond jewelry under the soft glow of a vintage theater marquee // 一位性感而美丽的女演员，在复古剧院的柔和光芒下，佩戴着钻石珠宝
+
+A fashionable female model
+a fashionable female model, silhouetted against the stark lines of a brutalist architectural marvel // 一位时尚的女模特，以野兽派建筑奇迹的鲜明线条为轮廓
+a fashionable female model, surrounded by an array of avant-garde garments in a minimalist white studio // 一位时尚的女模特，身处极简主义白色工作室中，周围环绕着一系列前卫服装
+
+a sensual female student
+a sensual female student, bathed in the warm afternoon light of a sun-drenched library // 一位性感的性感女学生，沐浴在阳光普照的图书馆温暖的午后阳光中
+a sensual female student, framed by the soft focus of blooming cherry blossoms in a tranquil campus garden // 一位性感的性感女学生，在宁静的校园花园中，以盛开的樱花柔和的焦点为框架
+
+a fair young maiden
+a fair young maiden, encircled by a halo of wildflowers in a verdant meadow at dawn // 一位白皙的年轻少女，在黎明时分，被翠绿草地上野花的晕圈环绕
+a fair young maiden, illuminated by the ethereal glow of fireflies in a twilight forest glade // 一位白皙的年轻少女，在暮色森林空地的萤火虫空灵光芒中被照亮
+
+a beautiful teenage female
+a beautiful teenage female, highlighted by the neon glow of a bustling Asian night market // 一位美丽的少女，在熙熙攘攘的亚洲夜市的霓虹灯光中凸显出来
+a beautiful teenage female, backdropped by the vast expanse of a starlit ocean horizon // 一位美丽的少女，以星光熠熠的海洋地平线的广阔为背景
+
+a beautiful voluptuous noblewoman
+a beautiful voluptuous noblewoman, draped in rich velvet within the ornate halls of an ancient castle // 一位美丽丰满的贵妇，身披华丽天鹅绒，置身于古老城堡华丽的大厅之中
+a beautiful voluptuous noblewoman, adorned with pearls and lace against the backdrop of a lavish baroque palace // 一位美丽丰满的贵妇，以巴洛克式豪华宫殿为背景，装饰着珍珠和蕾丝
+
+a beautiful traditional woman
+a beautiful traditional woman, framed by the intricate carvings of an ancient wooden pagoda // 一位美丽的传统女性，以古老木塔错综复杂的雕刻为框架
+a beautiful traditional woman, surrounded by the vibrant colors of a bustling spice market in Marrakech // 一位美丽的传统女性，周围环绕着马拉喀什熙熙攘攘的香料市场充满活力的色彩
+
+a beautiful orientalism woman
+a beautiful orientalism woman, enveloped in silk and jewels within the opulent chambers of a sultan's palace // 一位美丽的东方主义女性，身着丝绸和珠宝，置身于苏丹皇宫富丽堂皇的房间内
+a beautiful orientalism woman, backdropped by the majestic silhouettes of desert pyramids at sunset // 一位美丽的东方主义女性，以日落时分沙漠金字塔的雄伟轮廓为背景
+
+A regal royal woman in elegant attire
+a regal royal woman in elegant attire, enthroned upon a gilded dais within a grand imperial court // 一位身着优雅服饰的威严皇室女性，在宏伟的帝国宫廷中，端坐在镀金的台子上
+a regal royal woman in elegant attire, framed by the sweeping arches of a palatial royal garden in full bloom // 一位身着优雅服饰的威严皇室女性，以盛开的宫殿式皇家花园的 sweeping 拱门为框架
+
+A beautiful Chinese classical woman
+a beautiful chinese classical woman, adorned in jade and silk amidst a misty bamboo forest grove // 一位美丽的中国古典女性，身着玉器和丝绸，身处迷雾缭绕的竹林之中
+a beautiful chinese classical woman, framed by the delicate brushstrokes of a traditional ink wash painting // 一位美丽的中国古典女性，以传统水墨画的细腻笔触为框架
+
+A graceful Imperial Concubine in royal attire
+a graceful imperial concubine in royal attire, illuminated by the soft glow of lanterns within a secluded palace courtyard // 一位身着皇室服装的优雅皇妃，在僻静的宫殿庭院中，被灯笼的柔和光芒照亮
+a graceful imperial concubine in royal attire, backdropped by the serene expanse of a lotus pond in a royal garden // 一位身着皇室服装的优雅皇妃，以皇家花园中宁静的荷花池塘为背景
+
+A beautiful Khātam girl with traditional features
+a beautiful khātam girl with traditional features, adorned with intricate henna patterns in a sunlit desert oasis // 一位具有传统特征的美丽 Khatam 女孩，在阳光普照的沙漠绿洲中，装饰着错综复杂的指甲花图案
+a beautiful khātam girl with traditional features, framed by the vibrant textiles of a bustling Persian bazaar // 一位具有传统特征的美丽 Khatam 女孩，以熙熙攘攘的波斯集市充满活力的纺织品为框架
+
+A queen in a majestic gown
+a queen in a majestic gown, standing upon a balcony overlooking a vast kingdom at dawn // 一位身着华丽礼服的王后，站在阳台上，俯瞰着黎明时分广阔的王国
+a queen in a majestic gown, framed by the towering spires of a gothic cathedral in a snow-covered city // 一位身着华丽礼服的王后，以哥特式大教堂高耸的尖顶为框架，置身于白雪皑皑的城市中
+
+A beautiful girl in a flowing Hanfu dress
+a beautiful girl in a flowing hanfu dress, surrounded by the falling petals of peach blossoms in a spring garden // 一位身着飘逸汉服的美丽女孩，在春日花园中，被飘落的桃花花瓣环绕
+a beautiful girl in a flowing hanfu dress, silhouetted against the moonlit sky on a tranquil lake shore // 一位身着飘逸汉服的美丽女孩，在宁静的湖岸边，以月光下的天空为剪影
+
+A beautiful girl // 一个美丽的女孩
+a beautiful girl, bathed in the warm hues of a setting sun over a golden wheat field // 一位美丽的女孩，沐浴在金色麦田上日落的温暖色调中
+a beautiful girl, framed by the vibrant street art of a bohemian urban alleyway // 一位美丽的女孩，以波西米亚都市小巷充满活力的街头艺术为框架
+
+A graceful woman // 一个优雅的女人
+a graceful woman, enveloped in soft, flowing silk against a backdrop of cascading waterfalls // 一位优雅的女人，身着柔软飘逸的丝绸，背景是层叠的瀑布
+a graceful woman, highlighted by the warm candlelight within a grand ballroom of a bygone era // 一位优雅的女人，在昔日宏伟舞厅的温暖烛光中凸显出来
+
+A charming lady // 一位迷人的女士
+a charming lady, adorned with pearls and lace in a quaint Parisian café bathed in morning light // 一位迷人的女士，在沐浴在晨光中的古朴巴黎咖啡馆里，装饰着珍珠和蕾丝
+a charming lady, framed by the lush greenery of an Italian villa garden in full bloom // 一位迷人的女士，以盛开的意大利别墅花园葱郁的绿色植物为框架
+
+A stunning female // 一位惊艳的女性
+a stunning female, silhouetted against the dramatic skyline of a futuristic metropolis at twilight // 一位惊艳的女性，在暮色时分，以未来都市的戏剧性天际线为剪影
+a stunning female, bathed in the ethereal glow of bioluminescent flora in a hidden jungle grotto // 一位惊艳的女性，在隐藏的丛林石窟中，沐浴在生物发光植物的空灵光芒中
+
+A delicate maiden // 一位温柔的少女
+a delicate maiden, encircled by a wreath of daisies in a sun-dappled forest clearing // 一位温柔的少女，在阳光斑驳的森林空地上，被雏菊花环环绕
+a delicate maiden, illuminated by the soft glow of a bedside lamp in a cozy cottage bedroom // 一位温柔的少女，在舒适的小屋卧室里，被床头灯的柔和光芒照亮
+
+A gentle damsel // 一位温柔的少女
+a gentle damsel, framed by the weeping willow branches along a tranquil riverbank at dawn // 一位温柔的少女，以黎明时分宁静的河岸边垂柳枝条为框架
+a gentle damsel, surrounded by the soft hues of pastel-colored houses in a charming seaside village // 一位温柔的少女，周围环绕着迷人海滨村庄粉彩色房屋的柔和色调
+
+A noble matron // 一位高贵的已婚女性
+a noble matron, draped in rich brocade within the opulent library of a stately manor // 一位高贵的已婚女性，身披华丽锦缎，置身于庄严庄园富丽堂皇的图书馆内
+a noble matron, adorned with family jewels against the backdrop of a formal portrait gallery // 一位高贵的已婚女性，以正式肖像画廊为背景，装饰着家族珠宝
+
+A lovely miss // 一位可爱的小姐
+a lovely miss, framed by the colorful balloons and festive decorations of a summer fair // 一位可爱的小姐，以夏季集市色彩缤纷的气球和节日装饰为框架
+a lovely miss, surrounded by the sweet aroma of freshly baked pastries in a charming village bakery // 一位可爱的小姐，周围环绕着迷人乡村面包店新鲜出炉的糕点的甜美香气
+
+A dignified mrs // 一位有尊严的夫人
+a dignified mrs, enveloped in a tailored suit within the wood-paneled office of a grand estate // 一位有尊严的夫人，身着定制套装，置身于宏伟庄园的木镶板办公室中
+a dignified mrs, adorned with a sophisticated hat against the backdrop of a blooming rose garden // 一位有尊严的夫人，以盛开的玫瑰园为背景，装饰着精致的帽子
+
+A courteous madam // 一位彬彬有礼的夫人
+a courteous madam, framed by the polished mahogany and leather-bound books of a gentlemen's club // 一位彬彬有礼的夫人，以绅士俱乐部抛光的红木和皮革装订的书籍为框架
+a courteous madam, surrounded by the delicate porcelain and silver of a formal afternoon tea setting // 一位彬彬有礼的夫人，周围环绕着正式下午茶环境的精致瓷器和银器
+
+A graceful madame // 一位优雅的女士
+a graceful madame, enveloped in a chic dress within a bustling Parisian bistro at twilight // 一位优雅的女士，身着别致的连衣裙，置身于暮色时分熙熙攘攘的巴黎小酒馆中
+a graceful madame, highlighted by the soft glow of streetlamps along a charming cobblestone avenue // 一位优雅的女士，在迷人的鹅卵石大街上，被路灯的柔和光芒凸显出来
+
+A distinguished señora // 一位尊贵的西班牙女士
+a distinguished señora, draped in elegant lace within the sun-drenched courtyard of a Spanish hacienda // 一位尊贵的西班牙女士，身披优雅蕾丝，置身于阳光普照的西班牙庄园庭院中
+a distinguished señora, adorned with gold jewelry against the backdrop of a vibrant flamenco dance performance // 一位尊贵的西班牙女士，以充满活力的弗拉门戈舞蹈表演为背景，装饰着黄金珠宝
+
+A charming señorita // 一位迷人的西班牙小姐
+a charming señorita, framed by the colorful tiles and blooming bougainvillea of a Seville patio // 一位迷人的西班牙小姐，以塞维利亚庭院色彩缤纷的瓷砖和盛开的九重葛为框架
+a charming señorita, surrounded by the lively music and laughter of a bustling Spanish fiesta // 一位迷人的西班牙小姐，周围环绕着熙熙攘攘的西班牙节日欢快的音乐和笑声
+
+A poised fraulein // 一位从容的德国小姐
+a poised fraulein, enveloped in a dirndl dress within a traditional Bavarian beer garden // 一位从容的德国小姐，身着紧身连衣裙，置身于传统的巴伐利亚啤酒花园中
+a poised fraulein, highlighted by the crisp mountain air and snow-capped peaks of the Bavarian Alps // 一位从容的德国小姐，在巴伐利亚阿尔卑斯山清新的山间空气和白雪皑皑的山峰中凸显出来
+
+A sophisticated mademoiselle // 一位复杂的法式小姐
+a sophisticated mademoiselle, framed by the chic boutiques and elegant storefronts of the Champs-Élysées // 一位复杂的法式小姐，以香榭丽舍大街别致的精品店和优雅的店面为框架
+a sophisticated mademoiselle, surrounded by the artistic atmosphere of a Montmartre painter's studio // 一位复杂的法式小姐，周围环绕着蒙马特画家工作室的艺术氛围
+
+A elegant signora // 一位优雅的意大利女士
+a elegant signora, draped in flowing silk within a grand Venetian palazzo overlooking a canal // 一位优雅的意大利女士，身披飘逸的丝绸，置身于俯瞰运河的威尼斯宫殿中
+a elegant signora, adorned with delicate jewelry against the backdrop of a sun-drenched Tuscan vineyard // 一位优雅的意大利女士，以阳光普照的托斯卡纳葡萄园为背景，装饰着精致的珠宝
+
+A gentle signorina // 一位温柔的意大利小姐
+a gentle signorina, framed by the blooming lemon trees and terracotta pots of a Sicilian courtyard // 一位温柔的意大利小姐，以西西里庭院盛开的柠檬树和赤陶花盆为框架
+a gentle signorina, surrounded by the aroma of fresh pasta and basil in a cozy trattoria kitchen // 一位温柔的意大利小姐，周围环绕着舒适的意大利餐厅厨房新鲜意大利面和罗勒的香气
+
+A spiritual nun // 一位虔诚的修女
+a spiritual nun, bathed in the soft light filtering through stained glass windows in an ancient abbey // 一位虔诚的修女，沐浴在透过古老修道院彩色玻璃窗户的柔和光线中
+a spiritual nun, framed by the stark white walls and simple wooden cross of a secluded monastery cell // 一位虔诚的修女，以僻静修道院牢房的白色墙壁和简朴的木制十字架为框架
+
+A hardworking maid // 一位勤劳的女仆
+a hardworking maid, enveloped in a simple uniform within the bustling kitchens of a grand estate // 一位勤劳的女仆，身着朴素的制服，置身于宏伟庄园熙熙攘攘的厨房中
+a hardworking maid, highlighted by the soft morning light streaming into a dust-filled attic room // 一位勤劳的女仆，在充满灰尘的阁楼房间中，被柔和的晨光凸显出来
+
+A royal princess // 一位高贵的公主
+a royal princess, adorned with a tiara and jewels within the opulent chambers of a royal palace // 一位高贵的公主，在皇家宫殿富丽堂皇的房间内，装饰着头饰和珠宝
+a royal princess, framed by the manicured gardens and fountains of a sprawling royal estate // 一位高贵的公主，以广阔皇家庄园修剪整齐的花园和喷泉为框架
+
+A majestic queen // 一位威严的女王
+a majestic queen, enthroned upon a carved stone throne within a vast throne room illuminated by torches // 一位威严的女王，在巨大的王座室内，端坐在雕刻的石头王座上，被火炬照亮
+a majestic queen, backdropped by the towering battlements of a medieval castle against a stormy sky // 一位威严的女王，以暴风雨天气下中世纪城堡高耸的雉堞为背景
+
+A seductive vixen // 一位诱人的狐狸精
+a seductive vixen, enveloped in shadows and lace within a dimly lit boudoir // 一位诱人的狐狸精，身着阴影和蕾丝，置身于昏暗的闺房中
+a seductive vixen, highlighted by the crimson glow of a roaring fireplace in a secluded mountain chalet // 一位诱人的狐狸精，在僻静的山间小屋中，被熊熊燃烧的壁炉的深红色光芒凸显出来
+
+A alluring temptress // 一位诱人的女神
+a alluring temptress, framed by the cascading vines and exotic flowers of a hidden jungle temple // 一位诱人的女神，以隐藏的丛林神庙层叠的藤蔓和奇异的花朵为框架
+a alluring temptress, surrounded by the mystical mist and ancient stones of a forgotten island ruin // 一位诱人的女神，周围环绕着被遗忘的岛屿废墟神秘的薄雾和古老的石头
+
+A refined geisha // 一位优雅的艺伎
+a refined geisha, adorned in silk kimono amidst the serene beauty of a traditional Japanese tea garden // 一位优雅的艺伎，身着丝绸和服，置身于传统日式茶园宁静的美景之中
+a refined geisha, framed by the delicate paper lanterns and cherry blossoms of a Kyoto teahouse // 一位优雅的艺伎，以京都茶馆精致的纸灯笼和樱花为框架
+
+A elegant courtesan // 一位高贵的妓女
+a elegant courtesan, enveloped in velvet and jewels within the opulent salon of a Parisian townhouse // 一位高贵的妓女，身着天鹅绒和珠宝，置身于巴黎联排别墅富丽堂皇的沙龙中
+a elegant courtesan, highlighted by the soft candlelight and perfume of a luxurious boudoir // 一位高贵的妓女，在豪华闺房中，被柔和的烛光和香水凸显出来
+
+A sensual concubine // 一位妩媚的妾
+a sensual concubine, framed by the silk drapes and ornate screens of a secluded palace chamber // 一位妩媚的妾，以僻静宫殿房间的丝绸帷幔和华丽屏风为框架
+a sensual concubine, surrounded by the exotic perfumes and incense of a harem bathhouse // 一位妩媚的妾，周围环绕着后宫浴室充满异国情调的香水和熏香
+
+A dignified countess // 一位尊贵的伯爵夫人
+a dignified countess, draped in ermine fur within the grand hall of a ancestral estate // 一位尊贵的伯爵夫人，身披貂皮大衣，置身于祖传庄园的宏伟厅堂中
+a dignified countess, adorned with family heirlooms against the backdrop of a formal dining room set for a feast // 一位尊贵的伯爵夫人，以正式宴会厅为背景，装饰着家族传家宝
+
+A poised duchess // 一位优雅的公爵夫人
+a poised duchess, framed by the manicured lawns and fountains of a sprawling country estate // 一位优雅的公爵夫人，以广阔乡村庄园修剪整齐的草坪和喷泉为框架
+a poised duchess, surrounded by the antique furniture and priceless artwork of a stately manor house // 一位优雅的公爵夫人，周围环绕着庄严宅邸的古董家具和无价艺术品
+
+A intelligent governess // 一位聪明的家庭教师
+a intelligent governess, enveloped in a modest gown within the book-lined study of a grand manor // 一位聪明的家庭教师，身着朴素的礼服，置身于宏伟庄园书架林立的书房中
+a intelligent governess, highlighted by the soft lamplight and stacks of books in a cozy attic classroom // 一位聪明的家庭教师，在舒适的阁楼教室中，被柔和的灯光和成堆的书籍凸显出来
+
+A wealthy heiress // 一位富有的继承人
+a wealthy heiress, framed by the luxury sports cars and opulent yachts of a Monaco harbor // 一位富有的继承人，以摩纳哥港口的豪华跑车和豪华游艇为框架
+a wealthy heiress, surrounded by the designer boutiques and exclusive clientele of a Rodeo Drive storefront // 一位富有的继承人，周围环绕着罗迪欧大道店面的设计师精品店和专属客户
+
+A elegant marchioness // 一位优雅的侯爵夫人
+a elegant marchioness, draped in silk and lace within the formal gardens of a French chateau // 一位优雅的侯爵夫人，身披丝绸和蕾丝，置身于法国城堡正式的花园中
+a elegant marchioness, adorned with a diamond necklace against the backdrop of a grand ballroom lit by chandeliers // 一位优雅的侯爵夫人，以枝形吊灯照亮的宏伟舞厅为背景，装饰着钻石项链
+
+A proud peeress // 一位自豪的贵妇
+a proud peeress, framed by the heraldic banners and stone walls of a ancestral castle keep // 一位自豪的贵妇，以祖传城堡的纹章旗帜和石墙为框架
+a proud peeress, surrounded by the assembled nobles and courtiers in a grand royal audience chamber // 一位自豪的贵妇，周围环绕着聚集在宏伟皇家觐见室中的贵族和朝臣
+
+A dignified female sheikh // 一位有威严的酋长夫人
+a dignified female sheikh, enveloped in flowing robes within the opulent tents of a desert encampment // 一位有威严的酋长夫人，身着飘逸的长袍，置身于沙漠营地豪华的帐篷中
+a dignified female sheikh, highlighted by the golden light of a desert sunrise over rolling sand dunes // 一位有威严的酋长夫人，在连绵起伏的沙丘上，被沙漠日出的金色光芒凸显出来
+
+A brave suffragette // 一位勇敢的妇女运动者
+a brave suffragette, framed by the banners and placards of a crowded women's rights march // 一位勇敢的妇女运动者，以拥挤的妇女权利游行队伍的横幅和标语牌为框架
+a brave suffragette, surrounded by the determined faces of fellow activists in a smoky meeting hall // 一位勇敢的妇女运动者，周围环绕着烟雾缭绕的会议厅中坚定的活动家面孔
+
+A helpful waitress // 一位热心的女服务员
+a helpful waitress, enveloped in a crisp uniform within the bustling atmosphere of a classic diner // 一位热心的女服务员，身着清爽的制服，置身于经典餐厅熙熙攘攘的氛围中
+a helpful waitress, highlighted by the warm glow of neon signs and the aroma of coffee in a late-night cafe // 一位热心的女服务员，在深夜咖啡馆中，被霓虹灯的温暖光芒和咖啡的香气凸显出来
+
+A beautiful belle // 一位美丽的美女
+a beautiful belle, framed by the blooming magnolias and white columns of a Southern plantation house // 一位美丽的美女，以南方种植园房屋盛开的木兰花和白色柱子为框架
+a beautiful belle, surrounded by the elegant dancers and waltzing music of a grand ballroom in New Orleans // 一位美丽的美女，周围环绕着新奥尔良宏伟舞厅优雅的舞者和华尔兹音乐
+
+A coquettish coquette // 一个娇媚的女性
+a coquettish coquette, enveloped in lace and ribbons within a whimsical garden gazebo // 一个娇媚的女性，身着蕾丝和丝带，置身于异想天开的花园凉亭中
+a coquettish coquette, highlighted by the playful sunlight filtering through the leaves of a blossoming orchard // 一个娇媚的女性，在盛开的果园中，被透过树叶的嬉戏阳光凸显出来
+
+A young debutante // 一位年轻的初次亮相女性
+a young debutante, framed by the glittering chandeliers and swirling dancers of a grand society ball // 一位年轻的初次亮相女性，以盛大社交舞会闪烁的枝形吊灯和旋转的舞者为框架
+a young debutante, surrounded by the admiring gazes and hushed whispers of a crowded ballroom floor // 一位年轻的初次亮相女性，周围环绕着拥挤舞池中钦佩的目光和窃窃私语
+
+A radiant diva // 一位光彩照人的女歌手
+a radiant diva, bathed in the dazzling spotlights of a grand opera house stage // 一位光彩照人的女歌手，沐浴在宏伟歌剧院舞台耀眼的聚光灯下
+a radiant diva, framed by the velvet curtains and ornate gold trim of a luxurious theater box // 一位光彩照人的女歌手，以豪华剧院包厢的天鹅绒窗帘和华丽的金色装饰为框架
+
+A skilled huntress // 一位熟练的女猎手
+a skilled huntress, enveloped in furs and leather within a snow-covered forest wilderness // 一位熟练的女猎手，身着毛皮和皮革，置身于白雪皑皑的森林荒野中
+a skilled huntress, highlighted by the crisp morning air and towering pines of a remote mountain range // 一位熟练的女猎手，在偏远山脉中，被清新的早晨空气和高耸的松树凸显出来
+
+An innocent ingenue // 一位天真的少女
+an innocent ingenue, framed by the sunlit window and white lace curtains of a cozy cottage bedroom // 一位天真的少女，以阳光照射的窗户和舒适小屋卧室的白色蕾丝窗帘为框架
+an innocent ingenue, surrounded by the blooming wildflowers and buzzing bees of a summer meadow // 一位天真的少女，周围环绕着夏季草地上盛开的野花和嗡嗡作响的蜜蜂
+
+A seductive odalisque // 一位魅惑的哈雷姆女性
+a seductive odalisque, enveloped in silk scarves and jewels within the plush cushions of a harem chamber // 一位魅惑的哈雷姆女性，身着丝绸围巾和珠宝，置身于后宫房间柔软的靠垫中
+a seductive odalisque, highlighted by the soft light filtering through latticed windows in a secluded palace room // 一位魅惑的哈雷姆女性，在僻静的宫殿房间中，被透过格子窗户的柔和光线凸显出来
+
+A captivating seductress // 一位迷人的诱惑者
+a captivating seductress, framed by the flickering candlelight and velvet drapes of a clandestine meeting room // 一位迷人的诱惑者，以秘密会议室摇曳的烛光和天鹅绒帷幔为框架
+a captivating seductress, surrounded by the heady aroma of exotic perfumes and forbidden desires in a hidden boudoir // 一位迷人的诱惑者，周围环绕着隐藏闺房中充满醉人香气和禁忌欲望的异国情调香水
+
+A alluring vamp // 一位吸引人的吸血鬼
+a alluring vamp, enveloped in dark velvet and silver jewelry within the gothic arches of an ancient crypt // 一位吸引人的吸血鬼，身着深色天鹅绒和银饰，置身于古老地穴的哥特式拱门中
+a alluring vamp, highlighted by the pale moonlight streaming through a stained glass window in a deserted castle tower // 一位吸引人的吸血鬼，在废弃的城堡塔楼中，被透过彩色玻璃窗户的苍白月光凸显出来
+
+A charming wench // 一位迷人的姑娘
+a charming wench, framed by the wooden barrels and flickering lanterns of a bustling tavern cellar // 一位迷人的姑娘，以熙熙攘攘的酒馆地窖的木桶和闪烁的灯笼为框架
+a charming wench, surrounded by the hearty laughter and boisterous songs of a lively medieval inn // 一位迷人的姑娘，周围环绕着热闹的中世纪旅馆爽朗的笑声和喧闹的歌曲
+
+An enchanting temptress // 一位迷人的诱惑者
+an enchanting temptress, enveloped in shimmering scales and iridescent fins within the coral reefs of a hidden grotto // 一位迷人的诱惑者，身着闪闪发光的鳞片和彩虹色的鳍，置身于隐藏石窟的珊瑚礁中
+an enchanting temptress, highlighted by the ethereal glow of underwater bioluminescence in a deep ocean trench // 一位迷人的诱惑者，在深海海沟中，被水下生物发光的空灵光芒凸显出来
+
+A strong virago // 一位强悍的女性
+a strong virago, framed by the weathered stone walls and battle-scarred ramparts of a fortress stronghold // 一位强悍的女性，以堡垒要塞饱经风霜的石墙和伤痕累累的城墙为框架
+a strong virago, surrounded by the clang of steel and war cries of a chaotic battlefield encampment // 一位强悍的女性，周围环绕着混乱战场营地钢铁的撞击声和战争的呼喊声
+
+A fragile waif // 一个脆弱的女孩
+a fragile waif, enveloped in tattered rags within the grimy alleys of a Victorian slum // 一个脆弱的女孩，身着褴褛的破布，置身于维多利亚时代贫民窟肮脏的小巷中
+a fragile waif, highlighted by the dim gaslight and chilling wind of a desolate London street // 一个脆弱的女孩，在荒凉的伦敦街道上，被昏暗的煤气灯和寒冷的风凸显出来

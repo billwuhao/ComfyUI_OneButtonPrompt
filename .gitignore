@@ -1,9 +1,10 @@
-txtfiles/humans.txt
-txtfiles/others.txt
-txtfiles/poses.txt
-txtfiles/styles.txt
-txtfiles/test.txt
-txtfiles/civit_nsfw.json
+files/prompts-images/nsfw*
+files/prompts/nsfw*
+files/images/nsfw*
+
+files/prompts-images/custom*
+files/prompts/custom*
+files/images/custom*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

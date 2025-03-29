@@ -1,0 +1,222 @@
+Bicycle
+Motorcycle
+Scooter
+Car
+Truck
+Bus
+Tram
+Train
+Bullet Train
+Steam Locomotive
+Monorail
+Segway
+Rickshaw
+Auto Rickshaw
+Tank
+Bulldozer
+Tractor
+Snowmobile
+ATV (All-Terrain Vehicle)
+Skateboard
+Rollerblades
+Horse-Drawn Carriage
+Electric Skateboard
+Hoverboard
+Unicycle
+Rowboat
+Sailboat
+Yacht
+Canoe
+Kayak
+Ferry
+Cruise Ship
+Cargo Ship
+Container Ship
+Tanker
+Submarine
+Aircraft Carrier
+Destroyer
+Jet Ski
+Hovercraft
+Paddle Steamer
+Fishing Trawler
+Gondola
+Raft
+Catamaran
+Houseboat
+Tugboat
+Icebreaker
+Dinghy
+Hydrofoil
+Airplane (Commercial Jet)
+Helicopter
+Hot Air Balloon
+Glider
+Fighter Jet
+Cargo Plane
+Biplane
+Seaplane
+Drone
+Blimp
+Zeppelin
+Paraglider
+Hang Glider
+Ultralight Aircraft
+Tiltrotor
+Gyrocopter
+Supersonic Jet
+Private Jet
+Air Ambulance
+Flying Car
+Space Shuttle
+Rocket
+Space Capsule
+Lunar Lander
+Mars Rover
+Space Station
+Ion Thruster Spacecraft
+Reusable Rocket
+Spaceplane
+Interplanetary Transport
+Amphibious Car
+Flying Boat
+Maglev Train
+Cable Car
+Funicular
+Hyperloop
+Jetpack
+Wingsuit
+Snowcat
+Sand Yacht
+Personal Submersible
+Airboat
+Solar-Powered Car
+Electric Train
+Bobsled
+Dog Sled
+Camel Caravan
+Exoskeleton Suit
+Wind Wagon
+Personal Hovercraft
+Train
+High-speed Train
+Bullet Train
+Car
+Sports car
+Muscle car
+Formula 1 car
+Ship
+Motorcycle
+Bicycle
+Unicycle
+Bus
+Tram
+Plane
+Helicopter
+Boat
+Yacht
+Camper
+Scooter
+Skateboard
+Roller skates
+Rollerblades
+Segway
+Snowmobile
+Skis
+Snowboard
+Sled
+Hot air balloon
+Parachute
+Hang glider
+Zip line
+Funicular
+Gondola
+Chair lift
+Trolley
+Rope Bridge
+Ropeway
+Jet ski
+Water scooter
+Kayak
+Canoe
+Raft
+Paddle boat
+Surfboard
+Bodyboard
+Wind surfboard
+Kiteboard
+Wakeboard
+Water skis
+Hovercraft
+Millennium Falcon
+USS Enterprise
+TARDIS
+Battlestar Galactica
+Thunderbird
+Red Dwarf
+The Heart of Gold
+X-Wing
+Borg Cube
+Cruise ship
+Space shuttle
+Aircraft carrier
+Oil tanker
+Submarine
+Mega yacht
+Seaplane carrier
+Horse-drawn carriage
+-animal--drawn carriage
+Icebreaker
+Nuclear submarine
+bathysphere
+Whaling ship
+Tractor trailer
+Spacecraft
+Spaceship
+Cable car
+Airship
+Space shuttle
+Falcon Heavy
+Rocketship
+Container ship
+Oil tanker
+Hovercraft
+Toyota
+Ford
+Chevrolet
+Honda
+Nissan
+BMW
+Mercedes-Benz
+Audi
+Volkswagen
+Tesla
+Electric Car
+Electric Vehicle
+Porsche
+Ferrari
+Lamborghini
+Aston Martin
+Jeep
+Harley-Davidson
+Honda
+Yamaha
+Kawasaki
+Ducati
+Police car
+Ambulance
+Fire truck
+Tow truck
+Garbage truck
+Postal delivery truck
+Armored vehicle
+Snow plow
+Tractor trailer
+Utility van
+Tuk-tuk
+hypercar
+2 wheeled vehicle
+3 wheeled vehicle
+4 wheeled vehicle
+6 wheeled vehicle
+Trike

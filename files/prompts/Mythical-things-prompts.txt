@@ -1,0 +1,334 @@
+// Mythical things
+
+A huge and terrifying Cthulhu // 巨大恐怖的克苏鲁
+A fire-breathing Dragon // 喷火龙
+A wise and ancient Phoenix // 智慧古老的凤凰
+A giant with a single eye Cyclops // 独眼巨人，独眼巨人
+A magical unicorn // 魔法独角兽
+A sea monster Kraken // 海怪，克拉肯
+A giant wolf Fenrir // 巨狼，芬里尔
+A living snowman Yeti // 活着的雪人，雪人
+A shapeshifting dragon Fafnir // 变形龙，法夫纳
+A giant bird Roc // 巨鸟，洛克
+A mischievous goblin Puck // 顽皮的小妖精，帕克
+A fierce harpy // 一位凶猛的哈比
+A fierce termagant // 一位激烈的怪兽
+A fierce male termagant // 一位激烈的怪兽
+A magical deer Kirin // 魔法鹿，麒麟
+A giant turtle Gamera // 巨龟，卡美拉
+A multi-tailed beast Kyuubi // 多尾兽，九尾
+A forest spirit Kodama // 森林精灵，木灵
+A water serpent Naga // 水蛇，纳迦
+A fiery bird Bennu // 火鸟，贝努
+A guardian lion Shisa // 守护狮，狮子
+A giant ape King Kong // 巨猿，金刚
+A flesh-eating ghoul Gaki // 食人鬼，饿鬼
+A one-horned beast Narwhal // 独角兽，独角鲸
+A fire spirit Salamander // 火精灵，火蜥蜴
+A fiery phoenix Suzaku // 火凤凰，朱雀
+A sea monster Leviathan // 海怪，利维坦
+male Elf
+male Dwarf
+male Orc
+male Troll
+male Gnome
+male Goblin
+male Ogre
+male Giant
+male Faerie
+male Hobbit
+male Centaur
+male Minotaur
+male Satyr
+male Mermaid
+male Siren
+male Harpy
+male Sphinx
+male Chimera
+male Dragonborn
+male Tiefling
+male Aasimar
+male Mind Flayer
+male Beholder
+male Gremlin
+male Gorn
+male Jinn
+male Naga
+male Cyclops
+male Cyclopskin
+male Lycanthrope
+male Vampire
+male Zombie
+male Skeleton
+male Mummy
+male Ghost
+male Specter
+male Poltergeist
+male Wraith
+male Elemental
+male Android
+male Cyborg
+male Robot
+male AI
+male Mutant
+male Alien
+male Klingon
+male Vulcan
+male Borg
+male Jedi
+male Android
+male Wookiee
+male Predator
+male Xenomorph
+male Dalek
+male Cyberman
+male Time Lord
+male Martian
+male Replicant
+male Na'vi
+male Cylon
+male Romulan
+male Cardassian
+male Djinn
+male Ifrit
+male Gnome
+male Brownie
+male Pixie
+male Nymph
+male Dryad
+male Angel
+male Archangel
+male Seraphim
+male Cherubim
+male Valkyrie
+male Fairy
+male God
+male Godess
+male Banshee
+male Specter
+male Ghost
+male Poltergeist
+male Wraith
+male Shade
+male Shadow
+male Will-o'-the-wisp
+male Lich
+male Necromancer
+male Vampire
+male Werewolf
+male Gorgon
+male Centaur
+male Satyr
+male Faun
+male Nightelf
+male Drow
+male Dunmer
+male Altmer
+male High elf
+male Argonian
+male Bosmer
+male Khajit
+male Orsimer
+male Redguard
+male Dwemer
+male Falmer
+male Atronach
+male Daedra
+male Draugr
+male Fremen
+male Mentat
+male Bene Gesserit
+male Draenei
+male Worgen
+male Pandaren
+male Undead
+male Dracthyr
+male Tauren
+male Bloodelf
+male Voidelf
+male Zandalari
+male Murloc
+male Elemental
+male Dragonkin
+male Valkyrie
+male Frost giant
+male Mannequin
+male doll
+male Garden gnome
+male Golem
+male Automaton
+male Homunculus
+female Elf
+female Dwarf
+female Orc
+female Troll
+female Gnome
+female Goblin
+female Ogre
+female Giant
+female Faerie
+female Hobbit
+female Centaur
+female Minotaur
+female Satyr
+female Mermaid
+female Siren
+female Harpy
+female Sphinx
+female Chimera
+female Dragonborn
+female Tiefling
+female Aasimar
+female Mind Flayer
+female Beholder
+female Gremlin
+female Gorn
+female Jinn
+female Naga
+female Cyclops
+female Cyclopskin
+female Lycanthrope
+female Vampire
+female Zombie
+female Skeleton
+female Mummy
+female Ghost
+female Specter
+female Poltergeist
+female Wraith
+female Elemental
+female Android
+female Cyborg
+female Robot
+female AI
+female Mutant
+female Alien
+female Klingon
+female Vulcan
+female Borg
+female Jedi
+female Android
+female Wookiee
+female Predator
+female Xenomorph
+female Dalek
+female Cyberman
+female Time Lord
+female Martian
+female Replicant
+female Na'vi
+female Cylon
+female Romulan
+female Cardassian
+female Djinn
+female Ifrit
+female Gnome
+female Brownie
+female Pixie
+female Nymph
+female Dryad
+female Angel
+female Archangel
+female Seraphim
+female Cherubim
+female Valkyrie
+female Fairy
+female God
+female Godess
+female Banshee
+female Specter
+female Ghost
+female Poltergeist
+female Wraith
+female Shade
+female Shadow
+female Will-o'-the-wisp
+female Lich
+female Necromancer
+female Vampire
+female Werewolf
+female Gorgon
+female Centaur
+female Satyr
+female Faun
+female Nightelf
+female Drow
+female Dunmer
+female Altmer
+female High elf
+female Argonian
+female Bosmer
+female Khajit
+female Orsimer
+female Redguard
+female Dwemer
+female Falmer
+female Atronach
+female Daedra
+female Draugr
+female Fremen
+female Mentat
+female Bene Gesserit
+female Draenei
+female Worgen
+female Pandaren
+female Undead
+female Dracthyr
+female Tauren
+female Bloodelf
+female Voidelf
+female Zandalari
+female Murloc
+female Elemental
+female Dragonkin
+female Valkyrie
+female Frost giant
+female Mannequin
+female doll
+female Garden gnome
+female Golem
+female Automaton
+female Homunculus
+Alchemy symbols
+Amulet
+Athame
+Black mirror
+Book of shadows
+Broomstick
+Cauldron
+Crystal ball
+Crystal pendulum
+Crystal pyramid
+Crystal wand
+Dagger
+Demonic runes
+Dreamcatcher
+Elemental stones
+Grimoire
+Incense
+Magic cloak
+Magic mirror
+Magic powder
+Magic ring
+Magic staff
+Magic wand
+Oracle cards
+Pendulum
+Pentagram
+Potion bottle
+Ritual knife
+Rune stones
+Runestone
+Scrying bowl
+Shamanic drum
+Skeleton
+Skull
+Skulls
+Spellbook
+Summoning Circle
+Talisman
+Tarot cards
+Voodoo doll
+Wand
+Witch's hat
+Wizard hat

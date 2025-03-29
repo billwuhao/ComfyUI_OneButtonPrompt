@@ -1,0 +1,973 @@
+alizarin colors
+camouflage colors
+chromatic aberration
+cmyk
+color field
+cool colors
+cosmic nebula colors
+cotton candy colors
+dark pastel colors
+dayglo colors
+deep space sparkle colors
+dizzying colors
+flamboyant colors
+floral
+fluorescent colors
+galactic colors
+garish colors
+harlequin colors
+heat wave colors
+heatmap colors
+holographic colors
+inverted colors
+iridescent
+kobi colors
+kobicha colors
+livid colors
+mardi gras colors
+marimekko colors
+mauvelous colors
+metallic sunburst colors
+nacreous colors
+opalescent colors
+outer space colors
+particular color
+pastel dark colors
+pearlescent colors
+prismatic
+psychedelic purple colors
+rainbow colored
+sinopia colors
+sour patch kids colors
+sunray colors
+telemagenta colors
+tropical rainforest colors
+tuscany colors
+vibrant
+vivid
+warm colors
+xanadu colors
+skobeloff colors
+cheetah print colors
+acid green color
+aero blue color
+africviolet color
+alice blue color
+alloy orange color
+almond color
+amaranth deep purple color
+amaranth pink color
+amaranth purple color
+amaranth red color
+amber color
+amethyst color
+android green color
+apple green color
+apricot color
+aqua color
+aquamarine color
+arctic lime color
+army green color
+artichoke green color
+arylide yellow color
+ash gray color
+atomic tangerine color
+aureolin color
+azure color
+baby blue color
+baby pink color
+baker-miller pink color
+barbie pink color
+bdazzled blue color
+beau blue color
+beige color
+big dip o’ruby color
+black color
+bleu de france color
+blizzard blue color
+blond color
+blood red color
+blue color
+blue green color
+blue violet color
+blue-gray color
+blue-green color
+bluetiful color
+bondi blue color
+brick red color
+bright blue color
+bright green color
+bright lilac color
+bright maroon color
+bright navy blue color
+bright orange color
+bright pink color
+bright purple color
+bright yellow color
+brilliant rose color
+brink pink color
+brown color
+brunswick green color
+bud green color
+burlywood color
+burnished brown color
+burnt orange color
+burnt sienna color
+burnt umber color
+cadet blue color
+cadet grey color
+cadmium green color
+cadmium orange color
+cadmium red color
+cadmium yellow color
+cambridge blue color
+cameo pink color
+camouflage green color
+canary yellow color
+candy apple red color
+candy pink color
+caribbegreen color
+carmine color
+cedar chest color
+celadon color
+celadon blue color
+celadon green color
+celtic blue color
+cerise color
+cerulean color
+ceruleblue color
+cg blue color
+cg red color
+champagne pink color
+charcoal color
+charleston green color
+charm pink color
+chartreuse color
+cherry blossom pink color
+chili red color
+chinese red color
+chinese yellow color
+chrome yellow color
+cinnabar color
+cinnamon color
+cobalt blue color
+cocobrown color
+columbiblue color
+congo pink color
+cool blue color
+cool green color
+cool grey color
+cool indigo color
+cool orange color
+cool pink color
+cool red color
+cool violet color
+cool yellow color
+copper patina color
+copper penny color
+copper red color
+copper verdigris color
+coral color
+coral pink color
+cornell red color
+cornflower blue color
+cornsilk color
+cosmic cobalt color
+coyote brown color
+crimson color
+cyan color
+cyber grape color
+cyber yellow color
+dark black color
+dark blue color
+dark blue-gray color
+dark brown color
+dark cornflower blue color
+dark cyan color
+dark drab brown color
+dark electric blue color
+dark goldenrod color
+dark green color
+dark indigo color
+dark jungle green color
+dark khaki color
+dark magenta color
+dark moss green color
+dark olive green color
+dark orange color
+dark pastel green color
+dark pink color
+dark purple color
+dark rainbow color
+dark red color
+dark salmon color
+dark segreen color
+dark sienna color
+dark sky blue color
+dark slate blue color
+dark slate gray color
+dark spring green color
+dark turquoise color
+dark violet color
+dark white color
+dark yellow color
+dartmouth green color
+davys grey color
+dayglo blue color
+dayglo green color
+dayglo orange color
+dayglo pink color
+dayglo purple color
+dayglo yellow color
+deep blue color
+deep cerise color
+deep chestnut color
+deep green color
+deep indigo color
+deep jungle green color
+deep orange color
+deep pink color
+deep purple color
+deep red color
+deep saffron color
+deep sky blue color
+deep taupe color
+deep yellow color
+denim blue color
+desert sand color
+dim gray color
+dodger blue color
+drab color
+duke blue color
+dutch white color
+earth yellow color
+ebony color
+ecru color
+eerie black color
+egyptiblue color
+eigengrau color
+electric blue color
+electric green color
+electric indigo color
+electric lime color
+electric orange color
+electric pink color
+electric purple color
+electric red color
+electric violet color
+electric yellow color
+english green color
+english red color
+eton blue color
+falu red color
+fandango color
+fandango pink color
+fashion fuchsia color
+feldgrau color
+fern green color
+field drab color
+firebrick color
+floral white color
+fluorescent blue color
+fluorescent green color
+fluorescent orange color
+fluorescent pink color
+fluorescent purple color
+fluorescent yellow color
+forest green color
+french beige color
+french blue color
+french mauve color
+french pink color
+french sky blue color
+frostbite color
+fulvous color
+generic viridian color
+ghost white color
+gold fusion color
+golden color
+golden brown color
+golden yellow color
+goldenrod color
+gotham green color
+granite gray color
+gray color
+green color
+green sheen color
+green-blue color
+green-cyan color
+green-yellow color
+grey color
+grim dark color
+gunmetal color
+hansyellow color
+harvest gold color
+hblue color
+heliotrope gray color
+hollywood cerise color
+honolulu blue color
+hookers green color
+hot magenta color
+hot pink color
+hpurple color
+hunter green color
+icterine color
+illuminating emerald color
+imperial red color
+indigo color
+indigreen color
+indired color
+indiyellow color
+international klein blue color
+international orange color
+isabelline color
+italisky blue color
+japanese carmine color
+jet black color
+jungle green color
+kelly green color
+khaki color
+kombu green color
+ksu purple color
+laser lemon color
+laurel green color
+lavender color
+lavender blue color
+lavender blush color
+lavender gray color
+lawn green color
+lemon color
+lemon yellow color
+light blue color
+light coral color
+light cornflower blue color
+light cyan color
+light french beige color
+light goldenrod yellow color
+light gray color
+light green color
+light indigo color
+light orange color
+light periwinkle color
+light pink color
+light red color
+light salmon color
+light segreen color
+light sky blue color
+light slate gray color
+light steel blue color
+light violet color
+light yellow color
+lilac color
+lilac luster color
+lime color
+lime green color
+lincoln green color
+linen color
+liserpurple color
+liver color
+liver chestnut color
+magenta color
+magnolia color
+mahogany color
+majorelle blue color
+maroon color
+mauve color
+mauve taupe color
+maximum blue color
+maximum blue green color
+maximum blue purple color
+maximum green color
+maximum green yellow color
+maximum purple color
+maximum red color
+maximum red purple color
+maximum yellow color
+maximum yellow red color
+may green color
+mayblue color
+medieval parchment color
+medium blue color
+medium candy apple red color
+medium carmine color
+medium purple color
+medium segreen color
+medium slate blue color
+medium spring green color
+medium turquoise color
+medium violet-red color
+mellow apricot color
+mellow yellow color
+metallic gold color
+metallic seaweed color
+mexicpink color
+middle blue color
+middle blue green color
+middle blue purple color
+middle green color
+middle green yellow color
+middle grey color
+middle purple color
+middle red color
+middle red purple color
+middle yellow color
+middle yellow red color
+midnight blue color
+midnight green color
+mikado yellow color
+mimi pink color
+minion yellow color
+mint color
+mint cream color
+mint green color
+misty moss color
+misty rose color
+mode beige color
+morning blue color
+moss green color
+mountbatten pink color
+msu green color
+mulberry color
+myrtle green color
+mystic maroon color
+nadeshiko pink color
+naples yellow color
+navajo green color
+navajo red color
+navajo white color
+navy blue color
+neon blue color
+neon carrot color
+neon fuchsia color
+neon green color
+neon orange color
+neon pink color
+neon purple color
+neon rainbow color
+neon yellow color
+new york pink color
+non-photo blue color
+oceblue color
+ocegreen color
+ochre color
+office green color
+old gold color
+old lavender color
+old mauve color
+old rose color
+old silver color
+olive drab color
+olive green color
+olivine color
+onyx color
+opermauve color
+orange color
+orange-red color
+orange-yellow color
+orchid pink color
+ou crimson red color
+outrageous orange color
+oxblood color
+oxford blue color
+pacific blue color
+pakistgreen color
+palatinate purple color
+pale color
+pale aqua color
+pale blue color
+pale cerulean color
+pale green color
+pale indigo color
+pale orange color
+pale pink color
+pale purple color
+pale red color
+pale silver color
+pale violet color
+pale yellow color
+pantone pink color
+paolo veronese green color
+paradise pink color
+paris green color
+pastel black color
+pastel blue color
+pastel green color
+pastel indigo color
+pastel orange color
+pastel pink color
+pastel rainbow color
+pastel red color
+pastel violet color
+pastel white color
+pastel yellow color
+patina color
+paynes grey color
+peach color
+pearly purple color
+perfect blue color
+periwinkle color
+periwinkle blue color
+persiblue color
+persigreen color
+persiindigo color
+persimmon color
+persiorange color
+persipink color
+persiplum color
+persirose color
+pewter blue color
+phthalo blue color
+phthalo green color
+picotee blue color
+pictorial carmine color
+piggy pink color
+pine green color
+pink color
+pitch black color
+plum color
+plump purple color
+poison pink color
+portland orange color
+powder blue color
+princeton orange color
+process yellow color
+prussiblue color
+puce color
+pumpkin orange color
+purple color
+purple navy color
+purple pizzazz color
+purple plum color
+purpureus color
+quartz gray color
+queen blue color
+queen pink color
+quick silver color
+quinacridone magenta color
+radical red color
+raisin black color
+raspberry color
+raspberry rose color
+raw sienna color
+raw umber color
+razzmic berry color
+rebeccpurple color
+red color
+red brick color
+red salsa color
+red-orange color
+red-purple color
+red-violet color
+redwood color
+resolution blue color
+rich black color
+rifle green color
+robin egg blue color
+rocket metallic blue color
+rojo spanish red color
+romsilver color
+rose color
+rose bonbon color
+rose dust color
+rose ebony color
+rose gold color
+rose madder color
+rose pink color
+rose pompadour color
+rose red color
+rose taupe color
+rose vale color
+rosewood color
+rosso corsa red color
+rosy brown color
+royal blue color
+royal purple color
+royal yellow color
+rubine red color
+ruby red color
+rufous color
+russet color
+russigreen color
+russiviolet color
+rust color
+rusty red color
+sacramento state green color
+saddle brown color
+safety orange color
+safety yellow color
+saffron color
+salmon pink color
+sand color
+sand dune color
+sandy brown color
+sangria color
+sap green color
+sapphire blue color
+satin sheen gold color
+scarlet color
+schauss pink color
+screamin green color
+seal brown color
+segreen color
+sepia color
+shadow blue color
+shamrock green color
+sheen green color
+shimmering blush color
+shocking pink color
+shou sugi ban color
+sienna color
+silver pink color
+silver sand color
+sizzling red color
+sizzling sunrise color
+sky blue color
+sky magenta color
+slate blue color
+slate gray color
+slate grey color
+slimy green color
+smoky black color
+solid pink color
+sonic silver color
+spanish blue color
+spanish carmine color
+spanish gray color
+spanish green color
+spanish orange color
+spanish pink color
+spanish red color
+spanish sky blue color
+spanish violet color
+spanish viridian color
+spring green color
+st. patricks blue color
+steel blue color
+steel pink color
+steel teal color
+stil de grain yellow color
+sugar plum color
+sunglow color
+super pink color
+sweet brown color
+syracuse orange color
+tan color
+tangerine color
+tango pink color
+tart orange color
+taupe color
+taupe gray color
+tawny color
+teal color
+teal blue color
+tegreen color
+terose color
+thulipink color
+tickle me pink color
+tiffany blue color
+titanium white color
+titanium yellow color
+tomato red color
+true blue color
+trypblue color
+tufts blue color
+tumbleweed color
+turquoise blue color
+turquoise green color
+turtle green color
+tuscbrown color
+tuscred color
+twilight lavender color
+tyripurple color
+ublue color
+ultramarine color
+ultramarine blue color
+ultraviolet color
+ultrpink color
+umber color
+unbleached silk color
+united nations blue color
+unmellow yellow color
+up forest green color
+up maroon color
+upsdell red color
+uraniblue color
+vanilla color
+vantablack color
+vdyke brown color
+vegas gold color
+verdigris color
+vermilion color
+violet color
+violet-blue color
+violet-red color
+viridian color
+viridigreen color
+vivid burgundy color
+vivid sky blue color
+vivid tangerine color
+vivid violet color
+volt color
+warm black color
+warm blue color
+warm green color
+warm indigo color
+warm orange color
+warm pink color
+warm red color
+warm violet color
+warm yellow color
+weezy blue color
+white color
+wild blue yonder color
+windsor tan color
+wood brown color
+yale blue color
+yellow color
+yellow orange color
+yellow sunshine color
+yellow-green color
+yinmn blue color
+high color contrast
+spring
+autumn
+summer
+winter
+borealis
+Blue and Yellow
+Green and Brown
+Pink and Gray
+Purple and Silver
+Red and White
+Orange and Blue
+Teal and Coral
+Teal and Orange
+Navy and Gold
+Lavender and Mint
+Charcoal and Rose
+Maroon and Cream
+Turquoise and Brown
+Olive and Rust
+Indigo and Peach
+Slate Gray and Lemon Yellow
+Cobalt Blue and Beige
+Forest Green and Tan
+Eggplant and Sage
+Burgundy and Blush
+Navy and Coral
+Mauve and Navy
+Mustard Yellow and Charcoal
+Aqua and Coral
+Mint and Lavender
+Royal Blue and Silver
+Turquoise and Coral
+Lilac and Sage
+Sky Blue and Peach
+Beige and Mint
+Charcoal and Teal
+Olive Green and Gold
+Chocolate Brown and Cream
+Plum and Mustard
+Navy Blue and Olive
+Blush Pink and Navy
+Emerald Green and Silver
+Coral and Gray
+Indigo and Gold
+Ruby Red and Ivory
+Lavender and Silver
+Mauve and Sage
+Denim Blue and Tangerine
+Forest Green and Copper
+Maroon and Turquoise
+Teal and Berry
+Peach and Gray
+Mint and Coral
+Terracotta and Beige
+Burgundy and Forest Green
+Lavender and Gold
+Cobalt Blue and Chartreuse
+Mustard Yellow and Navy
+Rose Pink and Charcoal
+Turquoise and Lemon
+Aqua and Coral
+Teal and Plum
+Olive Green and Rust
+Navy Blue and Blush Pink
+Eggplant and Olive
+Sky Blue and Lavender
+Charcoal and Ruby Red
+Copper and Teal
+Indigo and Coral
+Mint and Lilac
+Taupe and Dusty Rose
+Mustard Yellow and Slate Gray
+Cobalt Blue and Mint
+Beige and Navy
+Silver and Lavender
+Maroon and Mustard
+Black and Red
+Black and Gold
+Black and Silver
+Black and Yellow
+Black and Teal
+Black and Pink
+Black and Green
+Black and Purple
+Black and Navy Blue
+Black and Ruby Red
+Black and Turquoise
+Black and Lavender
+Black and Lemon Yellow
+Black and Mint
+Black and Charcoal Gray
+Black and Beige
+Black and Maroon
+Black and Mustard Yellow
+Black and Blush Pink
+White and Gold
+White and Silver
+White and Navy Blue
+White and Turquoise
+White and Coral
+White and Pink
+White and Mint Green
+White and Charcoal Gray
+White and Lavender
+White and Beige
+White and Sky Blue
+White and Lemon Yellow
+White and Forest Green
+White and Lilac
+White and Peach
+White and Chocolate Brown
+White and Ruby Red
+White and Teal
+White and Mustard Yellow
+White and Aqua Blue
+White and Charcoal Black
+White and Maroon
+White and Burgundy
+White and Indigo
+White and Olive Green
+White and Slate Gray
+White and Rose Pink
+White and Turquoise
+White and Sunflower Yellow
+White and Cobalt Blue
+Matte Black and Glossy Black
+Blue, Green and Aqua
+Pink, Purple and Lavender
+Red, Gold and Cream
+Teal, Coral and Beige
+Navy, White and Orange
+Burgundy, Olive and Tan
+Maroon, Mustard and Charcoal
+Turquoise, Silver and Gray
+Violet, Magenta and Indigo
+Lemon Yellow, Sky Blue and Mint Green
+Forest Green, Earthy Brown and Cream
+Lavender, Lilac and Periwinkle
+Cobalt Blue, Electric Green and Neon Yellow
+Coral, Peach and Sand
+Scarlet, Emerald Green and Gold
+Midnight Blue, Silver and White
+Plum, Silver and Slate
+Raspberry, Coral and Peach
+Lavender, Pale Pink and Gray
+Teal, Brown and Beige
+Ruby Red, Beige and Olive
+Royal Blue, White and Red
+Mint Green, Lemon Yellow and Peach
+Indigo, Turquoise and Silver
+Fuchsia, Lime Green and Gold
+Charcoal, Lavender and Blush
+Tangerine, Mint Green and Lemon Yellow
+Dark Teal, Sand and Coral
+Azure Blue, Silver and Cream
+Mauve, Sage Green and Cream
+Marigold, Teal and Beige
+Coral, Baby Blue and Gray
+Cranberry, Olive and Mustard
+Cobalt Blue, Bright Red and Canary Yellow
+Dusty Rose, Steel Gray and Mint
+Deep Purple, Teal and Bronze
+Scarlet, Lavender and Silver
+Mint Green, Salmon and Lemon Yellow
+Royal Blue, Emerald Green and Gold
+Aubergine, Copper and Cream
+Blush Pink, Pale Gray and Mint
+Burnt Sienna, Olive Green and Stone Gray
+Steel Blue, Sand and Coral
+Teal, Cobalt Blue and Light Gray
+Burgundy, Platinum and Dusty Rose
+Tangerine, Lemon Yellow and Turquoise
+Fuchsia, Coral and Gold
+Orchid, Charcoal Gray and Cream
+Lavender, Pale Blue and Silver
+Muted Jade, Terracotta and Beige
+Colorful and Vibrant
+Colorless and Neutral
+Iridescent and Gold
+Pearlescent and Black
+Vivid and Neon
+Rainbow and Psychedelic
+Gradient and Colorful
+Neutral and Colorless
+Neon and Rainbow
+Psychedelic and Vivid
+Iridescent and Silver
+Pearlescent and White
+Agfacolor
+BW
+Cathode tube
+CineColor
+CMYK Colors
+Cold Colors
+Colorful
+Colorless
+Dark hue
+Desaturated
+Dichromatic
+Electic Colors
+Fujifilm Superia
+Fujicolor
+Instax
+Grayscale
+High Contrast
+Hypersaturated
+Infrared
+Kinemacolor
+Kodachrome
+Kodak Ektar
+Kodak portra
+Low Contrast
+Mono Color
+Muted Colors
+Offset print
+One Color
+Oversaturated
+Pastel Colors
+Polychromatic
+Primary Colors
+Provia
+Saturated
+Single Color
+Technicolor
+Velvia
+Sepia filter
+Vibrant Color
+Vivid Colors
+Warm Colors
+Autochrome
+Ambrotype
+Albumen
+Calotype
+Lomography
+Ektachrome
+Cinestill
+Film Washi
+Film grain
+Monochromatic -color- filter
+Monochrome
+Amaro
+Vivid colors
