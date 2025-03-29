@@ -1,7 +1,7 @@
 [中文](README-CN.md) | [English](README.md)
 
 ![One Button Prompt for Flux in ComfyUI](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/example.png)
-![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_20-00-01.png.png)
+![](https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux/blob/master/images/2025-02-19_20-00-01.png)
 
 ---
 
