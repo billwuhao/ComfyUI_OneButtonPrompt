@@ -1,11 +1,11 @@
 [project]
 name = "onebuttonprompt-mw"
-description = "A node that assists in one click generation of prompts (for image and video generation, etc.) in Comfyui. 一个在 comfyui 中一键辅助生成提示 (用于图像和视频生成等) 的节点."
+description = "A node that assists in one click generation of prompts (for image and video generation, etc.) in Comfyui."
 version = "1.0.0"
 license = {file = "LICENSE"}
 
 [project.urls]
-Repository = "https://github.com/billwuhao/ComfyUI_OneButtonPrompt_Flux"
+Repository = "https://github.com/billwuhao/ComfyUI_OneButtonPrompt"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
