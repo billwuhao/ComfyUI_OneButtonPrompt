@@ -1,7 +1,7 @@
 [project]
 name = "onebuttonprompt-mw"
 description = "A node that assists in one click generation of prompts (for image and video generation, etc.) in Comfyui."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 
 [project.urls]
@@ -11,4 +11,4 @@ Repository = "https://github.com/billwuhao/ComfyUI_OneButtonPrompt"
 [tool.comfy]
 PublisherId = "mw"
 DisplayName = "MW-ComfyUI_OneButtonPrompt"
-Icon = "https://github.com/billwuhao/aiart.website/blob/master/hb.png"
+Icon = ""

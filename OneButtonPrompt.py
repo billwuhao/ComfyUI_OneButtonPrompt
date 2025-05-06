@@ -129,11 +129,6 @@ def pil2tensor(img):
     return (output_image, output_mask)
 
 
-PROMPTS = None
-IMAGES =  None
-IMAGES_PROMPTS = None
-
-
 class LoadPrompt:
     txt_list = find_files_by_type(prompts_file_path, ".txt")
     @classmethod
@@ -147,7 +142,7 @@ class LoadPrompt:
                 "txt_5": (cls.txt_list + ["None"],),
                 },
             "optional": {
-                "refresh": ("BOOLEAN", {"default": False}),
+                # "refresh": ("BOOLEAN", {"default": False}),
                 "seed": ("INT", {"default": 0, "min": 0, "max": 0xFFFFFFFFFFFFFFFF}),
             },
         }
@@ -165,33 +160,28 @@ class LoadPrompt:
             txt_3: str, 
             txt_4: str, 
             txt_5: str,
-            refresh: bool = False,
+            # refresh: bool = False,
             seed: int = 0
             ):
         
         if seed != 0:
             random.seed(seed)
         
-        global PROMPTS
-        if refresh:
-            PROMPTS = None
-        
-        if PROMPTS is None:
-            PROMPTS = []
-            prompt1 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_1))
-            PROMPTS.append(prompt1)
-            if txt_2 != "None":
-                prompt2 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_2))
-                PROMPTS.append(prompt2)
-            if txt_3 != "None":
-                prompt3 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_3))
-                PROMPTS.append(prompt3)
-            if txt_4 != "None":
-                prompt4 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_4))
-                PROMPTS.append(prompt4)
-            if txt_5 != "None":
-                prompt5 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_5))
-                PROMPTS.append(prompt5)
+        PROMPTS = []
+        prompt1 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_1))
+        PROMPTS.append(prompt1)
+        if txt_2 != "None":
+            prompt2 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_2))
+            PROMPTS.append(prompt2)
+        if txt_3 != "None":
+            prompt3 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_3))
+            PROMPTS.append(prompt3)
+        if txt_4 != "None":
+            prompt4 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_4))
+            PROMPTS.append(prompt4)
+        if txt_5 != "None":
+            prompt5 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_5))
+            PROMPTS.append(prompt5)
 
         np_data = np.array(PROMPTS, dtype=object)
         lengths = np.array([len(sublist) for sublist in np_data])
@@ -203,6 +193,11 @@ class LoadPrompt:
 
 class LoadImageFromURL:
     md_list = find_files_by_type(imgs_file_path, ".md")
+    def __init__(self):
+        self.images = set()
+        self.md_1 = None
+        self.md_2 = None
+
     @classmethod
     def INPUT_TYPES(cls):
         return {
@@ -211,13 +206,13 @@ class LoadImageFromURL:
                 "md_2": (cls.md_list + ["None"],),
                 },
             "optional": {
+                "in_order": ("BOOLEAN", {"default": False}),
                 "load_time": ("FLOAT", {"default": 2, "min": 0.0, "max": 10, "step": 0.5}),
-                "refresh": ("BOOLEAN", {"default": False}),
+                # "refresh": ("BOOLEAN", {"default": False}),
                 "proxy": ("STRING", {"default": "http://127.0.0.1:None"}),
                 "seed": ("INT", {"default": 0, "min": 0, "max": 0xFFFFFFFFFFFFFFFF}),
             },
         }
-
 
     CATEGORY = "🎤MW/MW-OneButtonPrompt"
     RETURN_TYPES = ("IMAGE", "STRING",)
@@ -228,30 +223,39 @@ class LoadImageFromURL:
             self, 
             md_1: str, 
             md_2: str, 
+            in_order: bool = False,
             load_time: float = 2,
-            refresh: bool = False,
+            # refresh: bool = False,
             proxy: str = "http://127.0.0.1:None",
             seed: int = 0
             ):
         
         if seed != 0:
             random.seed(seed)
-        
-        global IMAGES
-        if refresh:
-            IMAGES = None
-        
-        if IMAGES is None:
-            IMAGES = []
+
+        if self.md_1 is None:
+            self.md_1 = md_1
+
+        if self.md_2 is None:
+            self.md_2 = md_2
+
+        if self.images == set() or self.md_1 != md_1 or self.md_2 != md_2:
+            self.md_1 = md_1
+            self.md_2 = md_2
+            self.images = set()
             imgurl1 = get_imageurls_from_mdfile(os.path.join(imgs_file_path, md_1))
-            IMAGES.extend(imgurl1)
-            if md_2 != "None":
-                imgurl2 = get_imageurls_from_mdfile(os.path.join(imgs_file_path, md_2))
-                IMAGES.extend(imgurl2)
-                if len(IMAGES) == 0:
-                    raise ValueError("No image URL found.")
-        
-        imgurl = random.choice(IMAGES)
+            imgurl2 = get_imageurls_from_mdfile(os.path.join(imgs_file_path, md_2)) if md_2 != "None" else []
+            self.images = set(imgurl1 + imgurl2)
+
+        if len(self.images) == 0:
+            raise ValueError("No image URL found.")
+
+        if in_order:
+            imgurl = self.images.pop()
+            print(f"---------\n{len(self.images)}") 
+        else:
+            imgurl = random.choice(list(self.images))
+
         if proxy.strip() in ["http://127.0.0.1:None", ""]:
             proxy = None
         else:
@@ -268,9 +272,13 @@ class LoadImageFromURL:
         return (img, imgurl)
 
 
-
 class LoadImageAndPromptFromURL:
     json_list = find_files_by_type(imgs_prompts_path, ".json")
+    def __init__(self):
+        self.images_prompts = {}
+        self.json_1 = None
+        self.json_2 = None
+
     @classmethod
     def INPUT_TYPES(cls):
         return {
@@ -279,8 +287,9 @@ class LoadImageAndPromptFromURL:
                 "json_2": (cls.json_list + ["None"],),
                 },
             "optional": {
+                "in_order": ("BOOLEAN", {"default": False}),
                 "load_time": ("FLOAT", {"default": 2, "min": 0.0, "max": 10, "step": 0.5}),
-                "refresh": ("BOOLEAN", {"default": False}),
+                # "refresh": ("BOOLEAN", {"default": False}),
                 "proxy": ("STRING", {"default": "http://127.0.0.1:None"}),
                 "on_search": ("BOOLEAN", {"default": False}),
                 "search_for": ("STRING", {"default": "cat"}),
@@ -298,8 +307,9 @@ class LoadImageAndPromptFromURL:
             self, 
             json_1: str, 
             json_2: str, 
+            in_order: bool = False,
             load_time: float = 2,
-            refresh: bool = False,
+            # refresh: bool = False,
             proxy: str = "http://127.0.0.1:None",
             on_search: bool = False,
             search_for: str = "cat",
@@ -309,31 +319,37 @@ class LoadImageAndPromptFromURL:
         if seed != 0:
             random.seed(seed)
         
-        global IMAGES_PROMPTS
-        if refresh:
-            IMAGES_PROMPTS = None
-        
-        if IMAGES_PROMPTS is None:
-            IMAGES_PROMPTS = {}
+        if self.json_1 is None:
+            self.json_1 = json_1
+
+        if self.json_2 is None:
+            self.json_2 = json_2
+
+        if self.images_prompts == {} or self.json_1 != json_1 or self.json_2 != json_2:
+            self.json_1 = json_1
+            self.json_2 = json_2
             imgs_prompts1 = get_imageurls_prompts_from_jsonfile(os.path.join(imgs_prompts_path, json_1))
-            IMAGES_PROMPTS.update(imgs_prompts1)
-            if json_2 != "None":
-                imgs_prompts2 = get_imageurls_prompts_from_jsonfile(os.path.join(imgs_prompts_path, json_2))
-                IMAGES_PROMPTS.update(imgs_prompts2)
-            if len(IMAGES_PROMPTS) == 0:
-                raise ValueError("There is no content in the JSON file.")
-            
+            imgs_prompts2 = get_imageurls_prompts_from_jsonfile(os.path.join(imgs_prompts_path, json_2)) if json_2 != "None" else {}
+            self.images_prompts = {}
+            self.images_prompts.update(imgs_prompts1)
+            self.images_prompts.update(imgs_prompts2)
+
+        if len(self.images_prompts) == 0:
+            raise ValueError("No image URL found.")
+
         if on_search:
             word = search_for.strip()
-            search_imgs_prompts = search_word_from_prompts(IMAGES_PROMPTS, word)
-            if len(search_imgs_prompts) == 0:
+            self.images_prompts = search_word_from_prompts(self.images_prompts, word)
+            if len(self.images_prompts) == 0:
                 raise ValueError("No prompt found with the search word.")
-            else:
-                imgurl = random.choice(list(search_imgs_prompts.keys()))
-                prompt = search_imgs_prompts[imgurl][1]
+
+        if in_order:
+            imgurl, info = self.images_prompts.popitem()
+            prompt = info[1]
+            print(f"---------\n{len(self.images_prompts)}")
         else:
-            imgurl = random.choice(list(IMAGES_PROMPTS.keys()))
-            prompt = IMAGES_PROMPTS[imgurl][1]
+            imgurl = random.choice(list(self.images_prompts.keys()))
+            prompt = self.images_prompts[imgurl][1]
 
         if proxy.strip() in ["http://127.0.0.1:None", ""]:
             proxy = None
@@ -350,7 +366,6 @@ class LoadImageAndPromptFromURL:
 
         return (img, prompt, imgurl)
     
-
 
 NODE_CLASS_MAPPINGS = {
     "LoadPrompt": LoadPrompt,
