@@ -384,7 +384,7 @@ class StringEditNodeOBP:
     RETURN_TYPES = ("STRING", "STRING", "STRING", "STRING", "STRING")
     RETURN_NAMES = ("text", "split_1", "split_2", "edited_text", "merged_text")
     FUNCTION = "edit_text"
-    CATEGORY = "🎤MW/MW-Audio-Tools" 
+    CATEGORY = "🎤MW/MW-OneButtonPrompt" 
     OUTPUT_NODE = False
 
     def edit_text(self, text, split_tag="", paste_edit_text="", form_right=False):
@@ -399,8 +399,14 @@ class StringEditNodeOBP:
                 parts = text.split(split_tag, 1)
                 str_2, str_3 = parts[0].strip(), parts[1].strip()
 
-        return (str_1, str_2, str_3, str_4, str_5)       
-    
+        return (str_1, str_2, str_3, str_4, str_5)      
+
+    @classmethod
+    def IS_CHANGED(cls, text, **kwargs):
+        import hashlib
+        m = hashlib.sha256()
+        m.update(text.encode('utf-8'))
+        return m.digest().hex()
 
 NODE_CLASS_MAPPINGS = {
     "LoadPrompt": LoadPrompt,
