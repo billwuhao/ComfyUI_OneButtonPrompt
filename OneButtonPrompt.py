@@ -401,13 +401,6 @@ class StringEditNodeOBP:
 
         return (str_1, str_2, str_3, str_4, str_5)      
 
-    @classmethod
-    def IS_CHANGED(cls, text, **kwargs):
-        import hashlib
-        m = hashlib.sha256()
-        m.update(text.encode('utf-8'))
-        return m.digest().hex()
-
 NODE_CLASS_MAPPINGS = {
     "LoadPrompt": LoadPrompt,
     "LoadImageFromURL": LoadImageFromURL,
