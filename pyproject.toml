@@ -1,7 +1,7 @@
 [project]
 name = "onebuttonprompt-mw"
 description = "A node that assists in one click generation of prompts (for image and video generation, etc.) in Comfyui."
-version = "1.0.1"
+version = "1.0.2"
 license = {file = "LICENSE"}
 
 [project.urls]

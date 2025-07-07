@@ -365,16 +365,53 @@ class LoadImageAndPromptFromURL:
         img, _ = pil2tensor(img)
 
         return (img, prompt, imgurl)
+
+
+class StringEditNodeOBP:
+    @classmethod
+    def INPUT_TYPES(cls):
+        return {
+            "required": {
+                "text": ("STRING", {"forceInput": True}), 
+             },
+            "optional": {
+                "paste_edit_text": ("STRING", {"multiline": True, "default": "",}),
+                "split_tag": ("STRING", {"default": "",}),
+                "form_right": ("BOOLEAN", {"default": False}),
+             },
+        }
+
+    RETURN_TYPES = ("STRING", "STRING", "STRING", "STRING", "STRING")
+    RETURN_NAMES = ("text", "split_1", "split_2", "edited_text", "merged_text")
+    FUNCTION = "edit_text"
+    CATEGORY = "🎤MW/MW-Audio-Tools" 
+    OUTPUT_NODE = False
+
+    def edit_text(self, text, split_tag="", paste_edit_text="", form_right=False):
+        str_1, str_2, str_3, str_4, str_5 = text, "", "", paste_edit_text, ""
+        str_5 = text + paste_edit_text
+        
+        if split_tag != "" and text.find(split_tag) > 0:
+            if form_right:
+                parts = text.rsplit(split_tag, 1)
+                str_2, str_3 = parts[0].strip(), parts[1].strip()
+            else:
+                parts = text.split(split_tag, 1)
+                str_2, str_3 = parts[0].strip(), parts[1].strip()
+
+        return (str_1, str_2, str_3, str_4, str_5)       
     
 
 NODE_CLASS_MAPPINGS = {
     "LoadPrompt": LoadPrompt,
     "LoadImageFromURL": LoadImageFromURL,
     "LoadImageAndPromptFromURL": LoadImageAndPromptFromURL,
+    "StringEditNodeOBP": StringEditNodeOBP,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     "LoadPrompt": "Load Prompt",
     "LoadImageFromURL": "Load Image From URL",
     "LoadImageAndPromptFromURL": "Load Image And Prompt From URL",
+    "StringEditNodeOBP": "String Edit"
 }
