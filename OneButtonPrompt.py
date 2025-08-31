@@ -23,7 +23,7 @@ def get_prompts_from_txtfile(txtfile: str):
             return processed_lines
         else:
             return [""]
-        
+
 
 def get_imageurls_from_mdfile(mdfile: str):
     with open(mdfile, 'r', encoding='utf-8') as file:
@@ -33,7 +33,7 @@ def get_imageurls_from_mdfile(mdfile: str):
             return processed_lines
         else:
             return []
-        
+
 
 def get_imageurls_prompts_from_jsonfile(jsonfile: str):
     with open(jsonfile, 'r', encoding='utf-8') as file:
@@ -48,13 +48,13 @@ def find_exact_word(text, word):
 def search_word_from_prompts(data: dict, word: str):
     processed_data = {}
     keys = list(data.keys())
-    string_values = [data[key][1] for key in keys] 
+    string_values = [data[key][1] for key in keys]
 
     arr = np.array(string_values)
     vectorized_find = np.vectorize(find_exact_word)
     mask = vectorized_find(arr, word)
     processed_data = {keys[i]: data[keys[i]] for i in range(len(keys)) if mask[i]}
-    
+
     return processed_data
 
 
@@ -99,7 +99,7 @@ def get_image_data_from_url(url, load_time, proxies=None):
     except requests.exceptions.RequestException as e:
         print(f"Error fetching URL: {url}. Error: {e}")
         return None  # Error during request
-    
+
 
 def pil2tensor(img):
     output_images = []
@@ -152,21 +152,21 @@ class LoadPrompt:
     RETURN_TYPES = ("STRING",)
     RETURN_NAMES = ("prompt",)
     FUNCTION = "loadprompt"
-    
+
     def loadprompt(
-            self, 
-            txt_1: str, 
-            txt_2: str, 
-            txt_3: str, 
-            txt_4: str, 
+            self,
+            txt_1: str,
+            txt_2: str,
+            txt_3: str,
+            txt_4: str,
             txt_5: str,
             # refresh: bool = False,
             seed: int = 0
             ):
-        
+
         if seed != 0:
             random.seed(seed)
-        
+
         PROMPTS = []
         prompt1 = get_prompts_from_txtfile(os.path.join(prompts_file_path, txt_1))
         PROMPTS.append(prompt1)
@@ -218,18 +218,18 @@ class LoadImageFromURL:
     RETURN_TYPES = ("IMAGE", "STRING",)
     RETURN_NAMES = ("Image", "Imgurl",)
     FUNCTION = "loadimage"
-    
+
     def loadimage(
-            self, 
-            md_1: str, 
-            md_2: str, 
+            self,
+            md_1: str,
+            md_2: str,
             in_order: bool = False,
             load_time: float = 2,
             # refresh: bool = False,
             proxy: str = "http://127.0.0.1:None",
             seed: int = 0
             ):
-        
+
         if seed != 0:
             random.seed(seed)
 
@@ -252,12 +252,12 @@ class LoadImageFromURL:
 
         if in_order:
             imgurl = self.images.pop()
-            print(f"---------\n{len(self.images)}") 
+            print(f"---------\n{len(self.images)}")
         else:
             imgurl = random.choice(list(self.images))
 
         if proxy.strip() in ["http://127.0.0.1:None", ""]:
-            proxy = None
+            proxies = None
         else:
             proxies = {
                 "http": proxy,
@@ -302,11 +302,11 @@ class LoadImageAndPromptFromURL:
     RETURN_TYPES = ("IMAGE", "STRING", "STRING",)
     RETURN_NAMES = ("Image", "Prompt", "Imgurl",)
     FUNCTION = "loadimageprompt"
-    
+
     def loadimageprompt(
-            self, 
-            json_1: str, 
-            json_2: str, 
+            self,
+            json_1: str,
+            json_2: str,
             in_order: bool = False,
             load_time: float = 2,
             # refresh: bool = False,
@@ -315,10 +315,10 @@ class LoadImageAndPromptFromURL:
             search_for: str = "cat",
             seed: int = 0
             ):
-        
+
         if seed != 0:
             random.seed(seed)
-        
+
         if self.json_1 is None:
             self.json_1 = json_1
 
@@ -352,7 +352,7 @@ class LoadImageAndPromptFromURL:
             prompt = self.images_prompts[imgurl][1]
 
         if proxy.strip() in ["http://127.0.0.1:None", ""]:
-            proxy = None
+            proxies = None
         else:
             proxies = {
                 "http": proxy,
@@ -372,7 +372,7 @@ class StringEditNodeOBP:
     def INPUT_TYPES(cls):
         return {
             "required": {
-                "text": ("STRING", {"forceInput": True}), 
+                "text": ("STRING", {"forceInput": True}),
              },
             "optional": {
                 "paste_edit_text": ("STRING", {"multiline": True, "default": "",}),
@@ -384,13 +384,13 @@ class StringEditNodeOBP:
     RETURN_TYPES = ("STRING", "STRING", "STRING", "STRING", "STRING")
     RETURN_NAMES = ("text", "split_1", "split_2", "edited_text", "merged_text")
     FUNCTION = "edit_text"
-    CATEGORY = "🎤MW/MW-OneButtonPrompt" 
+    CATEGORY = "🎤MW/MW-OneButtonPrompt"
     OUTPUT_NODE = False
 
     def edit_text(self, text, split_tag="", paste_edit_text="", form_right=False):
         str_1, str_2, str_3, str_4, str_5 = text, "", "", paste_edit_text, ""
         str_5 = text + paste_edit_text
-        
+
         if split_tag != "" and text.find(split_tag) > 0:
             if form_right:
                 parts = text.rsplit(split_tag, 1)
@@ -399,7 +399,7 @@ class StringEditNodeOBP:
                 parts = text.split(split_tag, 1)
                 str_2, str_3 = parts[0].strip(), parts[1].strip()
 
-        return (str_1, str_2, str_3, str_4, str_5)      
+        return (str_1, str_2, str_3, str_4, str_5)
 
 NODE_CLASS_MAPPINGS = {
     "LoadPrompt": LoadPrompt,
